@@ -47,6 +47,7 @@ The Universal Open progressed through the open qualifier stages over the past se
 * [Hurricane releases arena skins](https://twitter.com/Hurricane_RL/status/1010637516398088192)
 * [Miztik joins tonight's Discussions with Dazerin](https://twitter.com/iDazerin/status/1010599553278541824)
 * [Northern Arena talent announced](https://twitter.com/NorthernArena/status/1011321548681162752)
+* [Patch v1.48 released](https://www.reddit.com/r/RocketLeague/comments/8uaudl/rocket_league_v148_patch_notes_and_known_issues/)
 * [Universal Open talent announced](https://twitter.com/NBCSportsPR/status/1009845888200663044)
 
 ### Shows
