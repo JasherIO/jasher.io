@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'This Week in Rocket League: 06.20.18-06.26.18'
-description: 'Universal Open qualifiers continue through July. '
+description: Universal Open qualifiers continue through July.
 date: '2018-06-27T09:17:59-05:00'
 tags:
   - TWIRL
