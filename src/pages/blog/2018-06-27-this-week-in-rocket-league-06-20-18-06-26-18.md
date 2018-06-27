@@ -42,6 +42,7 @@ https://universalopen.gg/phases/east-closed-qualifier/
 ### Shows
 
 * [LFMannfield: The Rlcs Season V Experience Ft. Interviews with G2, Nrg, Dignitas and More!](http://www.lfmannfield.com/episodes/2018/6/20/the-rlcs-season-v-experience-ft-interviews-with-g2-nrg-dignitas-and-more)
+* [RLCS Season 5 Aftermovie](https://youtu.be/Sk1acjEaMB4)
 
 ---
 
