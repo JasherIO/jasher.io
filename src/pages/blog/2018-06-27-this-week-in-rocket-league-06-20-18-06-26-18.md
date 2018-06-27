@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'This Week in Rocket League: 06.20.18-06.26.18'
-description: Universal Open qualifiers continue through July.
+description: Universal Open qualifiers continue through July. TexasRL hosts GigaLAN.
 date: '2018-06-27T09:17:59-05:00'
 tags:
   - TWIRL
@@ -10,13 +10,23 @@ tags:
 ---
 # Universal Open Continues
 
-https://universalopen.gg/phases/east-closed-qualifier/
+The Universal Open progressed through the open qualifier stages over the past several weeks. Now, teams are playing through the online [closed qualifier stages](https://universalopen.gg/phases/east-closed-qualifier/). Advancing teams in North America move onto offline regional qualifiers in July. The top regional teams advance to the finals in Connecticut in August. 
 
----
+- - -
 
-### Leagues
+### TexasRL hosts GigaLAN
 
----
+[GigaLAN](https://smash.gg/tournament/gigalan-at-google-fiber-space/details) is a unique event in the Rocket League community. Sponsored by Google, it features a tournament, casted by [Dazerin](https://twitter.com/iDazerin) and [Vodible](https://twitter.com/Vodible), and streams from community personalities in the region: [Athena](https://twitter.com/TexasRL/status/1011288743230124034), [PhantomAce](https://twitter.com/TexasRL/status/1011724802028199936), [Rizzo](https://twitter.com/TexasRL/status/1011366444658020352). The doors open to the public at 1PM local time on Saturday at the [Google Fiber Space](https://fiber.google.com/cities/austin/fiberspace/) in Austin, Texas. 
+
+### Regional Leagues
+
+| Region | League            | Progress | Liquipedia                                                                                   | Octane                                                                    |
+| ------ | ----------------- | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ASC    | Asia Pro League   | Week 7   | [Link](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2/League_Play) | [Link](https://octane.gg/event/asia-pro-league-season-two)                |
+| OCE    | Gfinity Australia | Week 5   | [Link](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1)          | [Link](https://octane.gg/event/gfinity-australia-elite-series-season-one) |
+| SAM    | SAM Championship  | Week 5   | [Link](https://liquipedia.net/rocketleague/SAM_Championship/Season_1/League_Play)            | [Link](https://octane.gg/event/sam-championship-season-one)               |
+
+- - -
 
 ### Articles
 
@@ -37,15 +47,16 @@ https://universalopen.gg/phases/east-closed-qualifier/
 * [Hurricane releases arena skins](https://twitter.com/Hurricane_RL/status/1010637516398088192)
 * [Miztik joins tonight's Discussions with Dazerin](https://twitter.com/iDazerin/status/1010599553278541824)
 * [Northern Arena talent announced](https://twitter.com/NorthernArena/status/1011321548681162752)
+* [Patch v1.48 released](https://www.reddit.com/r/RocketLeague/comments/8uaudl/rocket_league_v148_patch_notes_and_known_issues/)
 * [Universal Open talent announced](https://twitter.com/NBCSportsPR/status/1009845888200663044)
 
 ### Shows
 
 * [LFMannfield: The Rlcs Season V Experience Ft. Interviews with G2, Nrg, Dignitas and More!](http://www.lfmannfield.com/episodes/2018/6/20/the-rlcs-season-v-experience-ft-interviews-with-g2-nrg-dignitas-and-more)
+* [RLCS Season 5 Aftermovie](https://youtu.be/Sk1acjEaMB4)
 
----
+- - -
 
 Check out /r/RocketLeagueEsports' curated [resources list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for a bevy of information on the Rocket League competitive scene.
 
-For the latest updates on *This Week in Rocket League*, follow [@JasherIO](https://twitter.com/JasherIO)! 
-
+For the latest updates on _This Week in Rocket League_, follow [@JasherIO](https://twitter.com/JasherIO)!
