@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'This Week in Rocket League: 06.20.18-06.26.18'
-description: Universal Open qualifiers continue through July.
+description: Universal Open qualifiers continue through July. TexasRL hosts GigaLAN.
 date: '2018-06-27T09:17:59-05:00'
 tags:
   - TWIRL
@@ -14,24 +14,17 @@ The Universal Open progressed through the open qualifier stages over the past se
 
 - - -
 
-### TexasRL hosts GigaLAN this Saturday
+### TexasRL hosts GigaLAN
 
-GigaLAN combines a tournament and streaming sessions to provide the first event of its kind in the Rocket League community. 
-
-Sponsored by Google and hosted at their [Google Fiber Space](https://fiber.google.com/cities/austin/fiberspace/) in Austin, Texas, the event is open to the public
-
-[Athena](https://twitter.com/TexasRL/status/1011288743230124034)
-[PhantomAce](https://twitter.com/TexasRL/status/1011724802028199936)
-[Rizzo](https://twitter.com/TexasRL/status/1011366444658020352)
+[GigaLAN](https://smash.gg/tournament/gigalan-at-google-fiber-space/details) is a unique event in the Rocket League community. Sponsored by Google, it features a tournament, casted by [Dazerin](https://twitter.com/iDazerin) and [Vodible](https://twitter.com/Vodible), and streams from community personalities in the region: [Athena](https://twitter.com/TexasRL/status/1011288743230124034), [PhantomAce](https://twitter.com/TexasRL/status/1011724802028199936), [Rizzo](https://twitter.com/TexasRL/status/1011366444658020352). The doors open to the public at 1PM local time on Saturday at the [Google Fiber Space](https://fiber.google.com/cities/austin/fiberspace/) in Austin, Texas. 
 
 ### Regional Leagues
 
-| Region | League | Progress | Liquipedia | Octane |
-|:------:|:-----------------:|:--------:|:--------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------|
-| ASC | Asia Pro League | Week 7 | [Link](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2/League_Play) | [Link](https://octane.gg/event/asia-pro-league-season-two) |
-| OCE | Gfinity Australia | Week 5 | [Link](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1) | [Link](https://octane.gg/event/gfinity-australia-elite-series-season-one) |
-| SAM | SAM Championship | Week 5 | [Link](https://liquipedia.net/rocketleague/SAM_Championship/Season_1/League_Play) | [Link](https://octane.gg/event/sam-championship-season-one) |
-
+| Region | League            | Progress | Liquipedia                                                                                   | Octane                                                                    |
+| ------ | ----------------- | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ASC    | Asia Pro League   | Week 7   | [Link](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2/League_Play) | [Link](https://octane.gg/event/asia-pro-league-season-two)                |
+| OCE    | Gfinity Australia | Week 5   | [Link](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1)          | [Link](https://octane.gg/event/gfinity-australia-elite-series-season-one) |
+| SAM    | SAM Championship  | Week 5   | [Link](https://liquipedia.net/rocketleague/SAM_Championship/Season_1/League_Play)            | [Link](https://octane.gg/event/sam-championship-season-one)               |
 
 - - -
 
