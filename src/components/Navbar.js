@@ -41,11 +41,11 @@ const Navbar = () => (
               <i className="fab fa-lg fa-twitter" aria-hidden="true"></i>
             </span>
           </a>
-          <a className="navbar-item">
+          {/* <a className="navbar-item">
             <span className="icon">
               <i className="fab fa-lg fa-twitch" aria-hidden="true"></i>
             </span>
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
