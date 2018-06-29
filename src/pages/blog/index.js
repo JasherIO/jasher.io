@@ -6,33 +6,46 @@ import _ from 'lodash'
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { edges: posts } = data.posts
+    const { group } = data.tags
+    const tags = _.sortBy(_.each(group, (o) => { o.fieldValue = _.startCase(o.fieldValue) }), 'fieldValue')
 
     return (
       <section className="section">
-        <div className="">
-          {/* <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Recent posts</h1>
-          </div> */}
-          {posts
+        <div className="columns">
+          <div className="column is-6 is-offset-2">
+            {/* <p className="is-size-3 has-text-weight-bold">Recent posts</p> */}
+            {posts
             .map(({ node: post }) => (
               <div style={{ padding: '1em 2em' }}>
                 <Link to={post.fields.slug}>
-                <div className="media">
-                  <div class="media-content">
-                    <p class="title is-4">{post.frontmatter.title}</p>
-                  </div>
-                </div>
+                  <p class="is-size-4 has-text-weight-semibold">{post.frontmatter.title}</p>
                 </Link>
                 <div className="content">
                   {_.isEmpty(post.frontmatter.description) ? post.excerpt : post.frontmatter.description}
                   <br />
-                  {/* <br /> */}
                   <time datetime="post.frontmatter.date">{post.frontmatter.date}</time>
                   <span>&nbsp;&bull;&nbsp;{post.timeToRead} minute read</span>
                 </div>
               </div>
             ))}
+          </div>
+          <div className="column is-2">
+            <aside className="menu">
+              <p className="menu-label">
+                Tags
+              </p>
+              <ul class="menu-list">
+                {tags.map((tag) => (
+                  <li>
+                    <Link to={`/tags/${_.kebabCase(tag.fieldValue)}`}>
+                      {tag.fieldValue} ({tag.totalCount})
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </aside>
+          </div>
         </div>
       </section>
     )
@@ -41,22 +54,25 @@ export default class IndexPage extends React.Component {
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
+    posts: PropTypes.shape({
       edges: PropTypes.array,
+    }),
+    tags: PropTypes.shape({
+      group: PropTypes.array,
     }),
   }),
 }
 
 export const pageQuery = graphql`
   query PostsQuery {
-    allMarkdownRemark(
+    posts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
       edges {
         node {
           id
-          excerpt(pruneLength: 400)
+          # excerpt(pruneLength: 400)
           timeToRead
           fields {
             slug
@@ -68,6 +84,12 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
           }
         }
+      }
+    }
+    tags: allMarkdownRemark(limit: 1000) {
+      group(field: frontmatter___tags) {
+        fieldValue
+        totalCount
       }
     }
   }
