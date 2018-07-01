@@ -1,8 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import config from '../data/config.json'
 
 const Navbar = () => (
   <nav className="navbar">
@@ -26,17 +25,17 @@ const Navbar = () => (
           <Link to="/blog" className="navbar-item">
             Blog
           </Link>
-          <a className="navbar-item">
+          <a href={`https://github.com/${config.github}`} className="navbar-item">
             <span className="icon">
               <i className="fab fa-lg fa-github" aria-hidden="true"></i>
             </span>
           </a>
-          <a className="navbar-item">
+          <a href={`https://linkedin.com/in/${config.linkedin}`} className="navbar-item">
             <span className="icon">
               <i className="fab fa-lg fa-linkedin" aria-hidden="true"></i>
             </span>
           </a>
-          <a className="navbar-item">
+          <a href={`https://twitter.com/${config.twitter}`} className="navbar-item">
             <span className="icon">
               <i className="fab fa-lg fa-twitter" aria-hidden="true"></i>
             </span>

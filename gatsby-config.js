@@ -1,9 +1,13 @@
+const config = require('./src/data/config.json')
+// import config from ('./data/config.json')
+
 module.exports = {
   siteMetadata: {
-    title: 'Jasher',
-    description: 'Jasher: Software. Events. Articles.',
-    siteUrl: 'https://jasher.io'
+    title: config.title,
+    description: config.description,
+    siteUrl: config.url
   },
+  // pathPrefix: config.pathPrefix,
   plugins: [
     'gatsby-plugin-catch-links',
     {
@@ -53,7 +57,7 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
+            output: config.rss,
           },
         ],
       },
