@@ -10,7 +10,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <section className="section">
-      <Helmet title={`About | ${site.title}`} />
+      <Helmet title={`About | ${config.title}`} />
       <div className="columns">
         <div className="column is-6 is-offset-2">
           <div className="section">
