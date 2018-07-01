@@ -1,27 +1,13 @@
 {
-  "title": "Jasher",
+  "github": "JasherIO",
+  "copyright": "Josh Willis. Copyright © 2018.",
+  "googleAnalyticsId": "UA-107122749-2",
+  "url": "https://jasherio.netlify.com",
+  "rss": "/rss.xml",
+  "twitter": "JasherIO",
+  "twitch": "JasherIO",
+  "title": "My Site",
   "alternate": "Jasher",
   "description": "Developer. Event Organizer. Author.",
-  "copyright": "Josh Willis. Copyright © 2018.",
-  "logo": "",
-  "url": "https://jasherio.netlify.com",
-  "pathPrefix": "",
-  "rss": "/rss.xml",
-  "discord": "",
-  "github": "JasherIO",
-  "linkedin": "JasherIO",
-  "spotify": "https://open.spotify.com/user/12149358856?si=br_cpj4hRR24wZYrJK3jpA",
-  "twitch": "JasherIO",
-  "twitter": "JasherIO",
-  "youtube": "UCtoAM_oYGuH67MdNMToJkpQ",
-  "facebookAppId": "",
-  "googleAnalyticsId": "UA-107122749-2",
-  "discusShortname": "",
-  "user": {
-    "name": "Josh Willis",
-    "avatar": "/img/avatar.png",
-    "description": "",
-    "twitch": "JasherIO",    
-    "twitter": "JasherIO"    
-  }
+  "linkedin": "JasherIO"
 }
