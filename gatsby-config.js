@@ -63,7 +63,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: config.googleAnalyticsId,
         // Puts tracking script in the head instead of the body
@@ -74,6 +74,20 @@ module.exports = {
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
         // exclude: ["deploy-preview*"],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: config.googleTagManagerId,
+  
+        // Include GTM in development.
+        // Defaults to false meaning GTM will only be loaded in production.
+        // includeInDevelopment: false,
+  
+        // Specify optional GTM environment details.
+        // gtmAuth: "YOUR_GOOGLE_TAGMANAGER_ENVIROMENT_AUTH_STRING",
+        // gtmPreview: "YOUR_GOOGLE_TAGMANAGER_ENVIROMENT_PREVIEW_NAME",
       },
     },
     'gatsby-plugin-react-helmet',
@@ -102,17 +116,15 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 690
             },
           },
-          {
-            resolve: "gatsby-remark-responsive-iframe"
-          },
-          `gatsby-remark-prismjs`,
-          "gatsby-remark-copy-linked-files",
-          `gatsby-remark-autolink-headers`
+          'gatsby-remark-responsive-iframe',
+          'gatsby-remark-prismjs',
+          'gatsby-remark-copy-linked-files',
+          'gatsby-remark-autolink-headers'
         ],
       },
     },
