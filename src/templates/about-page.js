@@ -3,12 +3,14 @@ import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
 import Helmet from 'react-helmet'
 
+import config from '../data/config.json'
+
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
     <section className="section">
-      <Helmet title="About | Jasher" />
+      <Helmet title={`About | ${site.title}`} />
       <div className="columns">
         <div className="column is-6 is-offset-2">
           <div className="section">
