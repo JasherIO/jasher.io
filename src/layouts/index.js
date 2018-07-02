@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import config from '../data/config.json'
 
 import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
@@ -12,6 +13,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet title={`Home | ${config.title}`} />
     <Navbar />
     <div>{children()}</div>
+    <Footer />
   </div>
 )
 
