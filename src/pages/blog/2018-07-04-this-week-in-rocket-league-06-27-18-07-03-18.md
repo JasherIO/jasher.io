@@ -19,6 +19,8 @@ https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_riv
 
 ### College Carball Summer Series Returns
 
+The Summer Series comes back tomorrow with the first of three qualifiers for the summer collegiate league. Thirty-two teams progress to league play in July. See the full broadcast schedule [here.](https://i.imgur.com/DuOHW0N.jpg)
+
 https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_back_for_a_summer_series/
 
 ### Regional Leagues
