@@ -23,6 +23,14 @@ https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_riv
 
 https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_back_for_a_summer_series/
 
+### Regional Leagues
+
+| Region | League            | Progress | Liquipedia                                                                                   | Octane                                                                    |
+| ------ | ----------------- | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ASC    | Asia Pro League   | Finals   | [Link](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2) | [Link](https://octane.gg/event/sia-pro-league-season-twoa)                |
+| OCE    | Gfinity Australia | Playoffs   | [Link](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1)          | [Link](https://octane.gg/event/gfinity-australia-elite-series-season-one) |
+| SAM    | SAM Championship  | Playoffs   | [Link](https://liquipedia.net/rocketleague/SAM_Championship/Season_1/League_Play)            | [Link](https://octane.gg/event/sam-championship-season-one)               |
+
 ---
 
 ### Articles
