@@ -19,7 +19,7 @@ RIVAL Esports announced The Climb, an open and multiple-stage progression event,
 
 ### College Carball Summer Series Returns
 
-The Summer Series comes back tomorrow with the first of three qualifiers for the summer collegiate league. Thirty-two teams progress to league play in July. See the full broadcast schedule [here.](https://i.imgur.com/DuOHW0N.jpg)
+The [Summer Series](https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_back_for_a_summer_series/) comes back tomorrow with the first of three qualifiers for the summer collegiate league. Thirty-two teams progress to league play in July. See the full broadcast schedule [here.](https://i.imgur.com/DuOHW0N.jpg)
 
 ### Regional Leagues
 
