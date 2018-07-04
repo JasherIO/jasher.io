@@ -7,8 +7,10 @@ date: '2018-07-04T08:04:15-05:00'
 tags:
   - This Week in Rocket League
 ---
-# Stadium Debuts in Anniversary Event
+# Rocket League Celebrates 3 Years
 
+
+https://www.rocketleague.com/news/rocket-league-third-birthday-party/
 https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/
 
 # RIVAL Unveil The Climb
@@ -20,8 +22,6 @@ https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_riv
 ### College Carball Summer Series Returns
 
 https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_back_for_a_summer_series/
-
-### Rocket Hockey League Opens Season 3 Registration
 
 ---
 
@@ -37,6 +37,7 @@ https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_
 * [GEXcon hosts Virginia LAN in late August](https://twitter.com/GEXConvention/status/1013248324634173442)
 * [Pluto to sub for FlyQuest](https://twitter.com/FlyQuestSports/status/1014222417487712256)
 * [RIVAL staff to appear on Discussions with Dazerin tonight](https://twitter.com/iDazerin/status/1013911134007676929)
+* [Rocket Hockey League Opens Season 3 Registration](https://twitter.com/RHLHockeyLeague/status/1013913016138690560)
 * [Rocket League community figures nominated in UK Esports Awards](https://www.reddit.com/r/RocketLeagueEsports/comments/8vi80j/uk_esports_awards_finalists_revealed_including/)
 * [The Talk Back shuts down](https://twitter.com/JorbyPls/status/1012132091918802946)
 
