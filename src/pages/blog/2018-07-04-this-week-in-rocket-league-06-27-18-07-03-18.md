@@ -46,6 +46,7 @@ https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k/college_carball_is_
 * [Rocket Hockey League Opens Season 3 Registration](https://twitter.com/RHLHockeyLeague/status/1013913016138690560)
 * [Rocket League community figures nominated in UK Esports Awards](https://www.reddit.com/r/RocketLeagueEsports/comments/8vi80j/uk_esports_awards_finalists_revealed_including/)
 * [The Talk Back shuts down](https://twitter.com/JorbyPls/status/1012132091918802946)
+* [Universal Open qualifiers continue](https://universalopen.gg/phases/northeast-closed-qualifier/)
 
 ### Shows
 
