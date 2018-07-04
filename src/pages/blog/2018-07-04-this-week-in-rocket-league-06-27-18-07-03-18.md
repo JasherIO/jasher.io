@@ -13,7 +13,7 @@ Rocket League reaches its 3 year anniversary on July 7th. To celebrate, Psyonix 
 
 # RIVAL Unveil The Climb
 
-https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_rival_esports_july_5th_8th/
+RIVAL Esports announced The Climb, an open and multiple-stage progression event, last Thursday. Starting tomorrow night, the North American event should provide teams from across the region with a chance to compete with the best over four days. For more information, see the [Reddit thread](https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_rival_esports_july_5th_8th/).
 
 ---
 
