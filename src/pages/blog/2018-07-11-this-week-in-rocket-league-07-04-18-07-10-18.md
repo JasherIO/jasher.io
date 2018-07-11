@@ -7,10 +7,15 @@ date: '2018-07-11T10:27:46-05:00'
 tags:
   - This Week in Rocket League
 ---
+https://www.rocketleague.com/news/rocket-league-third-birthday/
+
+
 
 ---
 
 ### Articles
+
+* [Scrub confirms: “I already have a spot on an RLCS team”](https://rocketeers.gg/interview-scrub-killa-rocket-league-player-rlcs-team-season-6/)
 
 ### News
 
@@ -19,6 +24,8 @@ tags:
 ### Shows
 
 * Casual Talk: [Fluump](https://www.youtube.com/watch?v=8NNSpqLsU9k), [Freakii](https://youtu.be/M8lVDxN2M5Y), [Gibbs](https://www.youtube.com/watch?v=-PTORpIt8j4), [Tylacto](https://www.youtube.com/watch?v=rsO1NRPXCqM)
+* [Discussions with Dazerin: Strangest Stranger and Quent](https://www.youtube.com/watch?v=3wa1nUYr1NQ)
+* [Rocket Science: Controller input lag test and comparison](https://www.youtube.com/watch?v=Cv-OOn7iYio)
 
 ---
 
