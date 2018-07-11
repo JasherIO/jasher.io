@@ -7,17 +7,33 @@ date: '2018-07-11T10:27:46-05:00'
 tags:
   - This Week in Rocket League
 ---
-# 
+# Psyonix Reviews Year 3
 
-Rocket League [joins Xbox Game Pass](https://twitter.com/RocketLeague/status/1016764421887033344).
+
+
+* Rocket League has reached 46 million players.
+* 2.5 million games have been played.
+* [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) released.
+* Hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) at Petco Park.
+
+"The next year of RLE will bring higher prize pools, more opportunities for players of all skill levels, and a much more holistic approach to our Worldwide esports program."
 
 https://www.rocketleague.com/news/rocket-league-third-birthday/
 
 # Northern Arena 2 This Weekend
 
-Northern Arena 2 begins Saturday on [.tv/NorthernArena](https://twitch.tv/NorthernArena).
+[Northern Arena 2](https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-weekend-/) begins Saturday on [.tv/NorthernArena](https://twitch.tv/NorthernArena) with 8 of the best teams from North America and Europe. For more information, see the [Reddit post](https://www.reddit.com/r/RocketLeagueEsports/comments/8xs1s8/northern_arena_rocket_league_invitational_2_50000/).
 
-https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-weekend-/
+| Region | Seed | Team | Roster |
+|:-------------:|:----:|:----------------:|:----------------------------------:|
+| Europe | 1 | Flipsid3 Tactics | kuxir97 / miztik / Yukeo |
+| Europe | 2 | Dignitas | ViolentPanda / Kaydop / Turbopolsa |
+| Europe | 3 | PSG | Bluey / Ferra / Chausette |
+| Europe | 4 | exceL | Nielskoek / Pwndx / Markydooda |
+| North America | 1 | NRG | Fireburner / GarrettG / jstn |
+| North America | 2 | Cloud9 | Torment / SquishyMuffinz / Gimmick |
+| North America | 3 | G2 | Kronovi / Rizzo / JKnaps |
+| North America | 4 | FlyQuest | PrimeThunder / Wonder / AyyJayy |
 
 ---
 
@@ -41,6 +57,7 @@ https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-w
 * [32 collegiate teams qualified for the Summer Series](https://smash.gg/tournament/cca-summer-series-2018/events/qualifier-2/brackets/267973)
 * [Alex161 and Skyline depart Servette, drop MummiSnow](https://twitter.com/xAlex161/status/1017032138535985152)
 * [Cloud9 reach the summit](https://www.reddit.com/r/RocketLeagueEsports/comments/8x3tyk/rival_esports_the_climb_day_4_the_apex/)
+* [Rocket League joins Xbox Game Pass](https://twitter.com/RocketLeague/status/1016764421887033344)
 * [Rocket Street announces Psyonix sponsorship](https://twitter.com/RocketStreet/status/1015722718107521027)
 * [Unthink retires from Rocket League casting](https://twitter.com/UnthinkTV/status/1015369903413526528)
 
