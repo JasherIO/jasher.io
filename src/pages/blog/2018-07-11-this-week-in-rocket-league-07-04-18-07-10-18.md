@@ -21,9 +21,11 @@ https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-w
 
 ### Regional Leagues
 
-https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1#Playoffs
-
-https://liquipedia.net/rocketleague/SAM_Championship/Season_1
+| Region | League            | Progress | Liquipedia                                                                                   | Octane                                                                    |
+| ------ | ----------------- | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ASC    | Asia Pro League   | Completed   | [Link](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2) | [Link](https://octane.gg/event/asia-pro-league-season-two)                |
+| OCE    | Gfinity Australia | Grand Final   | [Link](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1)          | [Link](https://octane.gg/event/gfinity-australia-elite-series-season-one) |
+| SAM    | SAM Championship  | Finals   | [Link](https://liquipedia.net/rocketleague/SAM_Championship/Season_1/League_Play)            | [Link](https://octane.gg/event/sam-championship-season-one)               |
 
 ---
 
