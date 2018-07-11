@@ -9,16 +9,15 @@ tags:
 ---
 # Psyonix Reviews Year 3
 
+Last Friday Psyonix released their [review](https://www.rocketleague.com/news/rocket-league-third-birthday/) of the past year of Rocket League. Highlights include: 
 
-
-* Rocket League has reached 46 million players.
-* 2.5 million games have been played.
-* [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) released.
-* Hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) at Petco Park.
-
-"The next year of RLE will bring higher prize pools, more opportunities for players of all skill levels, and a much more holistic approach to our Worldwide esports program."
-
-https://www.rocketleague.com/news/rocket-league-third-birthday/
+* Reaching 46 million players and 2.5 billion played games
+* Releasing the [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) and Stadium
+* Hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) at Petco Park on July 19th
+* And, announcing an expansion of Rocket League Esports efforts in the coming year
+  * Higher prize pools
+  * Opportunities for all skill levels
+  * And, a "more holistic approach to our Worldwide esports program"
 
 # Northern Arena 2 This Weekend
 
