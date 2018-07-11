@@ -19,6 +19,7 @@ https://www.rocketleague.com/news/rocket-league-third-birthday/
 
 ### News
 
+* [Alex161 and Skyline depart Servette, drop MummiSnow](https://twitter.com/xAlex161/status/1017032138535985152)
 * [Rocket Street announces Psyonix sponsorship](https://twitter.com/RocketStreet/status/1015722718107521027)
 
 ### Shows
