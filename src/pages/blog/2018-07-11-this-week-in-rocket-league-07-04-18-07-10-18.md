@@ -8,8 +8,10 @@ tags:
   - This Week in Rocket League
 ---
 https://www.rocketleague.com/news/rocket-league-third-birthday/
-
  
+https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1#Playoffs
+
+https://liquipedia.net/rocketleague/SAM_Championship/Season_1
 
 ---
 
