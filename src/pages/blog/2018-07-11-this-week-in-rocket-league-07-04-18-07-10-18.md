@@ -41,7 +41,6 @@ https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-w
 * [32 collegiate teams qualified for the Summer Series](https://smash.gg/tournament/cca-summer-series-2018/events/qualifier-2/brackets/267973)
 * [Alex161 and Skyline depart Servette, drop MummiSnow](https://twitter.com/xAlex161/status/1017032138535985152)
 * [Cloud9 reach the summit](https://www.reddit.com/r/RocketLeagueEsports/comments/8x3tyk/rival_esports_the_climb_day_4_the_apex/)
-* [Glory Stone take the APL Season 2 Championship](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_2)
 * [Rocket Street announces Psyonix sponsorship](https://twitter.com/RocketStreet/status/1015722718107521027)
 * [Unthink retires from Rocket League casting](https://twitter.com/UnthinkTV/status/1015369903413526528)
 
