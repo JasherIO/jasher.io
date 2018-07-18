@@ -7,7 +7,7 @@ date: '2018-07-18T07:24:37-05:00'
 tags:
   - This Week in Rocket League
 ---
-# Anniversary Celebrations Wrap up
+# Anniversary Celebrations Wrap Up
 
 The official Rocket League [birthday party](http://www.rocketleague.com/news/rocket-league-third-birthday-party/) takes place tomorrow, July 19th, at Petco Park in San Diego. Then, the in-game Anniversary Event ends July 23rd. Make sure you have earned enough balloons to unlock the cosmetics while they are available.
 
