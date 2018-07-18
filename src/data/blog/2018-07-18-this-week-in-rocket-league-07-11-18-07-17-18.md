@@ -11,7 +11,7 @@ tags:
 
 The official Rocket League [birthday party](http://www.rocketleague.com/news/rocket-league-third-birthday-party/) takes place tomorrow, July 19th, at Petco Park in San Diego. Then, the in-game Anniversary Event ends July 23rd. Make sure you have earned enough balloons to unlock the cosmetics while they are available.
 
-The next feature update follows the Anniversary festivities and releases in July or August.
+The next [feature update](https://www.rocketleague.com/news/rocket-league-roadmap-summer-2018/) follows the Anniversary festivities and releases in July or August. It includes cross-platform friends and parties, [Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/), [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/), 
 
 ---
 
