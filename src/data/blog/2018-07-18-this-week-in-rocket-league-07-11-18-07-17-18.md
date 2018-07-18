@@ -7,7 +7,17 @@ date: '2018-07-18T07:24:37-05:00'
 tags:
   - This Week in Rocket League
 ---
+# Anniversary Celebrations Wrap up
+
+The official Rocket League [birthday party](http://www.rocketleague.com/news/rocket-league-third-birthday-party/) takes place tomorrow, July 19th, at Petco Park in San Diego. Then, the in-game Anniversary Event ends July 23rd. Make sure you have earned enough balloons to unlock the cosmetics while they are available.
+
+The next feature update follows the Anniversary festivities and releases in July or August.
+
+---
+
 ### Regional Leagues
+
+The Asian, Oceanian, and South American leagues were brought to a close over the weekend. Check the Liquipedia and Octane links below for a look at the results and statistics. 
 
 | Region | League            | Progress | Liquipedia                                                                                   | Octane                                                                    |
 | ------ | ----------------- | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -35,6 +45,7 @@ tags:
 * [Dignitas takes NARLI 2](https://www.reddit.com/r/RocketLeagueEsports/comments/8yss86/northern_arena_rocket_league_invitational_2_50000/)
 * [TexasRL announces Dallas monthly, July 22nd](https://twitter.com/TexasRL/status/1018286990415028226)
 * [TexasRL opens merchandise store](https://twitter.com/TexasRL/status/1019366629828972550)
+* [The Universal Open slogs through qualifiers](https://universalopen.gg/phases/europe-open-qualifier-4/)
 
 ### Shows
 
