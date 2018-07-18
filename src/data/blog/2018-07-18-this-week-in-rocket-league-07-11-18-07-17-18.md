@@ -43,6 +43,7 @@ The Asian, Oceanian, and South American leagues were brought to a close over the
 * [gReazy replaces Metsanauris on compLexity](https://octane.gg/news/greazy-replaces-metsanauris-on-complexity/)
 * [Mccluvin departs from Placebo](https://octane.gg/news/mccluvin-and-placebo-part-ways-with-each-other)
 * [Dignitas takes NARLI 2](https://www.reddit.com/r/RocketLeagueEsports/comments/8yss86/northern_arena_rocket_league_invitational_2_50000/)
+* [RIVAL announces EU 1K Cup](https://www.reddit.com/r/RocketLeagueEsports/comments/8yux13/rival_eu_1k_cup_july_21st_22nd_1000_prize_pool/)
 * [TexasRL announces Dallas monthly, July 22nd](https://twitter.com/TexasRL/status/1018286990415028226)
 * [TexasRL opens merchandise store](https://twitter.com/TexasRL/status/1019366629828972550)
 * [The Universal Open slogs through qualifiers](https://universalopen.gg/phases/europe-open-qualifier-4/)
