@@ -39,7 +39,7 @@ tags:
 ### Shows
 
 * [Boost: Lots of Work to Do](https://www.youtube.com/watch?v=2QWfIRNlfKw)
-* Casual Talk: [SunlessKhan](https://youtu.be/zzuaDVyFSAA)
+* [Casual Talk: SunlessKhan](https://youtu.be/zzuaDVyFSAA)
 * [G2 Esports in #LANdon](https://www.youtube.com/watch?v=bym2q92qAtA)
 
 ---
