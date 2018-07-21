@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section">
       <Helmet title={`About | ${config.title}`} />
       <div className="columns">
-        <div className="column is-6 is-offset-3">
+        <div className="column is-three-fifths">
           <div className="section">
             <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
               {title}

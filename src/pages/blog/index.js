@@ -4,6 +4,9 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import _ from 'lodash'
 
+import PostList from '../../components/Posts/List'
+import TagMenu from '../../components/Tags/Menu'
+
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -16,41 +19,12 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <Helmet title={`Blog | ${title}`} />
         <div className="columns">
-          <div className="column is-6 is-offset-2">
-            {/* <p className="is-size-3 has-text-weight-bold">Recent posts</p> */}
-            {posts
-            .map(({ node: post }) => (
-              <div 
-                style={{ padding: '1em 2em' }}
-                key={post.id}>
-                <Link to={post.fields.slug}>
-                  <p className="is-size-4 has-text-weight-semibold">{post.frontmatter.title}</p>
-                </Link>
-                <div className="content">
-                  {_.isEmpty(post.frontmatter.description) ? post.excerpt : post.frontmatter.description}
-                  <br />
-                  <time dateTime="post.frontmatter.date">{post.frontmatter.date}</time>
-                  <span>&nbsp;&bull;&nbsp;{post.timeToRead} minute read</span>
-                </div>
-              </div>
-            ))}
+          <div className="column">
+            <PostList posts={posts} />
           </div>
-          <div className="column is-2">
-            <aside className="menu">
-              <p className="menu-label">
-                Tags
-              </p>
-              <ul className="menu-list">
-                {tags.map((tag) => (
-                  <li key={tag.fieldValue}>
-                    <Link to={`/tags/${_.kebabCase(tag.fieldValue)}`}>
-                      {tag.fieldValue} ({tag.totalCount})
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </aside>
-          </div>
+          {/* <div className="column is-one-quarter">
+            <TagMenu tags={tags} path={this.props.location.pathname} />
+          </div> */}
         </div>
       </section>
     )
