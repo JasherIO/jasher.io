@@ -1,6 +1,8 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
+// import PropTypes from 'prop-types'
+// import Link from 'gatsby-link'
+
+import Social from '../components/Social'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -8,7 +10,12 @@ export default class IndexPage extends React.Component {
     // const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div>Josh Willis</div>
+      <div className="has-text-centered">
+        <div className="is-size-2 has-text-weight-semibold">Josh Willis</div>
+        <div className="is-size-5">Software Developer. Tournament Organizer.</div>
+
+        <Social />
+      </div>
     )
   }
 }

@@ -19,7 +19,7 @@ class Navbar extends React.Component {
 
   render() {
     return (
-      <nav className="navbar">
+      <nav className="navbar is-transparent">
         <div className="container">
           <div className="navbar-brand">
             {/* TODO: Link to / */}
@@ -39,32 +39,12 @@ class Navbar extends React.Component {
           <div id="navMenu" 
             className={this.state.isToggleOn ? "navbar-menu is-active" : "navbar-menu"} >
             <div className="navbar-end">
-              <Link to="/about" className="navbar-item">
-                About
-              </Link>
               <Link to="/blog" className="navbar-item">
                 Blog
               </Link>
-              {/* <a href={`https://github.com/${config.github}`} className="navbar-item">
-                <span className="icon">
-                  <i className="fab fa-lg fa-github" aria-hidden="true"></i>
-                </span>
-              </a> */}
-              {/* <a href={`https://linkedin.com/in/${config.linkedin}`} className="navbar-item">
-                <span className="icon">
-                  <i className="fab fa-lg fa-linkedin" aria-hidden="true"></i>
-                </span>
-              </a> */}
-              {/* <a href={`https://twitter.com/${config.twitter}`} className="navbar-item">
-                <span className="icon">
-                  <i className="fab fa-lg fa-twitter" aria-hidden="true"></i>
-                </span>
-              </a> */}
-              {/* <a className="navbar-item">
-                <span className="icon">
-                  <i className="fab fa-lg fa-twitch" aria-hidden="true"></i>
-                </span>
-              </a> */}
+              <Link to="/tags" className="navbar-item">
+                Tags
+              </Link>
             </div>
           </div>
         </div>

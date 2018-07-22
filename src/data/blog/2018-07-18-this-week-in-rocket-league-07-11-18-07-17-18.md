@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: 'This Week in Rocket League: 07.11.18-07.17.18'
+title: 'Anniversary Celebrations Wrap Up'
 description: Anniversary celebrations wrap up. Regional leagues close shop.
 date: '2018-07-18T07:24:37-05:00'
 tags:

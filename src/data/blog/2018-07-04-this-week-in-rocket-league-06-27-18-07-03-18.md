@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: 'This Week in Rocket League: 06.27.18-07.03.18'
+title: 'Stadium Returns'
 description: 'Stadium returns, The Climb begins, Collegiate Summer Series announced.'
 date: '2018-07-04T08:04:15-05:00'
 tags:

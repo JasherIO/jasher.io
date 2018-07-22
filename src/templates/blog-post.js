@@ -3,7 +3,10 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
+
 import Content, { HTMLContent } from '../components/Content'
+import PostList from '../components/Posts/List'
+import TagList from '../components/Tags/List';
 
 export const BlogPostTemplate = ({
   content,
@@ -32,15 +35,11 @@ export const BlogPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `2rem` }}>
-                {tags.map(tag => (
-                  <span className="button is-rounded" style={{ margin : '0.25rem'}} key={tag + `tag`}>
-                    <Link to={`/tags/${kebabCase(tag)}`}>{tag}</Link>
-                  </span>
-                ))}
-              </div>
-            ) : null}
+            <div style={{ marginTop: `1rem` }}>
+              {tags && tags.length ? (
+                <TagList tags={tags} />
+              ) : null}
+            </div>
           </div>
         </div>
       </div>
