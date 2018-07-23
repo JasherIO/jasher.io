@@ -19,7 +19,7 @@ class Navbar extends React.Component {
 
   render() {
     return (
-      <nav className="navbar is-transparent">
+      <nav className="navbar">
         <div className="container">
           <div className="navbar-brand">
             {/* TODO: Link to / */}
@@ -39,10 +39,10 @@ class Navbar extends React.Component {
           <div id="navMenu" 
             className={this.state.isToggleOn ? "navbar-menu is-active" : "navbar-menu"} >
             <div className="navbar-end">
-              <Link to="/blog" className="navbar-item">
+              <Link to="/blog" className="navbar-item" activeClassName="is-active">
                 Blog
               </Link>
-              <Link to="/tags" className="navbar-item">
+              <Link to="/tags" className="navbar-item" activeClassName="is-active">
                 Tags
               </Link>
             </div>

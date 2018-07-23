@@ -3,19 +3,30 @@ import React from 'react'
 // import Link from 'gatsby-link'
 
 import Social from '../components/Social'
+import Navbar from '../components/Navbar'
 
 export default class IndexPage extends React.Component {
   render() {
-    // const { data } = this.props
-    // const { edges: posts } = data.allMarkdownRemark
-
     return (
-      <div className="has-text-centered">
-        <div className="is-size-2 has-text-weight-semibold">Josh Willis</div>
-        <div className="is-size-5">Software Developer. Tournament Organizer.</div>
+      <section className="hero is-primary is-fullheight">
+        <div className="hero-head">
+          <Navbar />
+        </div>
 
-        <Social />
-      </div>
+        <div className="hero-body">
+          <div className="container has-text-centered">
+            <h1 className="title">
+              Josh Willis
+            </h1>
+            <h2 className="subtitle">
+              <div style={{marginBottom: "0.7rem"}}>Software Developer | Tournament Organizer</div>
+              <Social />
+            </h2>
+            
+          </div>
+        </div>
+        
+      </section>
     )
   }
 }

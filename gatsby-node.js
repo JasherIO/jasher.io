@@ -71,6 +71,20 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   })
 }
 
+exports.onCreatePage = async ({ page, boundActionCreators }) => {
+  const { createPage } = boundActionCreators
+
+  return new Promise((resolve, reject) => {
+    if (page.path === "/") {
+      page.layout = "home"
+
+      createPage(page)
+    }
+
+    resolve()
+  })
+}
+
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators
 

@@ -8,18 +8,19 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import './all.sass'
 
-const TemplateWrapper = ({ children }) => (
-  <div>
-    <Helmet title={`Home | ${config.title}`} />
-    <Navbar />
-    <div className="columns">
-      <div className="column is-three-fifths is-offset-one-fifth">
-        <div>{children()}</div>
+const TemplateWrapper = ({ children, location }) => {
+  return (
+    <div>
+      <Helmet title={`${config.title}`} />
+      <Navbar />
+      <div className="columns">
+        <div className="column is-three-fifths is-offset-one-fifth">
+          <div>{children()}</div>
+        </div>
       </div>
     </div>
-    {/* <Footer /> */}
-  </div>
-)
+  )
+}
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
