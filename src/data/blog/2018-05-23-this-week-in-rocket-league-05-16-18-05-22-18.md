@@ -6,8 +6,9 @@ image: '/img/TWiRL.png'
 date: '2018-05-23T03:42:50.000Z'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Content Update
+  - RLCS
+  - World Championship
 ---
 
 # Salty Shores Releases

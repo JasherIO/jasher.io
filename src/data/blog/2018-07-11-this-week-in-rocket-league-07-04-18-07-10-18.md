@@ -6,8 +6,9 @@ description: Rocket League added to Xbox Game Pass
 date: '2018-07-11T10:27:46-05:00'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Anniversary
+  - Birthday
+  - Northern Arena
 ---
 # Psyonix Reviews Year 3
 

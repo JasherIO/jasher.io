@@ -6,8 +6,8 @@ description: Anniversary celebrations wrap up. Regional leagues close shop.
 date: '2018-07-18T07:24:37-05:00'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Anniversary
+  - Birthday
 ---
 # Anniversary Celebrations Wrap up
 

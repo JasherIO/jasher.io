@@ -6,8 +6,10 @@ description: 'Stadium returns, The Climb begins, Collegiate Summer Series announ
 date: '2018-07-04T08:04:15-05:00'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Anniversary
+  - Birthday
+  - RIVAL Esports
+  - College Carball Association
 ---
 # Rocket League Celebrates 3 Years
 

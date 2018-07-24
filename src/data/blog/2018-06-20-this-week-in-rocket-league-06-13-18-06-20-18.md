@@ -6,8 +6,7 @@ image: '/img/TWiRL.png'
 date: '2018-06-20T14:40:16.000Z'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Feature Update
 ---
 
 # Progression Systems Defined

@@ -6,8 +6,8 @@ image: '/img/TWiRL.png'
 date: '2018-06-27T09:17:59-05:00'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Universal Open
+  - TexasRL
 ---
 # Universal Open Continues
 

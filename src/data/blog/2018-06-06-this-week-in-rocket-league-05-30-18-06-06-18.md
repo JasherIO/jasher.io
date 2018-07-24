@@ -6,8 +6,8 @@ image: '/img/TWiRL.png'
 date: '2018-06-06T12:15:19.000Z'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - RLCS
+  - World Championship
 ---
 
 # World Championship Begins Friday

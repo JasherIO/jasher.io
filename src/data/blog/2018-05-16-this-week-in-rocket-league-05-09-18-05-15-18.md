@@ -6,8 +6,9 @@ image: '/img/TWiRL.png'
 date: '2018-05-16T12:59:58.000Z'
 category: This Week in Rocket League
 tags:
-  - Rocket League
-  - Esports
+  - Content Update
+  - Ballistix
+  - Northern Arena
 ---
 
 # Salty Shores Releases Late May
