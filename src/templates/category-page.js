@@ -1,6 +1,5 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 
 import PostList from '../components/Posts/List'
 
@@ -9,14 +8,14 @@ class CategoryRoute extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
     const { title } = data.site.siteMetadata
-    const tag = this.props.pathContext.tag
+    const category = this.props.pathContext.category
 
     return (
       <section className="section">
-        <Helmet title={`${tag} | ${title}`} />
+        <Helmet title={`${category} | ${title}`} />
         <div className="columns">
           <div className="column">
-            <PostList title={tag} posts={posts} />
+            <PostList title={category} posts={posts} />
           </div>
         </div>
       </section>
@@ -36,7 +35,7 @@ export const categoryPageQuery = graphql`
     allMarkdownRemark(
       limit: 100
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { category: { in: [$category] } } }
+      filter: { frontmatter: { category: { eq: $category } } }
     ) {
       totalCount
       edges {

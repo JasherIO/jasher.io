@@ -15,6 +15,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               slug
             }
             frontmatter {
+              category
               tags
               templateKey
             }
@@ -61,7 +62,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     categories = _.uniq(categories)
 
     tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag)}`
+      const tagPath = `/blog/tags/${_.kebabCase(tag)}`
 
       createPage({
         path: tagPath,
@@ -73,7 +74,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     })
 
     categories.forEach(category => {
-      const categoryPath = `/category/${_.kebabCase(category)}`
+      const categoryPath = `/blog/category/${_.kebabCase(category)}`
 
       createPage({
         path: categoryPath,

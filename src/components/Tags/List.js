@@ -4,13 +4,11 @@ import Link from 'gatsby-link'
 import { kebabCase } from 'lodash'
 
 const TagList = ({ tags }) => (
-  <div className="tags" >
+  <div>
     {tags.map(tag => (
-      <span className="tag is-large" key={tag}>
-        <Link to={`/tags/${kebabCase(tag)}`}>
-          <span className="">{tag}</span>
-        </Link>
-      </span>
+      <Link to={`/tags/${kebabCase(tag)}`} key={tag}>
+        <span style={{marginRight: "0.25rem"}}>{`#${kebabCase(tag)}`}</span>
+      </Link>
     ))}
   </div>
 )
