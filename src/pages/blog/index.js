@@ -47,15 +47,16 @@ export const pageQuery = graphql`
       edges {
         node {
           id
-          # excerpt(pruneLength: 400)
+          excerpt(pruneLength: 400)
           timeToRead
           fields {
             slug
           }
           frontmatter {
-            title
             templateKey
+            title
             description
+            image
             date(formatString: "MMMM DD, YYYY")
           }
         }

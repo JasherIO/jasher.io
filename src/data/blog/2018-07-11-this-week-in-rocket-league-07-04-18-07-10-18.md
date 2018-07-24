@@ -4,8 +4,10 @@ image: /img/TWiRL.png
 title: 'Northern Arena 2 on the Horizon'
 description: Rocket League added to Xbox Game Pass
 date: '2018-07-11T10:27:46-05:00'
+category: This Week in Rocket League
 tags:
-  - This Week in Rocket League
+  - Rocket League
+  - Esports
 ---
 # Psyonix Reviews Year 3
 

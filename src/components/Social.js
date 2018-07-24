@@ -13,7 +13,7 @@ const Icon = ({ link, icon }) => (
 const Social = () => (
   <div className="has-text-centered">
     <Icon link={`https://github.com/${config.github}`} icon="fa-github" />
-    <Icon link={`https://linked.com/in/${config.linkedin}`} icon="fa-linkedin" />
+    <Icon link={`https://linkedin.com/in/${config.linkedin}`} icon="fa-linkedin" />
     <Icon link={`https://twitter.com/${config.twitter}`} icon="fa-twitter" />
   </div>
 )

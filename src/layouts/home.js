@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import config from '../data/config.json'
 import './all.sass'
 
-const TemplateWrapper = ({ children }) => {
+const HomeWrapper = ({ children }) => {
   return (
     <div>
       <Helmet title={`Home | ${config.title}`} />
@@ -14,8 +14,8 @@ const TemplateWrapper = ({ children }) => {
   )
 }
 
-TemplateWrapper.propTypes = {
+HomeWrapper.propTypes = {
   children: PropTypes.func,
 }
 
-export default TemplateWrapper
+export default HomeWrapper

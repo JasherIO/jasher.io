@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 import config from '../data/config.json'
 
 import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
 import './all.sass'
 
 const TemplateWrapper = ({ children, location }) => {

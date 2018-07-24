@@ -4,8 +4,10 @@ image: /img/TWiRL.png
 title: 'Anniversary Celebrations Wrap Up'
 description: Anniversary celebrations wrap up. Regional leagues close shop.
 date: '2018-07-18T07:24:37-05:00'
+category: This Week in Rocket League
 tags:
-  - This Week in Rocket League
+  - Rocket League
+  - Esports
 ---
 # Anniversary Celebrations Wrap up
 
