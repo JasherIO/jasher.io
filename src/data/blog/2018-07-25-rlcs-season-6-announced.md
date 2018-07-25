@@ -1,0 +1,53 @@
+---
+templateKey: blog-post
+image: /img/TWiRL.png
+title: RLCS Season 6 Announced
+description: 'RLEsports joins the million dollar club. '
+date: '2018-07-25T08:54:39-05:00'
+tags:
+  - RLCS
+  - Rocket Street
+---
+Million dollar prize pool, up from last season's half a million pool
+
+An additional 100K to Rival Series
+
+Same format
+
+Goal differential replaces win percentage as the first tiebreaker.
+
+Rosters are locked July 30th for RLCS and August 5th for Rival Series.
+
+https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/
+https://www.rocketleagueesports.com/rules/
+
+---
+
+### SAM Championship 
+
+---
+
+### Articles
+
+* [Liga sul-americana de Rocket League terá US$ 3 mil em premiação e final em São Paulo](http://www.espn.com.br/esports/artigo/_/id/4559904/liga-sul-americana-de-rocket-league-tera-us-3-mil-em-premiacao-e-final-em-sao-paulo)
+* [MLD: Week 2 Review](https://www.mldoubles.com/single-post/2018/07/23/Season-7-Week-2-Review)
+
+### News
+
+* [Collegiate Summer Series in the middle of Week 2](https://twitter.com/CollegeCarball/status/1016928985115025408)
+* [Dignitas takes the Rival 1K Cup](https://www.reddit.com/r/RocketLeagueEsports/comments/90ows3/rival_eu_1k_cup_july_21st_22nd_discussion/)
+* [Gfinity Challenger Series returns July 30th](https://twitter.com/Gfinity/status/1022091682270138369)
+* [Octane releases stats for NARLI 2](https://www.reddit.com/r/RocketLeagueEsports/comments/91jjn5/octane_northern_arena_invitational_2_stats/)
+* [Psyonix details drop rates for crate items](https://www.rocketleague.com/news/drop-rates-in-rocket-league-crates/)
+
+### Shows
+
+* [Casual Talk: CloudFuel](https://www.youtube.com/watch?v=7cVUlbzVrbw)
+* [Champions | RLCS S5 World Championship Montage](https://www.youtube.com/watch?v=WS2ny_3F-z4)
+* [Discussions with Dazerin: Turbopolsa](https://www.youtube.com/watch?v=kY9Jr-KI3KQ)
+
+---
+
+Check out /r/RocketLeagueEsports' curated [resources list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for a bevy of information on the Rocket League competitive scene.
+
+For the latest updates on _This Week in Rocket League_, follow [@JasherIO](https://twitter.com/JasherIO)!
