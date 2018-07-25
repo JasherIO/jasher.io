@@ -12,11 +12,7 @@ const TemplateWrapper = ({ children, location }) => {
     <div>
       <Helmet title={`${config.title}`} />
       <Navbar />
-      <div className="columns">
-        <div className="column is-three-fifths is-offset-one-fifth">
-          <div>{children()}</div>
-        </div>
-      </div>
+      <div>{children()}</div>
     </div>
   )
 }

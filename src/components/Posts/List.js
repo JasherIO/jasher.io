@@ -21,8 +21,6 @@ const PostItem = ({ post }) => (
 )
 
 const PostCard = ({ post }) => {
-  console.log(JSON.stringify(post, null, 2))
-
   return (
   <div className="card">
     <div className="card-image">
@@ -47,9 +45,9 @@ const PostCard = ({ post }) => {
 )}
 
 const PostList = ({ title, posts }) => (
-  <div>
-    <div className="is-size-3">{title}</div>
-    <div>
+  <div className="columns">
+    <div className="column is-offset-one-fifth is-three-fifths">
+      <div className="is-size-3">{title}</div>
       {posts
         .map(({ node: post }) => (
           <PostCard post={post} key={post.id} />
