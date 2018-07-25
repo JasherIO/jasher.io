@@ -20,7 +20,7 @@ League play begins with North America on September 8th and Europe on September 9
 
 ---
 
-### SAM Championship 
+### Rocket Street Hosts SAM Championship Finals
 
 https://twitter.com/RocketStreet/status/1017083908905582592
 
