@@ -10,15 +10,20 @@ tags:
   - RLCS
   - Rocket Street
 ---
+Rocket League Esports broke new ground yesterday. 
+
+The next season of RLCS features a million dollar prize pool, doubling last season's pool, 
+
+
 Million dollar prize pool, up from last season's half a million pool
 
 An additional 100K to Rival Series
 
-The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same format as last season in Europe, North America, and Oceania.
+The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same format and regions as last season.
 
 Goal differential replaces win percentage as the first tiebreaker.
 
-Rosters are locked July 30th for RLCS and August 5th for Rival Series.
+Rosters are locked July 30th for RLCS and August 5th for Rival Series. Expect to see roster announcements between now and then. 
 
 https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/
 
