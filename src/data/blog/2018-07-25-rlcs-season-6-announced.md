@@ -10,7 +10,7 @@ tags:
   - RLCS
   - Rocket Street
 ---
-Rocket League Esports has officially joined the [million dollar club](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/) - a mark that is commonly used to show the success and status of an esport. Starting in Season 6, the RLCS will have a $1,000,000 pool and the Rival Series will have a $150,000 pool.
+Rocket League Esports has officially joined the [million dollar club](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/) - a mark that is commonly used to show the success and status of an esport. Starting in Season 6, the RLCS will have a $1,000,000 pool and the Rival Series will have a $100,000 pool.
 
 The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same regions and format as last season. While the rules are subject-to-change, it does not look like we will see a new region(s), double-round robin, or other community suggested format changes for the upcoming season. However, Psyonix did hint that they had more "exciting things to announce regarding this season of the RLCS." 
 
