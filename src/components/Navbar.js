@@ -42,9 +42,9 @@ class Navbar extends React.Component {
               <Link to="/blog" className="navbar-item" activeClassName="is-active">
                 Blog
               </Link>
-              <Link to="/tags" className="navbar-item" activeClassName="is-active">
+              {/* <Link to="/blog/tags" className="navbar-item" activeClassName="is-active">
                 Tags
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
