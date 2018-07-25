@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: Rocket League Esports Joins the Million Dollar Club
+title: Rocket League Joins Million Dollar Club
 description: >-
   RLCS Season 6 features a million dollar prize pool. Rocket Street hosts the
   finals for the SAM Championship in Sao Paulo.
@@ -10,7 +10,7 @@ tags:
   - RLCS
   - Rocket Street
 ---
-Rocket League Esports has officially joined the [million dollar club](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/) - a mark that is commonly used to show the success and status of an esport. Starting in Season 6, the RLCS will have a $1,000,000 pool and the Rival Series will have a $150,000 pool.
+Rocket League Esports has officially joined the [million dollar club](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/) - a mark that is commonly used to show the success and status of an esport. Starting in Season 6, the RLCS will have a $1,000,000 pool and the Rival Series will have a $100,000 pool.
 
 The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same regions and format as last season. While the rules are subject-to-change, it does not look like we will see a new region(s), double-round robin, or other community suggested format changes for the upcoming season. However, Psyonix did hint that they had more "exciting things to announce regarding this season of the RLCS." 
 
@@ -22,7 +22,7 @@ League play begins with North America on September 8th and Europe on September 9
 
 ### Rocket Street Hosts SAM Championship Finals
 
-Earlier this month Rocket Street [acquired sponsorship from Psyonix](https://twitter.com/RocketStreet/status/1015722718107521027) for the SAM Championship. On Saturday, for teams compete for the South American crown and the $3,000 prize pool. The event begins at [1PM local time](https://www.worldtimebuddy.com/?pl=1&lid=3448439,2643743,5128581&h=3448439). Stream information is to-be-announced. 
+Earlier this month Rocket Street [acquired sponsorship from Psyonix](https://twitter.com/RocketStreet/status/1015722718107521027) four the SAM Championship. On Saturday, for teams compete for the South American crown and the $3,000 prize pool. The event begins at [1PM local time](https://www.worldtimebuddy.com/?pl=1&lid=3448439,2643743,5128581&h=3448439). Stream information is to-be-announced. 
 
 Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liquipedia.net/rocketleague/SAM_Championship/Season_1), [Octane](https://octane.gg/event/sam-championship-season-one-finals)
 
