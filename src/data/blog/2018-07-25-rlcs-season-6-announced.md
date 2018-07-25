@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: RLCS Season 6 Announced
+title: RLEsports Joins the Million Dollar Club
 description: >-
-  Rocket League esports joins the million dollar club. Rocket Street hosts the
+  RLCS Season 6 features a million dollar prize pool. Rocket Street hosts the
   finals for the SAM Championship in Sao Paulo.
 date: '2018-07-25T08:54:39-05:00'
 tags:
