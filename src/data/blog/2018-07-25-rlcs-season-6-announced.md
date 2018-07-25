@@ -2,7 +2,9 @@
 templateKey: blog-post
 image: /img/TWiRL.png
 title: RLCS Season 6 Announced
-description: 'RLEsports joins the million dollar club. '
+description: >-
+  Rocket League esports joins the million dollar club. Rocket Street hosts the
+  finals for the SAM Championship in Sao Paulo.
 date: '2018-07-25T08:54:39-05:00'
 tags:
   - RLCS
@@ -12,18 +14,22 @@ Million dollar prize pool, up from last season's half a million pool
 
 An additional 100K to Rival Series
 
-Same format
+The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same format as last season - open qualifiers, single round-robin league play, regional championships, and world championship - in Europe, North America, and Oceania. 
 
 Goal differential replaces win percentage as the first tiebreaker.
 
 Rosters are locked July 30th for RLCS and August 5th for Rival Series.
 
 https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/
-https://www.rocketleagueesports.com/rules/
+
+
+League play begins with North America on September 8th.
 
 ---
 
 ### SAM Championship 
+
+https://twitter.com/RocketStreet/status/1017083908905582592
 
 ---
 
@@ -37,6 +43,7 @@ https://www.rocketleagueesports.com/rules/
 * [Collegiate Summer Series in the middle of Week 2](https://twitter.com/CollegeCarball/status/1016928985115025408)
 * [Dignitas takes the Rival 1K Cup](https://www.reddit.com/r/RocketLeagueEsports/comments/90ows3/rival_eu_1k_cup_july_21st_22nd_discussion/)
 * [Gfinity Challenger Series returns July 30th](https://twitter.com/Gfinity/status/1022091682270138369)
+* [Mountain Dew, Insomnia host amateur tournaments in EU, featuring Splyce](http://www.esports-news.co.uk/2018/07/24/mountain-dew-esports-truck-insomnia/)
 * [Octane releases stats for NARLI 2](https://www.reddit.com/r/RocketLeagueEsports/comments/91jjn5/octane_northern_arena_invitational_2_stats/)
 * [Psyonix details drop rates for crate items](https://www.rocketleague.com/news/drop-rates-in-rocket-league-crates/)
 
