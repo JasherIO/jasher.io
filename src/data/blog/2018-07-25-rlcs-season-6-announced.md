@@ -12,7 +12,6 @@ tags:
 ---
 Rocket League Esports broke new ground yesterday. 
 
-The next season of RLCS features a million dollar prize pool, doubling last season's pool, 
 
 
 Million dollar prize pool, up from last season's half a million pool
