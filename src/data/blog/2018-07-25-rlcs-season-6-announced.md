@@ -14,7 +14,7 @@ Million dollar prize pool, up from last season's half a million pool
 
 An additional 100K to Rival Series
 
-The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same format as last season - open qualifiers, single round-robin league play, regional championships, and world championship - in Europe, North America, and Oceania. 
+The current [rules](https://www.rocketleagueesports.com/rules/) point to the league keeping the same format as last season in Europe, North America, and Oceania.
 
 Goal differential replaces win percentage as the first tiebreaker.
 
