@@ -22,9 +22,7 @@ League play begins with North America on September 8th and Europe on September 9
 
 ### Rocket Street Hosts SAM Championship Finals
 
-After a month long league play and playoffs, four teams compete for the South American crown in Sao Paulo on Saturday. 
-
-https://twitter.com/RocketStreet/status/1017083908905582592
+Earlier this month Rocket Street [acquired sponsorship from Psyonix](https://twitter.com/RocketStreet/status/1015722718107521027) for the SAM Championship. On Saturday, for teams compete for the South American crown and the $3,000 prize pool. The event begins at [1PM local time](https://www.worldtimebuddy.com/?pl=1&lid=3448439,2643743,5128581&h=3448439). Stream information is to-be-announced. 
 
 Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liquipedia.net/rocketleague/SAM_Championship/Season_1), [Octane](https://octane.gg/event/sam-championship-season-one-finals)
 
@@ -43,6 +41,7 @@ Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liq
 * [Mountain Dew, Insomnia host amateur tournaments in EU, featuring Splyce](http://www.esports-news.co.uk/2018/07/24/mountain-dew-esports-truck-insomnia/)
 * [Octane releases stats for NARLI 2](https://www.reddit.com/r/RocketLeagueEsports/comments/91jjn5/octane_northern_arena_invitational_2_stats/)
 * [Psyonix details drop rates for crate items](https://www.rocketleague.com/news/drop-rates-in-rocket-league-crates/)
+* [Universal Open Progress: Central Closed Qualifier](https://universalopen.gg/phases/central-closed-qualifier/)
 
 ### Shows
 
