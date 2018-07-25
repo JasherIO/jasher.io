@@ -22,7 +22,11 @@ League play begins with North America on September 8th and Europe on September 9
 
 ### Rocket Street Hosts SAM Championship Finals
 
+After a month long league play and playoffs, four teams compete for the South American crown in Sao Paulo on Saturday. 
+
 https://twitter.com/RocketStreet/status/1017083908905582592
+
+Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liquipedia.net/rocketleague/SAM_Championship/Season_1), [Octane](https://octane.gg/event/sam-championship-season-one-finals)
 
 ---
 
