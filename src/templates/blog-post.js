@@ -24,7 +24,7 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-three-fifths">
+          <div className="column is-offset-one-fifth is-three-fifths">
             { image ? (
               <figure className="image">
                 <img src={image} />
