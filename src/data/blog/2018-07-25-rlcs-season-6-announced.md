@@ -6,6 +6,7 @@ description: >-
   RLCS Season 6 features a million dollar prize pool. Rocket Street hosts the
   finals for the SAM Championship in Sao Paulo.
 date: '2018-07-25T08:54:39-05:00'
+category: This Week in Rocket League
 tags:
   - RLCS
   - Rocket Street

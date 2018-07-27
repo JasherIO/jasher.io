@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import _ from 'lodash'
 
-const TagMenu = ({ tags, path }) => (
+const TagMenu = ({ tags }) => (
   <aside className="menu">
     <p className="menu-label">
       Tags
@@ -11,8 +11,7 @@ const TagMenu = ({ tags, path }) => (
     <ul className="menu-list">
       {tags.map((tag) => (
         <li key={tag.fieldValue}>
-          <Link to={`/tags/${_.kebabCase(tag.fieldValue)}`} 
-                className={_.kebabCase(tag.fieldValue) === path ? "has-text-weight-semibold" : "has-text-weight-normal"}>
+          <Link to={`/blog/tags/${_.kebabCase(tag.fieldValue)}`} className="has-text-weight-normal" activeClassName="is-active">
             {tag.fieldValue} ({tag.totalCount})
           </Link>
         </li>
