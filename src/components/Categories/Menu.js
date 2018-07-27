@@ -11,7 +11,7 @@ const CategoryMenu = ({ categories }) => (
     <ul className="menu-list">
       {categories.map((category) => (
         <li key={category.fieldValue}>
-          <Link to={`/blog/category/${_.kebabCase(category.fieldValue)}`} className="has-text-weight-normal" activeClassName="is-active">
+          <Link to={`/blog/category/${_.kebabCase(category.fieldValue)}`} className="has-text-weight-normal" activeClassName="has-text-weight-semibold">
             {category.fieldValue} ({category.totalCount})
           </Link>
         </li>
@@ -21,8 +21,7 @@ const CategoryMenu = ({ categories }) => (
 )
 
 CategoryMenu.propTypes = {
-  categories: PropTypes.array,
-  path: PropTypes.string
+  categories: PropTypes.array
 }
 
 export default CategoryMenu

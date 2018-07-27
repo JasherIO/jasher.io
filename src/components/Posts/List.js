@@ -1,7 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-import _ from 'lodash'
+
+import CategoryMenu from '../Categories/Menu'
 
 const PostItem = ({ post }) => (
   <div 
@@ -20,19 +21,25 @@ const PostItem = ({ post }) => (
   </div>
 )
 
-const PostList = ({ title, posts }) => (
-    <div>
+const PostList = ({ title, posts, categories }) => (
+  <div className="columns">
+    <div className="column is-offset-one-fifth is-two-fifths">
       <div className="is-size-3">{title}</div>
       {posts
         .map(({ node: post }) => (
           <PostItem post={post} key={post.id} />
         ))}
     </div>
+    <div className="column is-one-fifth">
+      <CategoryMenu categories={categories} />
+    </div>
+  </div>
 )
 
 PostList.propTypes = {
   title: PropTypes.string,
-  posts: PropTypes.array
+  posts: PropTypes.array,
+  categories: PropTypes.array
 }
 
 export default PostList
