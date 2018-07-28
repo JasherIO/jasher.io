@@ -61,26 +61,26 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     tags = _.uniq(tags)
     categories = _.uniq(categories)
 
-    tags.forEach(filter => {
-      const tagPath = `/blog/tags/${_.kebabCase(filter)}`
+    tags.forEach(tag => {
+      const tagPath = `/blog/tags/${_.kebabCase(tag)}`
 
       createPage({
         path: tagPath,
-        component: path.resolve(`src/templates/filter-page.js`),
+        component: path.resolve(`src/templates/tag-page.js`),
         context: {
-          filter,
+          tag,
         },
       })
     })
 
-    categories.forEach(filter => {
-      const categoryPath = `/blog/category/${_.kebabCase(filter)}`
+    categories.forEach(category => {
+      const categoryPath = `/blog/category/${_.kebabCase(category)}`
 
       createPage({
         path: categoryPath,
-        component: path.resolve(`src/templates/filter-page.js`),
+        component: path.resolve(`src/templates/category-page.js`),
         context: {
-          filter,
+          category,
         },
       })
     })
