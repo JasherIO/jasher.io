@@ -80,18 +80,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          id
-          excerpt(pruneLength: 175)
-          timeToRead
-          fields {
-            slug
-          }
-          frontmatter {
-            templateKey
-            title
-            description
-            date(formatString: "MMMM DD, YYYY")
-          }
+          ...PostItemFragment
         }
       }
     }

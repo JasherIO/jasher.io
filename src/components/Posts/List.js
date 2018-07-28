@@ -3,23 +3,7 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
 import CategoryMenu from '../Categories/Menu'
-
-const PostItem = ({ post }) => (
-  <div 
-    style={{ padding: '1em 0em' }}>
-    <Link to={post.fields.slug}>
-      <p className="is-size-4 has-text-weight-semibold">{post.frontmatter.title}</p>
-    </Link>
-    <div className="content">
-      {/* <br /> */}
-      <div>{post.excerpt}</div>
-      <div className="is-size-6 has-text-grey">
-        <time dateTime="post.frontmatter.date">{post.frontmatter.date}</time>
-        <span>&nbsp;&bull;&nbsp;{post.timeToRead} minute read</span>
-      </div>
-    </div>
-  </div>
-)
+import PostItem from './Item'
 
 const PostList = ({ title, posts, categories }) => (
   <div className="columns">
