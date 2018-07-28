@@ -104,14 +104,5 @@ export const pageQuery = graphql`
         totalCount
       }
     }
-  	tags: allMarkdownRemark(
-      limit: 100
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      group(field: frontmatter___tags) {
-        fieldValue
-        totalCount
-      }
-    }
   }
 `
