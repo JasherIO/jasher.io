@@ -38,8 +38,30 @@ const PostList = ({ title, posts, categories }) => (
 
 PostList.propTypes = {
   title: PropTypes.string,
-  posts: PropTypes.array,
-  categories: PropTypes.array
+  posts: PropTypes.arrayOf(
+    PropTypes.shape({
+      node: PropTypes.shape({
+        id: PropTypes.string,
+        excerpt: PropTypes.string,
+        timeToRead: PropTypes.number,
+        fields: PropTypes.shape({
+          slug: PropTypes.string
+        }),
+        frontmatter: PropTypes.shape({
+          templateKey: PropTypes.string,
+          title: PropTypes.string,
+          description: PropTypes.string,
+          date: PropTypes.string
+        })
+      }),
+    })
+    ),
+  categories: PropTypes.arrayOf(
+    PropTypes.shape({
+      fieldValue: PropTypes.string,
+      totalCount: PropTypes.number
+    })
+  ),
 }
 
 export default PostList

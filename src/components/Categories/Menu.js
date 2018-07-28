@@ -21,7 +21,12 @@ const CategoryMenu = ({ categories }) => (
 )
 
 CategoryMenu.propTypes = {
-  categories: PropTypes.array
+  categories: PropTypes.arrayOf(
+    PropTypes.shape({
+      fieldValue: PropTypes.string,
+      totalCount: PropTypes.number
+    })
+  ),
 }
 
 export default CategoryMenu

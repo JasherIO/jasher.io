@@ -22,12 +22,46 @@ export default class IndexPage extends React.Component {
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
-    site: PropTypes.object,
+    site: PropTypes.shape({
+      siteMetadata: PropTypes.shape({
+        title: PropTypes.string
+      })
+    }),
     posts: PropTypes.shape({
-      edges: PropTypes.array,
+      edges: PropTypes.arrayOf(
+        PropTypes.shape({
+          node: PropTypes.shape({
+            id: PropTypes.string,
+            excerpt: PropTypes.string,
+            timeToRead: PropTypes.number,
+            fields: PropTypes.shape({
+              slug: PropTypes.string
+            }),
+            frontmatter: PropTypes.shape({
+              templateKey: PropTypes.string,
+              title: PropTypes.string,
+              description: PropTypes.string,
+              date: PropTypes.string
+            })
+          }),
+        })
+      ),
     }),
     categories: PropTypes.shape({
-      group: PropTypes.array,
+      group: PropTypes.arrayOf(
+        PropTypes.shape({
+          fieldValue: PropTypes.string,
+          totalCount: PropTypes.number
+        })
+      )
+    }),
+    tags: PropTypes.shape({
+      group: PropTypes.arrayOf(
+        PropTypes.shape({
+          fieldValue: PropTypes.string,
+          totalCount: PropTypes.number
+        })
+      )
     }),
   }),
 }
