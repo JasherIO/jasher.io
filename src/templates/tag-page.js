@@ -3,27 +3,27 @@ import Helmet from 'react-helmet'
 
 import PostList from '../components/Posts/List'
 
-class FilterRoute extends React.Component {
+class TagRoute extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.posts
     const { group: categories } = data.categories
     const { title } = data.site.siteMetadata
-    const filter = this.props.pathContext.filter
+    const tag = this.props.pathContext.tag
 
     return (
       <section className="section">
-        <Helmet title={`${filter} | ${title}`} />
-        <PostList title={filter} posts={posts} categories={categories} />
+        <Helmet title={`${tag} | ${title}`} />
+        <PostList title={tag} posts={posts} categories={categories} />
       </section>
     )
   }
 }
 
-export default FilterRoute
+export default TagRoute
 
-export const filterPageQuery = graphql`
-  query FilterPageQuery {
+export const tagPageQuery = graphql`
+  query TagPageQuery($tag: String) {
     site {
       siteMetadata {
         title
@@ -32,7 +32,7 @@ export const filterPageQuery = graphql`
     posts: allMarkdownRemark(
       limit: 100
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
       edges {
         node {
@@ -56,15 +56,6 @@ export const filterPageQuery = graphql`
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
       group(field: frontmatter___category) {
-        fieldValue
-        totalCount
-      }
-    }
-    tags: allMarkdownRemark(
-      limit: 100
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      group(field: frontmatter___tags) {
         fieldValue
         totalCount
       }
