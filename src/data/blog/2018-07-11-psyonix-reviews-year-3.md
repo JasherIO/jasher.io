@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
-image: /img/TWiRL.png
+image: /img/birthday_year3.jpg
 title: Psyonix Reviews Year 3
-description: Rocket League added to Xbox Game Pass
 date: '2018-07-11T10:27:46-05:00'
 category: This Week in Rocket League
 tags:
