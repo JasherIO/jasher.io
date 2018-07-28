@@ -11,13 +11,12 @@ export const BlogPostTemplate = ({
   image,
   tags,
   title,
-  helmet,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
     <section className="section">
-      {helmet || ''}
+      <Helmet title={`${title} | Blog`} />
       <div className="container content">
         <div className="columns">
           <div className="column is-offset-one-fifth is-three-fifths">
@@ -58,7 +57,6 @@ const BlogPost = ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       image={post.frontmatter.image}
-      helmet={(<Helmet title={`${post.frontmatter.title} | Blog`} />)}
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
     />
@@ -67,7 +65,16 @@ const BlogPost = ({ data }) => {
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
+    markdownRemark: PropTypes.shape({
+      id: PropTypes.string,
+      html: PropTypes.string,
+      frontmatter: PropTypes.shape({
+        date: PropTypes.string,
+        title: PropTypes.string,
+        image: PropTypes.string,
+        tags: PropTypes.arrayOf(PropTypes.string),
+      })
+    }),
   }),
 }
 
