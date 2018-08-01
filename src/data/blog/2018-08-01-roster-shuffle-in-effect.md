@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/rlcs_season6.jpg
-title: Roster Shuffle in Effect
+title: Roster Shuffle in Full Effect
 date: '2018-08-01T07:54:37-05:00'
 category: This Week in Rocket League
 tags:
@@ -10,6 +10,34 @@ tags:
   - Content Update
   - Rocket Street
 ---
+**Europe**
+
+| Team | Starter 1 | Starter 2 | Starter 3 | Substitute |
+|:---------------------------------------------------------------------------:|:------------:|:-----------:|:-----------:|:----------:|
+| [compLexity](https://twitter.com/compLexity/status/1017491774774890496) | al0t | Mognus | gReazy | stocki |
+| [Dignitas](https://twitter.com/Turbopolsa/status/1024066771320537088) | ViolentPanda | Kaydop | Turbopolsa | JHZER |
+| [ex-Envy](https://twitter.com/remkoe/status/1024004501697699840) | remkoe | EyeIgnite | Metsanauris | Waffle |
+| [Flipsid3 Tactics](https://twitter.com/miztikRL/status/1024356131114766336) | kuxir97 | miztik | Yukeo | Jwols |
+| [Fnatic](https://twitter.com/FNATIC/status/1023978962421272576) | Snaski | Maestro | MummiSnow | Lauty |
+| [mouseports](https://twitter.com/mousesports/status/1023946460486938624) | Skyline | Alex161 | Tigreee | Frag |
+| PSG* | Ferra | Chausette45 | Bluey | ??? |
+| Renault Vitality* | Paschy90 | FairyPeak | ??? | ??? |
+
+\* Indicates an unconfirmed roster.
+
+**North America**
+
+| Team | Starter 1 | Starter 2 | Starter 3 | Substitute |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------|------------|-----------|------------|
+| Allegiance | TyNotTyler | Allushin | Sea-Bass |  |
+| [Cloud9](https://twitter.com/SquishyMuffinz/status/1024313068782641152) | SquishyMuffinz | Torment | Gimmick | Sadjunior |
+| [Evil Geniuses](https://www.facebook.com/notes/evil-geniuses/roster-update-evil-geniuses-rocket-league-acquisition/10155915887084355/) | CorruptedG | Klassux | Chicago | Raze |
+| [FlyQuest](https://twitter.com/FlyQuestSports/status/1014222417487712256) | PrimeThunder | Wonder | AyyJayy | Pluto |
+| [G2 Esports](https://twitter.com/KronoviRL/status/1024387065021177856) | Kronovi | Rizzo | JKnaps | Mijo |
+| [Ghost Gaming](https://twitter.com/GhostGaming_GG/status/1023354185704767490) | Lethamyr | Zanejackey | Memory | gorocksgo |
+| [NRG](https://twitter.com/GarrettG/status/1024032308641316864) | Fireburner | GarrettG | jstn | Lachinio |
+| [Rogue](https://twitter.com/Sizz/status/1024062773255233536) | Sizz | Jacob | Joro | matt |
+
 Rival Series roster lock and qualifier registration ends August 6th. https://twitter.com/RLEsports/status/1024376653814755328
 
 # Zephyr Update Releases
