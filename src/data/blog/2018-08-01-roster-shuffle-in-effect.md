@@ -10,7 +10,7 @@ tags:
   - Content Update
   - Rocket Street
 ---
-Rosters for RLCS locked Monday night, so players and organizations announced their official squads for the upcoming season. As is tradition, a majority of the squads saw changes to their roster. 
+Teams and organizations announced their official squads for the upcoming season as rosters for RLCS locked Monday night. As is tradition before a season of RLCS, a majority of the squads saw changes to their roster. 
 
 **Europe**
 
