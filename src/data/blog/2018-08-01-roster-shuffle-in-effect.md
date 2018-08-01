@@ -22,7 +22,7 @@ Teams and organizations announced their official squads for the upcoming season 
 | [Flipsid3 Tactics](https://twitter.com/miztikRL/status/1024356131114766336) | kuxir97 | miztik | Yukeo | Jwols |
 | [Fnatic](https://twitter.com/FNATIC/status/1023978962421272576) | Snaski | Maestro | MummiSnow | Lauty |
 | [mouseports](https://twitter.com/mousesports/status/1023946460486938624) | Skyline | Alex161 | Tigreee | Frag |
-| PSG* | Ferra | Chausette45 | Bluey | ??? |
+| [PSG](https://twitter.com/PSGeSports/status/1024710148798013441) | Ferra | Chausette45 | fruityl0l | Bluey |
 | Renault Vitality* | Paschy90 | FairyPeak | ??? | ??? |
 
 \* Indicates an unconfirmed roster
