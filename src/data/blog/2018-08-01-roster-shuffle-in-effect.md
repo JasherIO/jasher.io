@@ -10,8 +10,6 @@ tags:
   - Content Update
   - Rocket Street
 ---
-# RLCS Roster Lock
-
 Rival Series roster lock and qualifier registration ends August 6th. https://twitter.com/RLEsports/status/1024376653814755328
 
 # Zephyr Update Releases
