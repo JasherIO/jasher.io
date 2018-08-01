@@ -10,6 +10,8 @@ tags:
   - Content Update
   - Rocket Street
 ---
+As the offseason draws to a close, we look forward to the next season of RLCS. As is tradition, the roster lock dates for RLCS and Rival Series 
+
 **Europe**
 
 | Team | Starter 1 | Starter 2 | Starter 3 | Substitute |
@@ -23,7 +25,7 @@ tags:
 | PSG* | Ferra | Chausette45 | Bluey | ??? |
 | Renault Vitality* | Paschy90 | FairyPeak | ??? | ??? |
 
-\* Indicates an unconfirmed roster.
+\* Indicates an unconfirmed roster
 
 **North America**
 
@@ -38,7 +40,7 @@ tags:
 | [NRG](https://twitter.com/GarrettG/status/1024032308641316864) | Fireburner | GarrettG | jstn | Lachinio |
 | [Rogue](https://twitter.com/Sizz/status/1024062773255233536) | Sizz | Jacob | Joro | matt |
 
-Rival Series roster lock and qualifier registration ends August 6th. https://twitter.com/RLEsports/status/1024376653814755328
+Expect to see more roster announcements before the [August 6th](https://twitter.com/RLEsports/status/1024376653814755328) roster lock deadline. In preparation, bookmark Liquipedia's [tranfer page](https://liquipedia.net/rocketleague/Transfers) and Octane's [RLCS roster tracker](https://octane.gg/news/rlcs-season-6-roster-tracker#rlcs-eu) to follow all of the latest roster moves.
 
 # Zephyr Update Releases
 
