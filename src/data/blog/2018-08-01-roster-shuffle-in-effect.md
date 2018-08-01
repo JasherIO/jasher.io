@@ -44,7 +44,13 @@ Expect to see more roster announcements before the [August 6th](https://twitter.
 
 # Zephyr Update Releases
 
-https://www.rocketleague.com/news/patch-notes-v1-49/
+The [Zephyr Update](https://www.rocketleague.com/news/patch-notes-v1-49/), named after the new crate, released Monday and includes:
+
+* The 'Zephyr' crate (and the Cyclone battle-car)
+* Xbox key trading
+* Throwback Stadium (as a selectable arena)
+* Performance / Network Graphs (Steam / PC only)
+* Various bug fixes
 
 ---
 
