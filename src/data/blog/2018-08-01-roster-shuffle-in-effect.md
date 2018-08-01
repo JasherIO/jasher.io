@@ -10,7 +10,7 @@ tags:
   - Content Update
   - Rocket Street
 ---
-As is tradition, the period before the next season of RLCS includes many transfers and squad formations. Rosters for RLCS locked Monday night and
+As is tradition, the period before the next season of RLCS includes many transfers and squad formations. Rosters for RLCS locked Monday night, so players and organizations announced their official squads for the upcoming season. 
 
 **Europe**
 
