@@ -66,6 +66,7 @@ The [Zephyr Update](https://www.rocketleague.com/news/patch-notes-v1-49/), named
 
 * [Rocket League: Ultimate Edition drops August 28](https://www.rocketleague.com/news/rocket-league-ultimate-edition-august-28/)
 * [SAM Championship concludes with Finals in Sao Paulo](https://www.reddit.com/r/RocketLeagueEsports/comments/92mm15/sam_championship_lan_finals_live_discussion/)
+* [Universal Open Central Regional takes place Sunday](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2/US_Central/Regional)
 
 ### Shows
 
