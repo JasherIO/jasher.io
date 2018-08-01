@@ -10,7 +10,7 @@ tags:
   - Content Update
   - Rocket Street
 ---
-As the offseason draws to a close, we look forward to the next season of RLCS. As is tradition, the roster lock dates for RLCS and Rival Series 
+As is tradition, the period before the next season of RLCS includes many transfers and squad formations. Rosters for RLCS locked Monday night and
 
 **Europe**
 
@@ -40,7 +40,7 @@ As the offseason draws to a close, we look forward to the next season of RLCS. A
 | [NRG](https://twitter.com/GarrettG/status/1024032308641316864) | Fireburner | GarrettG | jstn | Lachinio |
 | [Rogue](https://twitter.com/Sizz/status/1024062773255233536) | Sizz | Jacob | Joro | matt |
 
-Expect to see more roster announcements before the [August 6th](https://twitter.com/RLEsports/status/1024376653814755328) roster lock deadline. In preparation, bookmark Liquipedia's [tranfer page](https://liquipedia.net/rocketleague/Transfers) and Octane's [RLCS roster tracker](https://octane.gg/news/rlcs-season-6-roster-tracker#rlcs-eu) to follow all of the latest roster moves.
+Expect to see more roster announcements before the [August 6th](https://twitter.com/RLEsports/status/1024376653814755328) roster lock deadline. In preparation, bookmark Liquipedia's [transfer page](https://liquipedia.net/rocketleague/Transfers) and Octane's [RLCS roster tracker](https://octane.gg/news/rlcs-season-6-roster-tracker#rlcs-eu) to follow all of the latest roster moves.
 
 # Zephyr Update Releases
 
