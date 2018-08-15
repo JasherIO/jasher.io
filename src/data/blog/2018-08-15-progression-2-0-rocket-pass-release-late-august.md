@@ -18,14 +18,9 @@ The latest [feature update](https://www.rocketleague.com/news/cross-platform-par
 
 # Rival Series Qualifiers Continue
 
-Last weekend Splyce, Bread, The D00ds, and more advanced through the first qualifier to the early September play-in. 96 more teams fight for play-in spots in qualifiers over the next 2 weeks. 
+Last weekend 32 teams, including Splyce, Bread, The D00ds, etc., advanced through the first qualifier ([EU](https://smash.gg/tournament/rlcs-season-6-eu/events), [NA](https://smash.gg/tournament/rlcs-season-6-na/events)) to the early September play-in. 96 more teams compete for play-in spots in qualifiers over the next 2 weeks. 
 
-The Summer Open
-
-Teams are preparing for play-in 
-
-Skirmish hosted by Dazerin
-Summer Open
+The [Summer Open](https://www.reddit.com/r/RocketLeague/comments/953rgf/summer_open_18_presented_by_rival_esports_1000/) and [Skirmish](https://twitter.com/iDazerin/status/1027586600363024384) showmatches hosted by [Dazerin](https://twitter.com/iDazerin) help teams prepare for the play-in weekend. 
 
 Outside of Rival Series, teams were finalized for the [Universal Open Grand Final](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2). And, the [WorldGaming Canadian Challenge](https://liquipedia.net/rocketleague/Rocket_League_Canadian_Challenge) takes place in Toronto this weekend.  
 
