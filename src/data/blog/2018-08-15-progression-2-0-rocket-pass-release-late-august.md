@@ -43,6 +43,7 @@ Outside of Rival Series, teams were finalized for the [Universal Open Grand Fina
 ### Shows
 
 * [Casual Talk: Cole](https://www.youtube.com/watch?v=9USovKDSEuY)
+* [Live from Mannfield: Ep. 119 "We Should Fly a Plane!" More Chance Stats, Cross Platform Party's Info, Ban System Stats and New Mechanic?](http://www.lfmannfield.com/episodes/2018/8/14/ep-119-we-should-fly-a-plane-more-chance-stats-cross-platform-partys-info-ban-system-stats-and-new-mechanic)
 * [NARLI 2 Aftermovie](https://www.youtube.com/watch?v=HJSQPCjRVTc)
 
 ---
