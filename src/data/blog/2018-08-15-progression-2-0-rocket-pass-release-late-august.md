@@ -10,9 +10,9 @@ tags:
   - RIVAL
   - feature update
 ---
-Psyonix is releasing the latest feature 
+Psyonix releases the next feature update at the end of the month. 
 
-[Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/)
+[Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/) makes changes to the current XP and item drop system. XP levels are no longer capped and are unlocked from level-to-level at the same XP amount. Random drops are being replaced with level-up drops. 
 
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/)
 
