@@ -12,15 +12,15 @@ tags:
 ---
 Psyonix releases the next feature update at the end of the month. 
 
-[Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/) makes changes to the current XP and item drop system. XP levels are no longer capped and are unlocked from level-to-level at the same XP amount. Random drops are being replaced with level-up drops. 
+[Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/) makes changes to the XP and item drop system. XP levels are no longer capped and are unlocked from level-to-level at the same XP amount. Additionally, random drops are being replaced with drops from leveling up.
 
-[Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/)
+[Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn Pass Tiers by leveling up, which unlock new cosmetic items. In addition, players may earn rewards from two tier tracks, free and premium. For $9.99, players can unlock the premium track, which rewards different items from the free track. 
 
 Cross-platform parties pushed to September
 
 https://www.rocketleague.com/news/cross-platform-party-summer-roadmap-update/
 
-# 
+# Blah
 
 First Qualifier
 Three more qualifiers
