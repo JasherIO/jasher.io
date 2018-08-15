@@ -16,13 +16,19 @@ The latest [feature update](https://www.rocketleague.com/news/cross-platform-par
 
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn Pass Tiers by leveling up. Pass Tiers then unlock new cosmetic items in two tracks, free and premium. For $9.99, players can unlock the premium track, which rewards additional and different items from the free track. 
 
-# Blah
+# Rival Series Qualifiers Continue
 
-First Qualifier
-Three more qualifiers
+Last weekend Splyce, Bread, The D00ds, and more advanced through the first qualifier to the early September play-in. 96 more teams fight for play-in spots in qualifiers over the next 2 weeks. 
+
+The Summer Open
+
+Teams are preparing for play-in 
+
 Skirmish hosted by Dazerin
 Summer Open
-September play-ins
+
+Outside of Rival Series, teams were finalized for the [Universal Open Grand Final](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2). And, the [WorldGaming Canadian Challenge](https://liquipedia.net/rocketleague/Rocket_League_Canadian_Challenge) takes place in Toronto this weekend.  
+
 
 ---
 
