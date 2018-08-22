@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: Clubs Debut Next Wednesday
+title: Clubs Debut in the Progression Update
 date: '2018-08-22T09:21:53-05:00'
 category: This Week in Rocket League
 tags:
   - RLCS
   - Rival Series
 ---
+
+
 # What's happening in RLEsports?
 
 * [South America](https://www.rocketleagueesports.com/news/let-s-talk----south-america/) joins RLCS next year.
