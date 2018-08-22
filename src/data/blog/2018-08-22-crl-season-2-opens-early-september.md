@@ -8,14 +8,13 @@ tags:
   - RLCS
   - Rival Series
 ---
-### Esports Recap
+# Esports Recap
 
-CRL
-The Coliseum presented by Rewind Gaming
-Summer Open 2018 presented by Rival Esports
-Canadian Challenge presented by World Gaming
-South America joins RLCS next year
-
+* CRL
+* The Coliseum presented by Rewind Gaming
+* Summer Open 2018 presented by Rival Esports
+* Canadian Challenge presented by World Gaming
+* South America joins RLCS next year
 
 ---
 
