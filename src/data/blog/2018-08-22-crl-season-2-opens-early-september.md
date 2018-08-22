@@ -11,7 +11,7 @@ tags:
 # What's happening in RLEsports?
 
 * [South America joins RLCS next year.](https://www.rocketleagueesports.com/news/let-s-talk----south-america/)
-* CRL
+* [Season 2](https://www.rocketleagueesports.com/news/collegiate-rocket-league-is-back-in-session-/) of Collegiate Rocket League (CRL) starts in early September.
 * Rewind Gaming announced [The Colosseum](https://www.reddit.com/r/RocketLeague/comments/98d9oh/rewind_gaming_presents_the_colosseum_5760_prize/), a multi-day European tournament sponsored by Psyonix.
 * [Canadian Challenge](https://www.reddit.com/r/RocketLeagueEsports/comments/98kkdl/worldgaming_rl_canadian_challenge_lan_finals_info/) and [Summer Open](https://www.reddit.com/r/RocketLeagueEsports/comments/98nbcp/rival_esports_summer_open_2018_finals_info/) wrapped up.
 
