@@ -37,3 +37,9 @@ South America joins RLCS next year
 * [20 Questions: SquishyMuffinz](https://www.youtube.com/watch?v=rufNJgBgCdc)
 * [Casual Talk: StumpyGoblin](https://www.youtube.com/watch?v=9whif7p21JU)
 * [Rocket Science: The best turning cars in RL](https://www.youtube.com/watch?v=4OBMq9faWzg)
+
+---
+
+Check out /r/RocketLeagueEsports' curated [resources list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for a bevy of information on the Rocket League competitive scene.
+
+For the latest updates on *This Week in Rocket League*, follow [@JasherIO](https://twitter.com/JasherIO)! 
