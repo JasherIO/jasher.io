@@ -1,20 +1,19 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: CRL Season 2 Opens Early September
+title: Clubs Debut Next Wednesday
 date: '2018-08-22T09:21:53-05:00'
 category: This Week in Rocket League
 tags:
   - RLCS
   - Rival Series
 ---
-# Esports Recap
+# What's happening in RLEsports?
 
+* [South America joins RLCS next year.](https://www.rocketleagueesports.com/news/let-s-talk----south-america/)
 * CRL
-* The Coliseum presented by Rewind Gaming
-* Summer Open 2018 presented by Rival Esports
-* Canadian Challenge presented by World Gaming
-* South America joins RLCS next year
+* Rewind Gaming announced [The Colosseum](https://www.reddit.com/r/RocketLeague/comments/98d9oh/rewind_gaming_presents_the_colosseum_5760_prize/), a multi-day European tournament sponsored by Psyonix.
+* [Canadian Challenge](https://www.reddit.com/r/RocketLeagueEsports/comments/98kkdl/worldgaming_rl_canadian_challenge_lan_finals_info/) and [Summer Open](https://www.reddit.com/r/RocketLeagueEsports/comments/98nbcp/rival_esports_summer_open_2018_finals_info/) wrapped up.
 
 ---
 
