@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: Clubs Debuts in the Progression Update
+title: Clubs Debut in the Progression Update
 date: '2018-08-22T09:21:53-05:00'
 category: This Week in Rocket League
 tags:
