@@ -9,8 +9,7 @@ tags:
   - Rival Series
   - Feature Update
 ---
-
-
+Teams from Europe and North America have battled over the past month for 128 spots for this weekend's play-ins. 4 teams in Europe and 6 teams in North America have a chance at qualifying for Rival Series. 
 
 **What else is happening in RLEsports?**
 
@@ -48,6 +47,7 @@ For a detailed description of everything included in today's update, read the [p
 ### Shows
 
 * [Casual Talks: Turtle](https://www.youtube.com/watch?v=rr4fNUn5FgY)
+* [Live from Mannfield: Ep. 121 "Cat Hair in My Vent!" Progression Update, Clubs, Universal Open 2 Results and More!](http://www.lfmannfield.com/episodes/2018/8/28/ep-121-luke-i-am-your-father-progression-update-clubs-universal-open-2-results-and-more)
 
 ---
 
