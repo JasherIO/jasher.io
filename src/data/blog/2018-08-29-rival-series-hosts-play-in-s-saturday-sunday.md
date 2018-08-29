@@ -19,11 +19,15 @@ tags:
 
 # Progression Update Releases Today
 
+The Progression Update drops at [10AM PT today](https://twitter.com/RocketLeague/status/1034830883562221568) and includes Progression 2.0 and Clubs. Rocket Pass goes live the week after. 
+
 [Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/) makes changes to the XP and item drop system. XP levels are no longer capped and are unlocked from level-to-level at the same XP amount. Additionally, random drops are being replaced with drops from leveling up.
 
-[Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn Pass Tiers by leveling up. Pass Tiers then unlock new cosmetic items in two tracks, free and premium. For $9.99, players can unlock the premium track, which rewards additional and different items from the free track. Rocket Pass goes live a week from today.
-
 [Clubs](https://www.rocketleague.com/news/progression-update-august-29/) is a new social feature that allows up to 20 players to group up under one banner as a team. Players are able to name the club and create a custom tag.
+
+[Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn Pass Tiers by leveling up. Pass Tiers then unlock new cosmetic items in two tracks, free and premium. For $9.99, players can unlock the premium track, which rewards additional and different items from the free track.
+
+For a detailed description of everything included in today's update, read the [patch notes](https://www.rocketleague.com/news/patch-notes-v1-50-progression-update/).
 
 ---
 
