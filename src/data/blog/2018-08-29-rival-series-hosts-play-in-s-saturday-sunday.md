@@ -10,12 +10,13 @@ tags:
   - Feature Update
 ---
 
+
+
 **What else is happening in RLEsports?**
 
-* The Colosseum progressed through 2 of 3 qualifiers. 
 * Cloud9 defeated Girls to take Season 2 of the [Universal Open](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2).
+* [The Colosseum](https://liquipedia.net/rocketleague/Rewind_Gaming/The_Colosseum) progressed through the qualifiers over the past week. The finals take place this Saturday, September 1st.
 * [Throwdown Championship talent](https://twitter.com/ThrowdownTV/status/1034699709007323137) announced. Jake, formerly of Chiefs, is on the card.
-
 
 # Progression Update Releases Today
 
@@ -33,12 +34,20 @@ For a detailed description of everything included in today's update, read the [p
 
 ### Articles
 
+* [A New Passion](https://www.theplayerslobby.com/2292/a-new-passion-by-gabriel-corruptedg-vallozzi-evil-geniuses/#.u75K3I4ikc)
 * [Common Rotation Mistakes to Avoid in Rocket League](http://team-dignitas.net/articles/blogs/rocket-league/12849/common-rotation-mistakes-to-avoid-in-rocket-league)
 * [Interview with #DIGRL player Kaydop](http://team-dignitas.net/articles/news/Interview/12883/interview-with-digrl-player-kaydop)
+* [Navigating the OCE Championship Qualifiers](https://throwdownesports.com/navigating-the-oce-championship-qualifiers/)
+* [Rising Star: Sypical](https://octane.gg/news/rising-star-the-story-of-sypical/)
+* [Roster Outlook for RLCS Season 6](https://armchairallamericans.com/roster-outlook-rlcs-season-6/)
 
 ### News
 
+* [GEXCon hosts local 3v3 in Virginia](https://www.reddit.com/r/RocketLeague/comments/97j1b4/lan_gexcon_presents_1000_rocket_league_3v3/)
+
 ### Shows
+
+* [Casual Talks: Turtle](https://www.youtube.com/watch?v=rr4fNUn5FgY)
 
 ---
 
