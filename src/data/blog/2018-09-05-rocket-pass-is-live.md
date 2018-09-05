@@ -33,6 +33,8 @@ The first Rocket Pass event begins today and runs through November 26th. For a m
 
 ### News
 
+* [Fantasy League for Season 6 is Live](https://www.reddit.com/r/RocketLeagueEsports/comments/9czp4o/rlg_fantasy_league_is_now_live/)
+
 ### Shows
 
 * [Boost!: Mind Over Matter](https://www.youtube.com/watch?v=BLIizG4SWuU)
