@@ -37,10 +37,13 @@ European and North American teams claimed spots in Rival Series over the weekend
 | The Hosses | Chrome | Insolences | Timi | Nomad |
 | The Peeps | Arsenal | ExplosiveGyro | Pirates | Gray |
 
-Now, their journey takes them to league play, which begins Friday for Rival Series and Saturday / Sunday for RLCS. 
+Now, their journey takes them to league play, which begins next Friday, September 14th, for Rival Series. RLCS begins this weekend. 
+
+&nbsp;
 
 **What else is happening in RLEsports?**
 
+* [CRL begins Qualifiers Saturday / Sunday](https://www.rocketleagueesports.com/news/collegiate-rocket-league-is-back-in-session-/)
 * PSG defeated We Dem Girlz in a close Grand Finals to clinch [The Colosseum](https://liquipedia.net/rocketleague/Rewind_Gaming/The_Colosseum)
 * Psyonix released the [RLCS League Play Schedule](https://twitter.com/RLEsports/status/1037053818121347072)
 
