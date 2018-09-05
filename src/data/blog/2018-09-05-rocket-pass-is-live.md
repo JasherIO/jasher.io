@@ -15,7 +15,7 @@ The first Rocket Pass event begins today and runs through November 26th. For a m
 
 # League Play Begins Friday
 
-European and North American teams claimed spots in Rival Series over the weekend in play-ins. Now, their journey takes them to league play, which begins Friday for Rival Series. RLCS teams start play this weekend. 
+European and North American teams claimed spots in Rival Series over the weekend in play-ins.  
 
 **Europe**
 
@@ -36,6 +36,8 @@ European and North American teams claimed spots in Rival Series over the weekend
 | Splyce | DudeWithTheNose | JWismont | Karma | Dappur |
 | The Hosses | Chrome | Insolences | Timi | Nomad |
 | The Peeps | Arsenal | ExplosiveGyro | Pirates | Gray |
+
+Now, their journey takes them to league play, which begins Friday for Rival Series and Saturday / Sunday for RLCS. 
 
 **What else is happening in RLEsports?**
 
