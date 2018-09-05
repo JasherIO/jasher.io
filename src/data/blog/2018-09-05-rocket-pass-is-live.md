@@ -11,7 +11,7 @@ tags:
 ---
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn tiers by leveling up. Tiers then unlock cosmetic items in two tracks, free and premium. Players acquire the premium track for $9.99, which rewards additional and different items from the free track. 
 
-The first Rocket Pass event begins today and runs through November 26th. For a more in-depth description of the first Rocket Pass event, read the [dedicated page](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-1/).
+The first Rocket Pass event begins today and runs through November 26th. For a more in-depth description of the first Rocket Pass event, read the [dedicated page](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-1/) or the [community thread](https://www.reddit.com/r/RocketLeague/comments/9bx5vv/rocket_pass_explain_like_im_5_edition/).
 
 # Rival Series Teams Confirmed, League Play begins Friday
 
