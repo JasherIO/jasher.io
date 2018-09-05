@@ -13,9 +13,29 @@ tags:
 
 The first Rocket Pass event begins today and runs through November 26th. For a more in-depth description of the first Rocket Pass event, read the [dedicated page](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-1/) or the [community thread](https://www.reddit.com/r/RocketLeague/comments/9bx5vv/rocket_pass_explain_like_im_5_edition/).
 
-# Rival Series Teams Confirmed, League Play begins Friday
+# League Play Begins Friday
 
+European and North American teams claimed spots in Rival Series over the weekend in play-ins. Now, their journey takes them to league play, which begins Friday for Rival Series. RLCS teams start play this weekend. 
 
+**Europe**
+
+| Team | Player 1 | Player 2 | Player 3 | Substitute |
+|:------------:|:--------:|:--------:|:----------:|:----------:|
+| Method | Borito B | Kassio | Rix_Ronday | Kefla |
+| Savage | Alpha54 | Deevo | Bluey | Jessie |
+| The Bricks | Didris | Friis | Shakahron | Pugsay |
+| The Clappers | Calix | Oscillon | PetricK | Ghostfire |
+
+**North America**
+
+| Team | Player 1 | Player 2 | Player 3 | Substitute |
+|:----------:|:---------------:|:-------------:|:--------:|:----------:|
+| Bread | AxB | Satthew | Sypical | Ostyn |
+| Compadres | Aeon | Astroh | Moses | CS3 |
+| Manhattan | Ayjacks | Malakiss | Tmon | Mist |
+| Splyce | DudeWithTheNose | JWismont | Karma | Dappur |
+| The Hosses | Chrome | Insolences | Timi | Nomad |
+| The Peeps | Arsenal | ExplosiveGyro | Pirates | Gray |
 
 **What else is happening in RLEsports?**
 
