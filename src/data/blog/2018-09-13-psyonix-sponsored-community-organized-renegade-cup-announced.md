@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: The World Championship is Headed to Vegas
+title: World Championship To Vegas
 date: '2018-09-13T08:37:21-05:00'
 category: This Week in Rocket League
 tags:
@@ -13,23 +13,23 @@ tags:
   - RocketID
   - Cross-Platform Parties
 ---
+The 
+
 https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-heading-to-vegas-/
 
 https://us.nallen.me/rlcs/
 
+
+**What else is happening in RLEsports?**
+
+* [GoldRush Announced a Weekly Bay Area Talk Show](https://twitter.com/goldrushgg/status/1039925673337413632)
+* [Psyonix Sponsored, Community Organized Renegade Cup Announced](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/)
+
 # Cross-Platform Parties Pushed Past September
 
----
+RocketID, Rocket League's cross-platform parties, has been [pushed from September](https://www.rocketleague.com/news/progression-update-follow-up-rocketid/) to ensure that it "is operating flawlessly on all platforms before its release." A release date has not been determined.
 
-### Psyonix Sponsored, Community Organized Renegade Cup Announced
-
-The Renegade Cup is a new endeavor by Psyonix
-
-https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/
-
-### GoldRush Announces Weekly Bay Area Talk Show
-
-https://twitter.com/goldrushgg/status/1039925673337413632?s=21
+We can look forward to an Autumn / Winter Roadmap in early October.
 
 ---
 
