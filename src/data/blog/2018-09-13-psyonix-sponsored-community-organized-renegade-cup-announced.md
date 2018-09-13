@@ -13,11 +13,9 @@ tags:
   - RocketID
   - Cross-Platform Parties
 ---
-The RLCS Season 6 World Championship takes place at the Orleans Arena in Las Vegas November 9th - 11th. 
+The [RLCS Season 6 World Championship](https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-heading-to-vegas-/) takes place at the [Orleans Arena](https://www.orleansarena.com/) in Las Vegas, November 9th - 11th. 
 
-https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-heading-to-vegas-/
-
-https://us.nallen.me/rlcs/
+Rival Series kicks off Friday and Week 2 of RLCS continues on Saturday and Sunday. To stay up-to-date on RLCS, make sure to visit [Liquipedia](https://liquipedia.net/rocketleague/Main_Page), [Octane](https://octane.gg/), and [Nathan Allen's Playoff Predictor](https://us.nallen.me/rlcs/).
 
 **What else is happening in RLEsports?**
 
