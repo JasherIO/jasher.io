@@ -19,9 +19,9 @@ https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-hea
 
 https://us.nallen.me/rlcs/
 
-
 **What else is happening in RLEsports?**
 
+* [APL Season 3 Cancelled](http://www.twitlonger.com/show/n_1sqlfkj)
 * [GoldRush Announced a Weekly Bay Area Talk Show](https://twitter.com/goldrushgg/status/1039925673337413632)
 * [Psyonix Sponsored, Community Organized Renegade Cup Announced](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/)
 
@@ -29,7 +29,7 @@ https://us.nallen.me/rlcs/
 
 RocketID, Rocket League's cross-platform parties, has been [pushed from September](https://www.rocketleague.com/news/progression-update-follow-up-rocketid/) to ensure that it "is operating flawlessly on all platforms before its release." A release date has not been determined.
 
-We can look forward to an Autumn / Winter Roadmap in early October.
+An Autumn / Winter Roadmap releases in early October.
 
 ---
 
@@ -42,7 +42,6 @@ We can look forward to an Autumn / Winter Roadmap in early October.
 
 ### News
 
-* [APL Season 3 Cancelled](http://www.twitlonger.com/show/n_1sqlfkj)
 * [Celebration of Life Ceremony for Shalthis - Sept. 23 in Hyannis, MA](https://www.reddit.com/r/RocketLeagueEsports/comments/9dcygf/shalthis_celebration_of_life_announcement/)
 * [MadCity hosts MidWest LAN Oct. 13-14 in Middleton, WI](https://madcity.gg/events/mwl20-byoc-rocket-league-tournament/)
 * [Rocket League "added to British Esports Championships as team registration officially opens"](https://www.reddit.com/r/RocketLeagueEsports/comments/9f0r8z/rocket_league_added_to_british_esports/?ref=share&ref_source=link)
