@@ -13,7 +13,7 @@ tags:
   - RocketID
   - Cross-Platform Parties
 ---
-The 
+The RLCS Season 6 World Championship takes place at the Orleans Arena in Las Vegas November 9th - 11th. 
 
 https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-heading-to-vegas-/
 
@@ -22,7 +22,7 @@ https://us.nallen.me/rlcs/
 **What else is happening in RLEsports?**
 
 * [APL Season 3 Cancelled](http://www.twitlonger.com/show/n_1sqlfkj)
-* [GoldRush Announced a Weekly Bay Area Talk Show](https://twitter.com/goldrushgg/status/1039925673337413632)
+* [GoldRush Announces Rush Hour, a Weekly Bay Area Talk Show](https://twitter.com/goldrushgg/status/1039925673337413632)
 * [Psyonix Sponsored, Community Organized Renegade Cup Announced](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/)
 
 # Cross-Platform Parties Pushed Past September
