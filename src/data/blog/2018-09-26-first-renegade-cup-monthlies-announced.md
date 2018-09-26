@@ -32,10 +32,13 @@ The Psyonix sponsored, community organized event runs from October to January. E
 
 ---
 
-### Rocket League Replays Replacements Sprout
+### New Replay Analysis Sites Launch
 
-https://www.reddit.com/r/RocketLeague/comments/8gd46c/rocket_league_replays_potentially_shutting_down/
-https://www.reddit.com/r/RocketLeague/comments/9hu2lo/introducing_calculatedgg_your_one_stop_shop_for/
+Rocket League Replays, an invaluable replay hoster and analysis tool, [closed in July](https://www.reddit.com/r/RocketLeague/comments/8w1g72/rocket_league_replays_will_be_closing_this_month/). Thankfully, community members have stepped up to create two sites similar in premise to the original. 
+
+[BallChasing.com](https://www.reddit.com/r/RocketLeague/comments/94jfo5/ballchasingcom_is_open_to_business_in_browser_3d/) officially launched in early August. It includes a unique 3D replay viewer and statistical analysis. 
+
+[Calculated.gg](https://www.reddit.com/r/RocketLeague/comments/9hu2lo/introducing_calculatedgg_your_one_stop_shop_for/) opened earlier this week and includes statistical analysis and the ability to auto upload your replays with the popular third-party extension [BakkesMod](http://bakkesmod.com/). 
 
 ---
 
