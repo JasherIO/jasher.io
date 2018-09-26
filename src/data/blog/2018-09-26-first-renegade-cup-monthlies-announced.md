@@ -11,9 +11,9 @@ tags:
   - Rocket Street
   - Nexus Gaming
 ---
-The Psyonix sponsored, community organized [Renegade Cup](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) starts in October with [Grand Prix by Rocket Baguette](https://www.rocketbaguette.com/rbgp/) in Europe and [Project Phoenix by Rival Esports](https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/) in North America. 
+The [Renegade Cup](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) starts in October with the [Grand Prix by Rocket Baguette](https://www.rocketbaguette.com/rbgp/) in Europe and [Project Phoenix by Rival Esports](https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/) in North America. 
 
-https://www.rocketleagueesports.com/news/faq---renegade-cup/
+The Psyonix sponsored, community organized event runs from October to January. Each month a community organizer in Europe and North America holds a $5,000 monthly event. The winning team advances to the finals, while the other teams accrue points based on their placement. The 8 teams with the most points join the monthly winners in the $20,000 February finals. For more information on the Renegade Cup, see the [announcement](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) and [FAQ](https://www.rocketleagueesports.com/news/faq---renegade-cup/). 
 
 **What else is happening in RLEsports?**
 
