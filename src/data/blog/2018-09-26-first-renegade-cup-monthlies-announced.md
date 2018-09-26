@@ -11,8 +11,8 @@ tags:
   - Rocket Street
   - Nexus Gaming
 ---
-https://www.rocketbaguette.com/rbgp/
-https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/
+The Psyonix sponsored, community organized [Renegade Cup](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) starts in October with [Grand Prix by Rocket Baguette](https://www.rocketbaguette.com/rbgp/) in Europe and [Project Phoenix by Rival Esports](https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/) in North America. 
+
 https://www.rocketleagueesports.com/news/faq---renegade-cup/
 
 **What else is happening in RLEsports?**
@@ -32,8 +32,9 @@ https://www.rocketleagueesports.com/news/faq---renegade-cup/
 
 ---
 
-### Rocket League Replays Replacements Sprout Up
+### Rocket League Replays Replacements Sprout
 
+https://www.reddit.com/r/RocketLeague/comments/8gd46c/rocket_league_replays_potentially_shutting_down/
 https://www.reddit.com/r/RocketLeague/comments/9hu2lo/introducing_calculatedgg_your_one_stop_shop_for/
 
 ---
