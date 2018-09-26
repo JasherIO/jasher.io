@@ -19,7 +19,7 @@ https://www.rocketleagueesports.com/news/faq---renegade-cup/
 
 * [Nexus Gaming Returns with Bi-Weekly Events](https://www.reddit.com/r/RocketLeagueEsports/comments/9hjt7b/nexus_gaming_biweekly_tournaments_beginning/)
 * [Monthlies Coming to South America](https://www.rocketleagueesports.com/news/monthly-tournaments-coming-to-south-america/)
-* RLCS, Rival Series, Throwdown, and CRL continue. See table below
+* Championship Series, Rival Series, Throwdown, and CRL continue. See table below
 
 | Event | Region | Progress | Liquipedia | Octane | Other |
 |:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
@@ -43,6 +43,7 @@ https://www.reddit.com/r/RocketLeague/comments/9hu2lo/introducing_calculatedgg_y
 * [1v1 with Team Secret's Stephen 'Tylacto' Griffin](https://www.rocketleagueesports.com/news/1v1-with-team-secret-s-stephen--tylacto--griffin/)
 * [Calculated: FlyQuest](https://www.rocketleagueesports.com/news/calculated--10--flyquest/)
 * [Paschy: “This team is just too good to not make it to LAN”](https://rocketeers.gg/interview-paschy-renault-vitality-rlcs/)
+* [The Perfect Job: Fireworks](https://www.theplayerslobby.com/2684/perfect-job-stephen-swims-fuleihan-fireworks-evil-geniuses-rocket-league/#.0sHRbGNrdj)
 
 ### News
 
