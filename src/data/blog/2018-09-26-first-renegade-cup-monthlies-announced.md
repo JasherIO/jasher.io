@@ -10,6 +10,8 @@ tags:
   - Renegade Cup
   - Rocket Street
   - Nexus Gaming
+  - BallChasing
+  - CalculatedGG
 ---
 The [Renegade Cup](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) starts in October with the [Grand Prix by Rocket Baguette](https://www.rocketbaguette.com/rbgp/) in Europe and [Project Phoenix by Rival Esports](https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/) in North America. 
 
