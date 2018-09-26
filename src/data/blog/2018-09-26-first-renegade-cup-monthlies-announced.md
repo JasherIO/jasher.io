@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: First Renegade Cup Monthlies Announced
+title: October Renegade Cup Monthlies Announced
 date: '2018-09-26T08:27:59-05:00'
 category: This Week in Rocket League
 tags:
