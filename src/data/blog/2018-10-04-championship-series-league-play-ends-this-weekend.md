@@ -10,6 +10,8 @@ tags:
   - Renegade Cup
   - Collegiate RL
 ---
+Championship Series league play draws to a close this weekend as teams seek World Championship and Season 7 qualification. Top 2 teams clinch World Championship qualification, while top 6 teams claim spots for next season and move onto the Regional Championship. 7th and 8th place teams play the 1st and 2nd Rival Series teams for the final Championship Series spots in the Promotion Tournament. Meanwhile, in Oceania, the top 4 teams move onto the Throwdown Finals to compete for the region's 2 World Championship spots. 
+
 | Event | Region | Progress | Liquipedia | Octane | Other |
 |:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 | Championship Series | EU | Week 5 | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe) | [Link](https://octane.gg/event/rlcs-season-six-europe) | [EventVODs](https://eventvods.com/rocket-league/rlcs-europe-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/eu) |
