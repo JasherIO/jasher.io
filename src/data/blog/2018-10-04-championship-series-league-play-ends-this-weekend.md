@@ -21,6 +21,10 @@ Championship Series league play draws to a close this weekend as teams seek Worl
 | Rival Series | NA | Week 4 | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/North_America/Rocket_League_Rival_Series) | [Link](https://octane.gg/event/rlrs-season-six-north-america) | [EventVODs](https://eventvods.com/rocket-league/rlrs-north-america-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/na/rlrs) |
 | Throwdown | OCE | Week 5 | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Oceania/League_Play) | [Link](https://octane.gg/event/throwdown-season-six) | [Playoff Predictor](https://us.nallen.me/rlcs/oce) |
 
+*What else is happening in RLEsports?*
+
+* The Renegade Cup continues through October with [Grand Prix](https://www.reddit.com/r/RocketLeagueEsports/comments/9l26tn/renegade_cup_eu_rocket_baguette_grand_prix_open/) and [Project Phoenix](https://www.reddit.com/r/RocketLeagueEsports/comments/9l2fkf/renegade_cup_na_rival_esports_project_phoenix/).
+
 ---
 
 ### Articles
