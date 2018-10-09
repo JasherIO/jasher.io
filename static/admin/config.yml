@@ -7,7 +7,7 @@ media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
 
-display_url: https://jasherio.netlify.com
+display_url: https://jasher.io
 
 collections:
   - name: "blog"
