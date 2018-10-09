@@ -73,7 +73,7 @@ module.exports = {
         // Setting this parameter is also optional
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
-        // exclude: ["deploy-preview*"],
+        exclude: [ "/admin**" ],
       },
     },
     {
