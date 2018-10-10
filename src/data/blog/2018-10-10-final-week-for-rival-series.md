@@ -50,7 +50,7 @@ tags:
 
 **Oceania**
 
-* 4 teams qualified for the Throwdown Finals
+* 4 teams qualified for the Throwdown Finals, 2 qualify for LAN Vegas
   * Chiefs
   * ORDER
   * SYF Gaming
