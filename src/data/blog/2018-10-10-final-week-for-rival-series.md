@@ -49,6 +49,9 @@ Europe
 
 ### News
 
+* [Double XP Weekend in celebration of SARPBC's 10th Anniversary](https://www.rocketleague.com/news/sarpbc-10th-anniversary-double-xp-weekend/)
+* [Haunted Hallows Returns October 15th](https://www.rocketleague.com/news/haunted-hallows-returns-october-15/)
+
 ### Shows
 
 * [Aftershock Ep. 4](https://www.youtube.com/watch?v=_89nes_i05Q)
