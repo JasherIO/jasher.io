@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 image: /img/TWiRL.png
-title: Final Week for Rival Series
+title: 'Final Week for Rival Series, Regional Championships for Championship Series'
 date: '2018-10-10T10:45:07-05:00'
 category: This Week in Rocket League
 tags:
