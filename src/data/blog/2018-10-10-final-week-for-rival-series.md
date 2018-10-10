@@ -10,12 +10,12 @@ tags:
   - Collegiate RL
   - Throwdown
 ---
-Europe
+**Europe**
 
 * 2 teams qualified for LAN Vegas and the Regional Championship
   * Dignitas
   * Flipsid3 Tactics
-* 4 teams joined the Regional Championship; 2 qualify for LAN Vegas
+* 4 teams joined the Regional Championship, 2 qualify for LAN Vegas
   * mousesports
   * PSG Esports
   * Renault Vitality
@@ -29,12 +29,12 @@ Europe
   * Savage!
   * Team Secret
 
-Europe
+**North America**
 
 * 2 teams qualified for LAN Vegas and the Regional Championship
   * Cloud9
   * G2 Esports
-* 4 teams joined the Regional Championship; 2 qualify for LAN Vegas
+* 4 teams joined the Regional Championship, 2 qualify for LAN Vegas
   * Evil Geniuses
   * FlyQuest
   * Ghost Gaming
@@ -47,6 +47,14 @@ Europe
   * Compadres
   * Splyce
   * The Peeps
+
+**Oceania**
+
+* 4 teams qualified for the Throwdown Finals
+  * Chiefs
+  * ORDER
+  * SYF Gaming
+  * Tainted Minds
 
 | Event | Region | Progress | Liquipedia | Octane | Other |
 |:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
