@@ -8,6 +8,7 @@ tags:
   - Championship Series
   - Rival Series
   - Collegiate RL
+  - Throwdown
 ---
 Europe
 
