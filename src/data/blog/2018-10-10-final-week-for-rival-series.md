@@ -49,6 +49,7 @@ Europe
 
 ### News
 
+* [Community Meetup This Saturday](https://www.rocketleague.com/news/fall-community-meet-up-october-13/)
 * [Double XP Weekend in celebration of SARPBC's 10th Anniversary](https://www.rocketleague.com/news/sarpbc-10th-anniversary-double-xp-weekend/)
 * [Haunted Hallows Returns October 15th](https://www.rocketleague.com/news/haunted-hallows-returns-october-15/)
 
