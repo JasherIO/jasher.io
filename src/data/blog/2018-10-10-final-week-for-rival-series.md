@@ -29,6 +29,25 @@ Europe
   * Savage!
   * Team Secret
 
+Europe
+
+* 2 teams qualified for LAN Vegas and the Regional Championship
+  * Cloud9
+  * G2 Esports
+* 4 teams joined the Regional Championship; 2 qualify for LAN Vegas
+  * Evil Geniuses
+  * FlyQuest
+  * Ghost Gaming
+  * NRG
+* 2 teams head to the Promotional Playoff
+  * Allegiance
+  * Rogue
+* 4 Rival Series teams eligible for Promotional Playoff, 2 qualify
+  * Bread
+  * Compadres
+  * Splyce
+  * The Peeps
+
 | Event | Region | Progress | Liquipedia | Octane | Other |
 |:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 | Championship Series | EU | Regional | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe) | [Link](https://octane.gg/event/rlcs-season-six-europe) | [EventVODs](https://eventvods.com/rocket-league/rlcs-europe-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/eu) |
@@ -59,6 +78,7 @@ Europe
 
 ### Shows
 
+* [101: Rocket League by Ginx TV](https://www.youtube.com/playlist?list=PLWyIDkO2XeYmnau32D_QGNC-4muJIQ-4p)
 * [Aftershock Ep. 4](https://www.youtube.com/watch?v=_89nes_i05Q)
 * [Live from Mannfield: Ep. 126 “who’s the next Pro?” Learn from Pros, New Crate, Community Meet up & Double Xp Weekend!](http://www.lfmannfield.com/episodes/2018/10/9/ep-126-whos-the-next-pro-learn-from-pros-new-crate-community-meet-up-amp-double-xp-weekend)
 * [Rush Hour Ep. 4](https://www.twitch.tv/videos/320641186)
