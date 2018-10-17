@@ -44,7 +44,7 @@ tags:
 
 ### News
 
-
+* [BYOC Event at DreamHack Atlanta](https://www.reddit.com/r/RocketLeagueEsports/comments/9or5le/dreamhack_atlanta_2018_nov_1618_byoc_event_1200/)
 
 ### Shows
 
