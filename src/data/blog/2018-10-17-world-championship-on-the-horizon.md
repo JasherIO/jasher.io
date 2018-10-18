@@ -12,15 +12,24 @@ tags:
   - Renegade Cup
   - Rocket Street
 ---
+10 teams - 4 European, 4 North American, 2 Oceanic - finalized their spots and seeds Saturday and Sunday for LAN Vegas. The World Championship begins Friday, November 9th.
 
-| Event | Region | Progress | Liquipedia | Octane | Other |
-|:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-| Championship Series | EU | World Championship | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe) | [Link](https://octane.gg/event/rlcs-season-six-europe) | [EventVODs](https://eventvods.com/rocket-league/rlcs-europe-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/eu) |
-| Championship Series | NA | World Championship | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/North_America) | [Link](https://octane.gg/event/rlcs-season-six-north-america) | [EventVODs](https://eventvods.com/rocket-league/rlcs-north-america-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/na) |
-| Collegiate RL | NA | Playoffs | -- | -- | [Tespa](https://compete.tespa.org/tournament/117) |
-| Rival Series | EU | Promotional Playoff | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe/Rocket_League_Rival_Series) | [Link](https://octane.gg/event/rlrs-season-six-europe) | [EventVODs](https://eventvods.com/rocket-league/rlrs-europe-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/eu/rlrs) |
-| Rival Series | NA | Promotional Playoff | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/North_America/Rocket_League_Rival_Series) | [Link](https://octane.gg/event/rlrs-season-six-north-america) | [EventVODs](https://eventvods.com/rocket-league/rlrs-north-america-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/na/rlrs) |
-| Throwdown | OCE | World Championship| [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Oceania/League_Play) | [Link](https://octane.gg/event/throwdown-season-six) | [Playoff Predictor](https://us.nallen.me/rlcs/oce) |
+See [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) or [Octane](https://octane.gg) for more information.
+
+| Region | Seed | Team | Player 1 | Player 2 | Player 3 |
+|:------:|:----:|:----------------:|:-----------:|:--------------:|:------------:|
+| EU | 1 | Dignitas | Kaydop | Turbopolsa | ViolentPanda |
+| EU | 2 | We Dem Girlz | EyeIgnite | Metsanauris | remkoe |
+| EU | 3 | FlipSid3 Tactics | kuxir97 | miztik | Yukeo |
+| EU | 4 | PSG | Chausette45 | Ferra | Fruity |
+| NA | 1 | NRG | Fireburner | GarrettG | jstn |
+| NA | 2 | G2 | JKnaps | Kronovi | Rizzo |
+| NA | 3 | Cloud9 | Gimmick | SquishyMuffinz | Torment |
+| NA | 4 | Evil Geniuses | Chicago | CorruptedG | Klassux |
+| OCE | 1 | Tainted Minds | CJCJ | Express | Shadey |
+| OCE | 2 | Chiefs | Drippay | Kamii | Torsos |
+
+Collegiate Rocket League wrapped up round robin play on Wednesday. Teams now progress to the conference playoffs, which take place October 20th, 22nd, and 29th. See the [Tespa site](https://compete.tespa.org/tournament/117) for more information.  
 
 **What else is happening in RLEsports?**
 
