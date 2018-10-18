@@ -68,7 +68,7 @@ For more information, read the [full post](https://www.rocketleague.com/news/roc
 ### Shows
 
 * [Aftershock Ep. 5](https://www.youtube.com/watch?v=sp8U-lsEvM4)
-* [Rush Hour Ep. 5]()
+* [Live from Mannfield: Ep. 127 “600 Million?” Haunted Hallows, Rlcs Tickets on Sale, Hot Wheels Rival Release Date and Fall Roadmap!](http://www.lfmannfield.com/episodes/2018/10/17/ep-127-600-million-haunted-hallows-rlcs-tickets-on-sale-hot-wheels-rival-release-date-and-fall-roadmap)
 
 ---
 
