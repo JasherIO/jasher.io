@@ -33,13 +33,13 @@ tags:
 
 # Fall Roadmap
 
-https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
-
 * RocketID (cross-platform parties) pushed to 2019
   * The party system was first announced in [September 2017](https://www.rocketleague.com/news/roadmap-after-autumn-update/)
 * 60 FPS 4K and HDR coming to Xbox One X
 * Rocket Pass 1 ends November 26th; Rocket Pass 2 releases in December
 * Frost Fest in-game event begins mid-December
+
+For more information, read the [full post](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/).
 
 ---
 
