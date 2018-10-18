@@ -13,10 +13,6 @@ tags:
   - Rocket Street
 ---
 
-* [Advanced League Play Stats by CloudFuel](https://twitter.com/CloudFuel/status/1052588455253987329)
-* [Ghost's Lethamyr to coach Flipsid3 Tactics](https://twitter.com/Lethamyr_RL/status/1052624073837051906)
-* [Tickets](https://www.reddit.com/r/RocketLeagueEsports/comments/9op14x/rlcs_world_championship_tickets_megathread/)
-
 | Event | Region | Progress | Liquipedia | Octane | Other |
 |:-------------------:|:------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 | Championship Series | EU | World Championship | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe) | [Link](https://octane.gg/event/rlcs-season-six-europe) | [EventVODs](https://eventvods.com/rocket-league/rlcs-europe-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/eu) |
@@ -26,11 +22,22 @@ tags:
 | Rival Series | NA | Promotional Playoff | [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/North_America/Rocket_League_Rival_Series) | [Link](https://octane.gg/event/rlrs-season-six-north-america) | [EventVODs](https://eventvods.com/rocket-league/rlrs-north-america-season-6?s=0), [Playoff Predictor](https://us.nallen.me/rlcs/na/rlrs) |
 | Throwdown | OCE | World Championship| [Link](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Oceania/League_Play) | [Link](https://octane.gg/event/throwdown-season-six) | [Playoff Predictor](https://us.nallen.me/rlcs/oce) |
 
-# November Renegade Cups to Nexus Gaming and Rocketeers
-
 **What else is happening in RLEsports?**
 
+* [Advanced League Play Stats by CloudFuel](https://twitter.com/CloudFuel/status/1052588455253987329)
+* [BYOC Event at DreamHack Atlanta](https://www.reddit.com/r/RocketLeagueEsports/comments/9or5le/dreamhack_atlanta_2018_nov_1618_byoc_event_1200/)
+* [Ghost's Lethamyr to coach Flipsid3 Tactics](https://twitter.com/Lethamyr_RL/status/1052624073837051906)
+* [November Renegade Cups to Nexus Gaming and Rocketeers](https://www.rocketleagueesports.com/news/november-renegade-cup-monthly-tournaments-/)
 * [Pirates leaves The Peeps](https://twitter.com/unwise_pirates/status/1051943345109553152)
+* [Tickets on Sale for LAN Vegas](https://www.reddit.com/r/RocketLeagueEsports/comments/9op14x/rlcs_world_championship_tickets_megathread/)
+
+# Fall Roadmap
+
+https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
+
+* RocketID (cross-platform parties) pushed to 2019
+  * The party system was first announced in [September 2017](https://www.rocketleague.com/news/roadmap-after-autumn-update/)
+* 60 FPS 4K and HDR coming to Xbox One X
 
 ---
 
@@ -44,7 +51,8 @@ tags:
 
 ### News
 
-* [BYOC Event at DreamHack Atlanta](https://www.reddit.com/r/RocketLeagueEsports/comments/9or5le/dreamhack_atlanta_2018_nov_1618_byoc_event_1200/)
+* [Haunted Hallows: Oct 15 - Nov 5](https://www.rocketleague.com/news/haunted-hallows-returns-october-15/)
+* [Hot Wheels RC Set Announced](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-rivals-set-november-1/)
 
 ### Shows
 
