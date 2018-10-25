@@ -11,7 +11,7 @@ tags:
 ---
 [Grand Prix](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rocket_Baguette/Grand_Prix) (EU) and [Project Phoenix](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Rival_Esports/Project_Phoenix) (NA), the October Renegade Cup events, wrap up today. The winning team from each region qualifies for the Finals in February. [Nexus Gaming](https://www.reddit.com/r/RocketLeagueEsports/comments/9pfxy3/nexus_gaming_presents_fall_frenzy_na_renegade_cup/) and [Rocketeers](https://www.reddit.com/r/RocketLeagueEsports/comments/9p0cbn/heres_the_rocketeers_thunderdome_the_renegade_cup/) host the November Renegade Cup events. 
 
-The CRL [Conference Playoffs](https://compete.tespa.org/tournament/117) conclude next Monday, with the top 2 of each moving onto the Conference Clash (8 teams in total). 4 teams advance from the Conference Clash to the National Championship. In a first for CRL, the [National Championship\(https://www.rocketleagueesports.com/news/collegiate-rocket-league-national-championship-headed-to-texas-/) will be hosted on a LAN stage in Arlington, Texas. 
+The CRL [Conference Playoffs](https://compete.tespa.org/tournament/117) conclude next Monday, with the top 2 of each moving onto the Conference Clash (8 teams in total). 4 teams advance from the Conference Clash to the National Championship. In a first for CRL, the [National Championship](https://www.rocketleagueesports.com/news/collegiate-rocket-league-national-championship-headed-to-texas-/) will be hosted on a LAN stage in Arlington, Texas. 
 
 **What else is happening in RLEsports?**
 
