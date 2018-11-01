@@ -26,7 +26,7 @@ The top 2 teams from each conference moved on to the double-elimination Conferen
 **What else is happening RLEsports?**
 
 * [Ballistix Brawl returns for Season 2](https://twitter.com/ballistixgaming/status/1057704362921914369)
-* [LAN Vegas begins next Friday, November 9th]()
+* LAN Vegas begins next Friday, November 9th: [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6), [Octane](https://octane.gg/event/rlcs-season-six-world-championship)
 * The November Renegade Cups kicked off yesterday: [Fall Frenzy (NA)](https://smash.gg/tournament/fall-frenzy/events), [Thunderdome (EU)](https://smash.gg/tournament/rocketeers-thunderdome/events)
 
 ---
