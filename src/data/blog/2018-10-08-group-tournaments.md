@@ -9,49 +9,11 @@ tags:
   - Round Robin
   - Swiss
 ---
-A [group tournament](https://en.wikipedia.org/wiki/Tournament#Group_tournaments) is a round-based competition. Each round entrants play head-to-head fixtures. Then, entrants are ranked by fixture results, where draws are resolved using [tiebreakers](https://jasher.io/tiebreakers/). Final standings represent an accurate ranking of entrants.
+A [group tournament](https://en.wikipedia.org/wiki/Tournament#Group_tournaments) is a round-based competition. Each round entrants play head-to-head fixtures. Results rank entrants, where draws are resolved using [tiebreakers](). The rankings represent an accurate placement of entrant skill at the conclusion of the final round. 
 
 # Round-Robin
 
-In a [round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament) all entrants play each other an equal number of times.
-
-For example, in a single round-robin tournament, entrants play each other once and in a double round-robin tournament, they play each other twice.
-
-Round
-
-Fixture 1
-
-Fixture 2
-
-1
-
-A vs B
-
-C vs D
-
-2
-
-A vs C
-
-B vs D
-
-3
-
-A vs D
-
-B vs C
-
-4 Entrants - 3 Rounds
-8 Entrants - 7 Rounds
-16 Entrants - 15 Rounds
-
-As the number of entrants increases, the number of rounds increases and, thus, the tournament duration increases. Therefore, an organizer should be mindful of their time constraints when deciding the number of entrants in a group.
-
-**Entrants**: 4–8
-
-**Examples**: [RLCS Season 4 League Play](https://smash.gg/tournament/rlcs-season-4/events/na-rlcs/brackets/150287), [CONCACAF Hexagonal](https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_qualification_(CONCACAF)#Fifth_round)
-
-<!-- ![single-round-robin](/content/images/2017/12/single-round-robin.png) -->
+Entrants play each other an equal number of times in a [round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament). It is a common format that can be found in both sports and esports. For example, the *Rocket League Championship Series* uses a single round-robin for [league play](https://smash.gg/tournament/rlcs-season-4/events/na-rlcs/brackets/150287) and the *NFL* uses double round-robin for [divisional play](en.wikipedia.org/wiki/NFL_regular_season#Scheduling_formula). 
 
 # Swiss
 
@@ -84,12 +46,15 @@ TK
 * Entrants are guaranteed a number of fixtures.
 * Entrants are not immediately eliminated upon a loss.
 * Entrants are rewarded for consistent results.
-* A well selected prioritized list of tiebreakers will result in an accurate ranking of teams.
+* A well selected prioritized list of tiebreakers results in an accurate final ranking.
 
 ### Cons
 
-* A poor selection of tiebreakers leads to a poor ranking of entrants. In Swiss, it also results in poor pairings.
-* Entrant(s) that leave early give another entrant(s) a free fixture win. Multiple disqualifications will significantly skew standings and pairings.
+* (Round-robin) The total number of rounds increases as the number of entrants increase. 
+  * This can be mitigated by splitting entrants into smaller groups (See the [2018 FIFA World Cup](https://en.wikipedia.org/wiki/2018_FIFA_World_Cup)).
+* A poor selection of tiebreakers leads to a poor ranking of entrants. 
+* (Swiss) A poor selection of tiebreakers results in poor pairings.
+* Entrant(s) that leave early give another entrant(s) a free fixture win. Multiple disqualifications skew standings and pairings.
 * Entrants lose interest in fixtures that do not affect standings.
 
 ---
