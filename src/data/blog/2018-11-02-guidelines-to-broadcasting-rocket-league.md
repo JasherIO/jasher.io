@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-image: /img/octane.jpg
-title: Guidelines to Broadcasting Rocket League
+image: /img/broadcastingrocketleague.png
+title: Broadcasting Rocket League
 date: '2018-11-02T08:13:49-05:00'
-category: Tournament Guide
+category: Beginners Guide to Tournaments
 tags:
   - Broadcast
   - Rocket League
