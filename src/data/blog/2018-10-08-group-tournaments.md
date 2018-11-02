@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-image: /img/TWiRL.png
+image: /img/grouptournaments.png
 title: Group Tournaments
 date: '2018-10-08T16:42:51-05:00'
 category: Tournament Guide
