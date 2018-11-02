@@ -8,11 +8,12 @@ tags:
   - Broadcast
   - Rocket League
 ---
-These guidelines were made to help broadcasters avoid common issues when streaming *Rocket League*.
+These guidelines were made to help broadcasters avoid common mistakes when streaming *Rocket League*.
 
 ## Server Creation
 
 From the main menu, navigate to the Create Private Match screen (see below): 
+
 1. Click **Play**
 2. Click **Private Match**
 3. Click **Create Private Match**
@@ -64,3 +65,12 @@ There are 4 ways to spectate *Rocket League*:
 4. Director
    * 
 
+## After Game
+ 
+* Save the replay (optional)
+  * Name the replay according to the teams playing, game number, etc.
+* Make lobby changes (optional)
+  1. Click **Match Settings**
+  2. Change Game Mode, Arena, etc. as required
+* Players may request a server recreation. Make sure you use a *new* and *unique* name to avoid **split lobbies**.
+  * Split lobbies: Lobby A is created with "Name - Password." Players are still in Lobby A when Lobby B is created with "Name - Password." Now, there are two lobbies with the same information. Players could join either Lobby A or B.
