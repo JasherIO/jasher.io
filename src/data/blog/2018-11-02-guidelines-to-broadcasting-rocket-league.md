@@ -8,9 +8,14 @@ tags:
   - Broadcast
   - Rocket League
 ---
+These guidelines were made to help broadcasters avoid common issues when streaming *Rocket League*.
+
 ## Server Creation
 
-From the main menu, navigate to the Create Private Match screen (Play -> Private Match -> Create Private Match). 
+From the main menu, navigate to the Create Private Match screen (see below): 
+1. Click **Play**
+2. Click **Private Match**
+3. Click **Create Private Match**
 
 ![Private Match Menu](/img/privatematch.jpg)
 
@@ -33,4 +38,29 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 
 ## Spectating
 
-Disable camera shake from the **Options** menu. Options -> Camera -> Camera Shake
+* Disable camera shake
+   1. Click **Options**
+   2. Click **Camera**
+   3. Uncheck **Camera Shake**
+* Appear offline on Steam
+   * AFAIK, you cannot disable Steam friend request notifications. So, if you are capturing the display, the broadcast picks up the notifications. 
+* Hide unnecessary HUD elements
+   1. Click **Spectate**
+   2. Hit the **H** key
+
+#### Cameras
+
+There are 4 ways to spectate *Rocket League*: 
+
+1. Player
+   * Shows exactly what a player sees
+   * Is not the optimal way to show team build-up and plays
+   * Rendered obsolete after the release of director cam
+2. Fly
+   * Free movement around the arena
+   * Not used in a live environment
+3. Autocam
+   * 
+4. Director
+   * 
+
