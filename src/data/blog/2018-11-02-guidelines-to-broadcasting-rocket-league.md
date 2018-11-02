@@ -10,41 +10,27 @@ tags:
 ---
 ## Server Creation
 
-1. From the main menu, navigate to the Create Private Match screen (Play -> Private Match -> Create Private Match)
+From the main menu, navigate to the Create Private Match screen (Play -> Private Match -> Create Private Match). 
 
 ![Private Match Menu](/img/privatematch.jpg)
 
-2. Choose the game mode
-   * Default: Soccar
-3. Choose an arena
-   * Default: DFH Stadium
-4. Select the 3v3 team size  
-   * The team size selection does not matter. All lobbies have 10 slots (8 are usable for players). 
-5. Click Team Settings (optional)
-   1. Name teams
-   2. Select team colors
+Most of the options here are pretty self explanatory. We'll highlight several that require further description:
 
-![Teams Menu](/img/teams.jpg)
+* The **Team Size** option only matters for bot matches. There are always 10 slots in a lobby (8 are usable for players). Fill empty slots to avoid joins by third parties. 
+* Set the **Bot Difficulty** to "No Bots"
+* Set team names and colors under **Team Settings** (optional)
+  * Remember to update these values between matches
+* For soccar matches, restore mutators to the defaults settings
+  1. Click **Mutator Settings**
+  2. Click **Restore Defaults**
+* Set the **Joinable By** option to "Name/Password"
+  * Choose a unique name and password
+  * Your name and password should not be easily guessable
+* Once the lobby has been created, verify the server region
+  1. Click **Spectate**
+  2. View the scoreboard (Tab on keyboard)
+  3. Verify that the server name (top-left) begins with the correct region acronym 
 
-6. Click mutator settings
-    * For soccar, click Restore Defaults
+## Spectating
 
-![Mutators Menu](/img/mutators.jpg)
-
-7. Select a region
-    * Defaults: Europe (EU), US-East (NA), Oceania (OCE)
-8. Set join by to "Name/Password"
-9. Click "Create Match"
-10. Choose a unique name and password
-    * Your name and password should not be easily guessable.
-
-![Name/Password Menu](/img/namepassword.jpg)
-
-11. Click "Create Match"
-12. Verify the server region
-    1. Click "Spectate"
-    2. View the scoreboard (Tab on keyboard)
-    3. Verify that the server name begins with the correct region acronym 
-        * The server name is at the top-left of the scoreboard
-
-![Server Region](/img/server.jpg)
+Disable camera shake from the **Options** menu. Options -> Camera -> Camera Shake
