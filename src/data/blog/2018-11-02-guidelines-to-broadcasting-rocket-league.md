@@ -43,7 +43,7 @@ tags:
 11. Click "Create Match"
 12. Verify the server region
     1. Click "Spectate"
-    2. View the scoreboard (Tab on keyboards)
+    2. View the scoreboard (Tab on keyboard)
        * The server region is in the top left
 
 ![Server Region](/img/server.jpg)
