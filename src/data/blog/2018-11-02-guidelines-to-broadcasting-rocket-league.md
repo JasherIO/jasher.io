@@ -8,7 +8,7 @@ tags:
   - Broadcast
   - Rocket League
 ---
-These guidelines were made to help broadcasters avoid common mistakes when streaming *Rocket League*.
+This guide was made to help broadcasters avoid common mistakes when streaming *Rocket League*.
 
 ## Server Creation
 
