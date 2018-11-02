@@ -38,7 +38,12 @@ tags:
 10. Choose a unique name and password
     * Your name and password should not be easily guessable.
 
+![Name/Password Menu](/img/namepassword.jpg)
 
+11. Click "Create Match"
+12. Verify the server region
+    1. Click "Spectate"
+    2. View the scoreboard (Tab on keyboards)
+       * The server region is in the top left
 
-11. Verify the server region
-    1. 
+![Server Region](/img/server.jpg)
