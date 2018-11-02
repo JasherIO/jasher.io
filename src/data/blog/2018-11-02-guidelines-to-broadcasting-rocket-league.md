@@ -27,7 +27,7 @@ tags:
 ![Teams Menu](/img/teams.jpg)
 
 6. Click mutator settings
-    * For the soccar game mode, click Restore Defaults.
+    * For soccar, click Restore Defaults
 
 ![Mutators Menu](/img/mutators.jpg)
 
