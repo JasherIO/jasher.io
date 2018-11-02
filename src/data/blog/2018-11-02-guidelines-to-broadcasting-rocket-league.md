@@ -44,6 +44,6 @@ tags:
 12. Verify the server region
     1. Click "Spectate"
     2. View the scoreboard (Tab on keyboard)
-    3. Check the region starts with the correct acronym (top-left of the scoreboard)
+    3. Verify that the server name begins with the correct region acronym (top-left of the scoreboard)
 
 ![Server Region](/img/server.jpg)
