@@ -8,7 +8,7 @@ tags:
   - Broadcast
   - Rocket League
 ---
-This guide was made to help event broadcasters avoid common mistakes when streaming *Rocket League*.
+This guide was made to help broadcasters avoid common mistakes when streaming *Rocket League*.
 
 ## Server Creation
 
@@ -44,7 +44,7 @@ Most of the options here are pretty self explanatory. We'll highlight several th
    2. Click **Camera**
    3. Uncheck **Camera Shake**
 * Appear offline on Steam
-   * AFAIK, you cannot disable Steam friend request notifications. So, if you are capturing the display, the broadcast picks up the notifications. 
+   * If the display is captured, Steam friend request notifications broadcast to the stream. Appearing offline avoids this issue. 
 * Hide unnecessary HUD elements
    1. Click **Spectate**
    2. Hit the **H** key
