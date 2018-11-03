@@ -9,7 +9,7 @@ tags:
   - Round Robin
   - Swiss
 ---
-A [group tournament](https://en.wikipedia.org/wiki/Tournament#Group_tournaments) is a round-based competition. Each round entrants play head-to-head fixtures. Results rank entrants, where draws are resolved using [tiebreakers](). The rankings represent an accurate placement of entrant skill at the conclusion of the final round. 
+A [group tournament](https://en.wikipedia.org/wiki/Tournament#Group_tournaments) is a competition where entrants play head-to-head fixtures over successive rounds. Results rank entrants, where draws are resolved using [tiebreakers](). The rankings represent an accurate placement of entrant skill at the conclusion of the final round. 
 
 # Round-Robin
 
@@ -21,19 +21,15 @@ A [Swiss tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament) pair
 
 Due to pairing, a Swiss tournament requires less fixtures than a round-robin.
 
+The suggested minimum number of rounds is log₂(number of entrants). [Swiss Triangle](http://swisstriangle.net) calculates the minimum number of rounds and visualizes the Swiss format.
+
 ### Pairing Rules
 
 TK
 
-### Number of Rounds
-
-4 entrants — 2 rounds
-8 entrants — 3 rounds
-16 entrants — 4 rounds
-32 entrants — 5 rounds
-64 entrants — 6 rounds
+### Offshoots
 
-> For the math nerds, the suggested minimum number of rounds is log₂(number of entrants).
+CSGO Majors
 
 **Entrants**: 4–64
 
