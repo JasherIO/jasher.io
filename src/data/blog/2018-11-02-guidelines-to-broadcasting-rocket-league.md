@@ -53,17 +53,18 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 
 There are 4 ways to spectate *Rocket League*: 
 
-1. Player
-   * Shows exactly what a player sees
-   * Is not the optimal way to show team build-up and plays
-   * Rendered obsolete after the release of director cam
-2. Fly
-   * Free movement around the arena
-   * Not used in a live environment
-3. Autocam
-   * 
-4. Director
-   * 
+1. **Player**: shows exactly what a player sees
+2. **Fly**: allows for manual movement around the arena (similar to [SkyCam](https://www.youtube.com/watch?v=WNtNBNoVFHI))
+3. **Auto**: operates as an automated fly cam, seamlessly moving around the arena and following the action
+4. **Director**: automated system that uses both player cam and auto cam to follow the action
+
+Spectator was first introduced in August 2015 in [Patch v1.04](https://www.rocketleague.com/news/patch-notes-v1-15--pc-ps4-/). 
+
+
+Player cam does not show team build-up or team positioning well.
+
+Fly cam is unused in a live environment. 
+
 
 ## After Game
  
