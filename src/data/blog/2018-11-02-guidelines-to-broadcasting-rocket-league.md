@@ -52,12 +52,6 @@ Most of the options here are pretty self explanatory. We'll highlight several th
   2. View the scoreboard (Tab on keyboard)
   3. Verify that the server name (top-left) begins with the correct region acronym 
 
-# In-Game
-
-* Hide unnecessary HUD elements
-   1. Click **Spectate**
-   2. Hit the **H** key once
-
 # Cameras
 
 There are 4 ways to spectate *Rocket League*: 
@@ -74,6 +68,9 @@ Player cam does not show team build-up or team positioning well.
 
 Fly cam is unused in a live environment. 
 
+* Hide unnecessary HUD elements
+   1. Click **Spectate**
+   2. Hit the **H** key once
 
 # After Game
  
