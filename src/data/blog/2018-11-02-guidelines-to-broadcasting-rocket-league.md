@@ -30,8 +30,7 @@ Most of the options here are pretty self explanatory. We'll highlight several th
   1. Click **Mutator Settings**
   2. Click **Restore Defaults**
 * Set the **Joinable By** option to "Name/Password"
-  * Choose a unique name and password
-  * Your name and password should not be easily guessable
+  * Choose a unique name and password (i.e. not easily guessable)
 * Once the lobby has been created, verify the server region
   1. Click **Spectate**
   2. View the scoreboard (Tab on keyboard)
@@ -39,15 +38,22 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 
 ## Spectating
 
+* Appear offline on *Steam*
+   1. Open the *Steam* friend list
+   2. Click the arrow next to your username
+   3. Select **Offline**
+* Enable background audio
+   1. https://www.reddit.com/r/RocketLeague/comments/3hahmq/psa_how_to_enable_background_audio/
 * Disable camera shake
    1. Click **Options**
    2. Click **Camera**
    3. Uncheck **Camera Shake**
-* Appear offline on Steam
-   * If the display is captured, Steam friend request notifications broadcast to the stream. Appearing offline avoids this issue. 
+* Disable in-game chat
+   1. Click **Options**
+   2. Switch **Text Chat** to **Disabled**
 * Hide unnecessary HUD elements
    1. Click **Spectate**
-   2. Hit the **H** key
+   2. Hit the **H** key once
 
 #### Cameras
 
