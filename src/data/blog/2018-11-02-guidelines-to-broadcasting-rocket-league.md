@@ -10,7 +10,23 @@ tags:
 ---
 This guide was made to help broadcasters avoid common mistakes when streaming *Rocket League*.
 
-## Server Creation
+# Before Game
+
+* Appear offline on *Steam*
+   1. Open the *Steam* friend list
+   2. Click the arrow next to your username
+   3. Select **Offline**
+* Enable background audio
+   1. https://www.reddit.com/r/RocketLeague/comments/3hahmq/psa_how_to_enable_background_audio/
+* Disable camera shake
+   1. Click **Options**
+   2. Click **Camera**
+   3. Uncheck **Camera Shake**
+* Disable in-game chat
+   1. Click **Options**
+   2. Switch **Text Chat** to **Disabled**
+
+# Server Creation
 
 From the main menu, navigate to the Create Private Match screen (see below): 
 
@@ -36,26 +52,13 @@ Most of the options here are pretty self explanatory. We'll highlight several th
   2. View the scoreboard (Tab on keyboard)
   3. Verify that the server name (top-left) begins with the correct region acronym 
 
-## Spectating
+# In-Game
 
-* Appear offline on *Steam*
-   1. Open the *Steam* friend list
-   2. Click the arrow next to your username
-   3. Select **Offline**
-* Enable background audio
-   1. https://www.reddit.com/r/RocketLeague/comments/3hahmq/psa_how_to_enable_background_audio/
-* Disable camera shake
-   1. Click **Options**
-   2. Click **Camera**
-   3. Uncheck **Camera Shake**
-* Disable in-game chat
-   1. Click **Options**
-   2. Switch **Text Chat** to **Disabled**
 * Hide unnecessary HUD elements
    1. Click **Spectate**
    2. Hit the **H** key once
 
-#### Cameras
+# Cameras
 
 There are 4 ways to spectate *Rocket League*: 
 
@@ -72,7 +75,7 @@ Player cam does not show team build-up or team positioning well.
 Fly cam is unused in a live environment. 
 
 
-## After Game
+# After Game
  
 * Save the replay (optional)
   * Name the replay according to the teams playing, game number, etc.
@@ -81,3 +84,7 @@ Fly cam is unused in a live environment.
   2. Change Game Mode, Arena, etc. as required
 * Players may request a server recreation. Make sure you use a *new* and *unique* name to avoid **split lobbies**.
   * Split lobbies: Lobby A is created with "Name - Password." Players are still in Lobby A when Lobby B is created with "Name - Password." Now, there are two lobbies with the same information. Players could join either Lobby A or B.
+
+---
+
+Thanks to [@InanimateJ](https://twitter.com/InanimateJ) for his feedback!
