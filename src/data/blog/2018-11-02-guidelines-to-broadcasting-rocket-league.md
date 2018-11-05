@@ -63,10 +63,13 @@ There are 4 ways to spectate *Rocket League*:
 
 Spectator was first introduced in August 2015 in [Patch v1.04](https://www.rocketleague.com/news/patch-notes-v1-15--pc-ps4-/). 
 
-
 Player cam does not show team build-up or team positioning well.
 
 Fly cam is unused in a live environment. 
+
+Autocam debuted in [Patch v1.15](https://www.rocketleague.com/news/patch-notes-v1-15--pc-ps4-/).
+
+Director mode was added in [Patch v1.37](https://www.rocketleague.com/news/patch-notes-v1-37/).
 
 * Hide unnecessary HUD elements
    1. Click **Spectate**
