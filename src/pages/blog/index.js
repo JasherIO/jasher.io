@@ -12,7 +12,7 @@ export default class IndexPage extends React.Component {
     const { group: categories } = data.categories
 
     return (
-      <section className="section">
+      <section className="section container">
         <Helmet title={`Blog`} />
         <PostList title="Latest Posts" posts={posts} categories={categories} />
       </section>

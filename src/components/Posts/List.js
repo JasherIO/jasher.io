@@ -6,14 +6,14 @@ import PostItem from './Item'
 
 const PostList = ({ title, posts, categories }) => (
   <div className="columns">
-    <div className="column is-offset-one-fifth is-two-fifths">
+    <div className="column is-8">
       <div className="is-size-3">{title}</div>
       {posts
         .map(({ node: post }) => (
           <PostItem post={post} key={post.id} />
         ))}
     </div>
-    <div className="column is-one-fifth">
+    <div className="column is-4">
       <CategoryMenu categories={categories} />
     </div>
   </div>
