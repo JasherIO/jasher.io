@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import Content, { HTMLContent } from '../components/Content'
@@ -16,13 +17,13 @@ export const BlogPostTemplate = ({
 
   return (
     <section className="section">
-      <Helmet title={`${title} | Blog`} />
+      <Helmet title={`${title}`} />
       <div className="container content">
         <div className="columns">
           <div className="column is-offset-one-fifth is-three-fifths">
             { image ? (
               <figure className="image">
-                <img src={image} />
+                <img src={image} alt="cover" />
               </figure>
             ) : null}
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">

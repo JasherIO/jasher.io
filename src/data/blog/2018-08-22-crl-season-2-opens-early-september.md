@@ -1,11 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: Clubs Debut in Progression Update
 date: '2018-08-22T09:21:53-05:00'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - Rival Series
 ---
 [Clubs](https://www.rocketleague.com/news/progression-update-august-29/) is a new social feature that allows up to 20 players to group up under one banner as a team. Players are able to name the club and create a custom tag. It releases alongside [Progression 2.0](https://www.rocketleague.com/news/progression-update-august-29/) and [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) on [August 29th](https://www.rocketleague.com/news/progression-update-august-29/). 

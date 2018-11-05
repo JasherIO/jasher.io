@@ -3,9 +3,14 @@ const config = require('./src/data/config.json')
 
 module.exports = {
   siteMetadata: {
-    title: config.title,
-    description: config.description,
-    siteUrl: config.url
+    siteUrl: config.url || "",
+    title: config.title || "",
+    alternate: config.alternate || "",
+    description: config.description || "",
+    logo: config.logo || "",
+    favicon: config.favicon || "",
+    navbar: config.navbar || [],
+    social: config.social || []
   },
   // pathPrefix: config.pathPrefix,
   plugins: [
@@ -74,20 +79,6 @@ module.exports = {
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
         exclude: [ "/admin**" ],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-tagmanager',
-      options: {
-        id: config.googleTagManagerId,
-  
-        // Include GTM in development.
-        // Defaults to false meaning GTM will only be loaded in production.
-        // includeInDevelopment: false,
-  
-        // Specify optional GTM environment details.
-        // gtmAuth: "YOUR_GOOGLE_TAGMANAGER_ENVIROMENT_AUTH_STRING",
-        // gtmPreview: "YOUR_GOOGLE_TAGMANAGER_ENVIROMENT_PREVIEW_NAME",
       },
     },
     'gatsby-plugin-react-helmet',

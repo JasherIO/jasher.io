@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import PostList from '../../components/Posts/List'
@@ -9,11 +10,10 @@ export default class IndexPage extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.posts
     const { group: categories } = data.categories
-    const { title } = data.site.siteMetadata
 
     return (
       <section className="section">
-        <Helmet title={`Blog | ${title}`} />
+        <Helmet title={`Blog`} />
         <PostList title="Latest Posts" posts={posts} categories={categories} />
       </section>
     )
@@ -22,11 +22,6 @@ export default class IndexPage extends React.Component {
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
-    site: PropTypes.shape({
-      siteMetadata: PropTypes.shape({
-        title: PropTypes.string
-      })
-    }),
     posts: PropTypes.shape({
       edges: PropTypes.arrayOf(
         PropTypes.shape({
@@ -68,15 +63,10 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query BloxIndexQuery {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     posts: allMarkdownRemark(
       limit: 100
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: { frontmatter: { templateKey: { eq: "post" } }}
     ) {
       edges {
         node {
@@ -86,7 +76,7 @@ export const pageQuery = graphql`
     }
     categories: allMarkdownRemark(
       limit: 100
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: { frontmatter: { templateKey: { eq: "post" } }}
     ) {
       group(field: frontmatter___category) {
         fieldValue

@@ -1,11 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/rlcs_season6.jpg
 title: Roster Shuffle in Full Effect
 date: '2018-08-01T07:54:37-05:00'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - Rival Series
   - Content Update
   - Rocket Street

@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'post'
 title: Salty Shores Releases Late May
 description: Salty Shores Releases Late May
 image: '/img/TWiRL.png'
@@ -7,7 +7,9 @@ date: '2018-05-23T03:42:50.000Z'
 category: This Week in Rocket League
 tags:
   - Content Update
-  - RLCS
+  - Beach Blast
+  - Salty Shores
+  - Championship Series
   - World Championship
 ---
 

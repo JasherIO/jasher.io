@@ -1,12 +1,12 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'post'
 title: World Championship Begins Friday
 description: World Championship Begins Friday
 image: '/img/TWiRL.png'
 date: '2018-06-06T12:15:19.000Z'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - World Championship
 ---
 

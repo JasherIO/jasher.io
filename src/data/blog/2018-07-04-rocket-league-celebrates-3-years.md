@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/birthday_year3.jpg
 title: Rocket League Celebrates 3 Years
 date: '2018-07-04T08:04:15-05:00'
@@ -7,7 +7,7 @@ category: This Week in Rocket League
 tags:
   - Anniversary
   - Birthday
-  - RIVAL Esports
+  - RIVAL
   - College Carball Association
 ---
 

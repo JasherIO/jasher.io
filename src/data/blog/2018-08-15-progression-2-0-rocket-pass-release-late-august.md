@@ -1,14 +1,15 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: 'Progression 2.0, Rocket Pass Release Late August'
 date: '2018-08-15T09:29:20-05:00'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - Rival Series
   - RIVAL
-  - feature update
+  - Feature Update
+  - Rocket Pass
 ---
 The latest [feature update](https://www.rocketleague.com/news/cross-platform-party-summer-roadmap-update/) releases at the end of August. [Progression 2.0](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/) and [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) are included. However, cross-platform parties have been pushed to September. 
 

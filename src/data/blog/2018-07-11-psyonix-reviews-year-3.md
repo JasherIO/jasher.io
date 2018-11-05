@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/birthday_year3.jpg
 title: Psyonix Reviews Year 3
 date: '2018-07-11T10:27:46-05:00'

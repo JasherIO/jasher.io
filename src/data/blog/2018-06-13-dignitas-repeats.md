@@ -1,12 +1,12 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'post'
 title: Dignitas Repeats
 description: Dignitas Repeats
 image: '/img/TWiRL.png'
 date: '2018-06-13T12:53:04.000Z'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - World Championship
   - Northern Arena
 ---

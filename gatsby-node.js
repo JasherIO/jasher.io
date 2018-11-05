@@ -2,12 +2,48 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
-exports.createPages = ({ boundActionCreators, graphql }) => {
-  const { createPage } = boundActionCreators
+const toTemplate = (edge) => {
+  const id = edge.node.id
+  return {
+    path: edge.node.fields.slug,
+    component: path.resolve(`src/templates/${String(edge.node.frontmatter.templateKey)}.js`),
+    context: {
+      id,
+    },
+  }
+}
+
+const toCategoryTemplate = (category) => {
+  const categoryPath = `/blog/categories/${_.kebabCase(category)}/`
+  return {
+    path: categoryPath,
+    component: path.resolve(`src/templates/category.js`),
+    context: {
+      category,
+    },
+  }
+}
+
+const toTagTemplate = (tag) => {
+  const tagPath = `/blog/tags/${_.kebabCase(tag)}/`
+  return {
+    path: tagPath,
+    component: path.resolve(`src/templates/tags.js`),
+    context: {
+      tag,
+    },
+  }
+}
+
+exports.createPages = ({ actions, graphql }) => {
+  const { createPage } = actions
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        filter: { frontmatter: { templateKey: { in: ["post"] } }}
+        limit: 1000
+      ) {
         edges {
           node {
             id
@@ -15,12 +51,14 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               slug
             }
             frontmatter {
+              templateKey
               category
               tags
-              templateKey
             }
           }
         }
+        tags: distinct(field: frontmatter___tags)
+        categories: distinct(field: frontmatter___category)
       }
     }
   `).then(result => {
@@ -30,80 +68,19 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
+    _.each(posts, edge => createPage(toTemplate(edge)))
 
-    posts.forEach(edge => {
-      const id = edge.node.id
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
-          id,
-        },
-      })
-    })
+    const categories = result.data.allMarkdownRemark.categories
+    _.each(categories, category => createPage(toCategoryTemplate(category)))
 
-    let tags = []
-    let categories = []
-    posts.forEach(edge => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
+    const tags = result.data.allMarkdownRemark.tags
+    _.each(tags, tag => createPage(toTagTemplate(tag)))
 
-      if (_.get(edge, `node.frontmatter.category`)) {
-        categories = categories.concat(edge.node.frontmatter.category)
-      }
-    })
-    
-    tags = _.uniq(tags)
-    categories = _.uniq(categories)
-
-    tags.forEach(tag => {
-      const tagPath = `/blog/tags/${_.kebabCase(tag)}`
-
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tag-page.js`),
-        context: {
-          tag,
-        },
-      })
-    })
-
-    categories.forEach(category => {
-      const categoryPath = `/blog/category/${_.kebabCase(category)}`
-
-      createPage({
-        path: categoryPath,
-        component: path.resolve(`src/templates/category-page.js`),
-        context: {
-          category,
-        },
-      })
-    })
-    
   })
 }
 
-exports.onCreatePage = async ({ page, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
-
-  return new Promise((resolve, reject) => {
-    if (page.path === "/") {
-      page.layout = "home"
-
-      createPage(page)
-    }
-
-    resolve()
-  })
-}
-
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode, trailingSlash: false })

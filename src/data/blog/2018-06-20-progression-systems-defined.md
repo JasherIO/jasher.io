@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'post'
 title: Progression Systems Defined
 description: Progression Systems Defined
 image: '/img/TWiRL.png'
@@ -7,6 +7,7 @@ date: '2018-06-20T14:40:16.000Z'
 category: This Week in Rocket League
 tags:
   - Feature Update
+  - Rocket Pass
 ---
 
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a system that rewards players with items by tiering up over a period of time. Players follow a free or premium track to unlock items. The premiem pass, purchasable for $9.99, includes more unlockable content, exclusive items, and additional rewards. The tier system is driven by XP but is separate from the level system, which is also receiving a [revamp](https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/). 

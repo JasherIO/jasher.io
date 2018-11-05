@@ -1,11 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/rlcs_season6.jpg
 title: Rocket League Joins Million Dollar Club
 date: '2018-07-25T08:54:39-05:00'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - Rocket Street
 ---
 Rocket League Esports has officially joined the [million dollar club](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/) - a mark that is commonly used to show the success and status of an esport. Starting in Season 6, the RLCS will have a $1,000,000 pool and the Rival Series will have a $100,000 pool.

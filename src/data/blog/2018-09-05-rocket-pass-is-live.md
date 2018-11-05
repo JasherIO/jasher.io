@@ -1,12 +1,12 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: Rocket Pass Is Live
 date: '2018-09-05T10:07:11-05:00'
 category: This Week in Rocket League
 tags:
   - Rocket Pass
-  - RLCS
+  - Championship Series
   - Rival Series
 ---
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn tiers by leveling up. Tiers then unlock cosmetic items in two tracks, free and premium. Players acquire the premium track for $9.99, which rewards additional and different items from the free track. 

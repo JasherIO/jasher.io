@@ -1,12 +1,14 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: October Renegade Cups End Today
 date: '2018-10-25T08:26:06-05:00'
 category: This Week in Rocket League
 tags:
-  - Collegiate RL
+  - CRL
   - Renegade Cup
+  - Rocketeers
+  - Nexus Gaming
   - World Championship
 ---
 [Grand Prix](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rocket_Baguette/Grand_Prix) (EU) and [Project Phoenix](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Rival_Esports/Project_Phoenix) (NA), the October Renegade Cup events, wrap up today. The winning team from each region qualifies for the Finals in February. [Nexus Gaming](https://www.reddit.com/r/RocketLeagueEsports/comments/9pfxy3/nexus_gaming_presents_fall_frenzy_na_renegade_cup/) and [Rocketeers](https://www.reddit.com/r/RocketLeagueEsports/comments/9p0cbn/heres_the_rocketeers_thunderdome_the_renegade_cup/) host the November Renegade Cup events. 

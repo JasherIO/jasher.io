@@ -16,7 +16,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
       - {label: "Cover", name: "image", widget: "image"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -44,14 +44,4 @@ collections:
           - {label: Twitter, name: twitter, widget: string, required: false}
           - {label: Google Analytics ID, name: googleAnalyticsId, widget: string, required: false}
           - {label: Google Tag Manager ID, name: googleTagManagerId, widget: string, required: false}
-
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/data/about/index.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          

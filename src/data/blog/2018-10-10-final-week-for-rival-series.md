@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: 'Final Week for Rival Series, Regionals for Championship Series'
 date: '2018-10-10T10:45:07-05:00'
@@ -7,8 +7,11 @@ category: This Week in Rocket League
 tags:
   - Championship Series
   - Rival Series
-  - Collegiate RL
+  - CRL
   - Throwdown
+  - Renegade Cup
+  - Rocket Baguette
+  - RIVAL
 ---
 **Europe**
 

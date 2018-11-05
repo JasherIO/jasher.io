@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/birthday_year3.jpg
 title: Anniversary Celebrations Wrap Up
 date: '2018-07-18T07:24:37-05:00'

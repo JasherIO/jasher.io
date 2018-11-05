@@ -1,32 +1,33 @@
 import React from 'react'
+import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import PostList from '../components/Posts/List'
 
-class TagRoute extends React.Component {
+class CategoryRoute extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.posts
     const { group: categories } = data.categories
-    const tag = this.props.pathContext.tag
+    const category = this.props.pageContext.category
 
     return (
       <section className="section">
-        <Helmet title={`${tag} | Tag`} />
-        <PostList title={tag} posts={posts} categories={categories} />
+        <Helmet title={`${category} | Category`} />
+        <PostList title={category} posts={posts} categories={categories} />
       </section>
     )
   }
 }
 
-export default TagRoute
+export default CategoryRoute
 
-export const tagPageQuery = graphql`
-  query TagPageQuery($tag: String) {
+export const categoryPageQuery = graphql`
+  query CategoryPageQuery($category: String) {
     posts: allMarkdownRemark(
       limit: 100
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { category: { eq: $category } } }
     ) {
       edges {
         node {
@@ -36,7 +37,7 @@ export const tagPageQuery = graphql`
     }
     categories: allMarkdownRemark(
       limit: 100
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: { frontmatter: { templateKey: { eq: "post" } }}
     ) {
       group(field: frontmatter___category) {
         fieldValue

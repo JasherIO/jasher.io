@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: World Championship on the Horizon
 date: '2018-10-17T12:34:09-05:00'
@@ -8,7 +8,7 @@ tags:
   - Championship Series
   - Rival Series
   - Throwdown
-  - Collegiate RL
+  - CRL
   - Renegade Cup
   - Rocket Street
 ---

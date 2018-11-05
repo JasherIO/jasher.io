@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 title: Universal Open Continues
 description: Universal Open qualifiers continue through July. TexasRL hosts GigaLAN.
 image: '/img/TWiRL.png'

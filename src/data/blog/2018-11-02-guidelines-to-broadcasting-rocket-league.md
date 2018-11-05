@@ -1,9 +1,9 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/broadcastingrocketleague.png
 title: Broadcasting Rocket League
 date: '2018-11-02T08:13:49-05:00'
-category: Beginners Guide to Tournaments
+category: Tournaments
 tags:
   - Broadcast
   - Rocket League

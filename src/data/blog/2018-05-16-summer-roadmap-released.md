@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: 'post'
 title: Summer Roadmap Released
 description: Summer Roadmap Released
 image: '/img/TWiRL.png'
@@ -7,6 +7,8 @@ date: '2018-05-16T12:59:58.000Z'
 category: This Week in Rocket League
 tags:
   - Content Update
+  - RocketID
+  - Rocket Pass
   - Ballistix
   - Northern Arena
 ---

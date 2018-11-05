@@ -1,17 +1,16 @@
 ---
-templateKey: blog-post
+templateKey: post
 image: /img/TWiRL.png
 title: World Championship To Vegas
 date: '2018-09-13T08:37:21-05:00'
 category: This Week in Rocket League
 tags:
-  - RLCS
+  - Championship Series
   - Rival Series
   - Renegade Cup
   - CRL
   - Feature Update
   - RocketID
-  - Cross-Platform Parties
 ---
 The [RLCS Season 6 World Championship](https://www.rocketleagueesports.com/news/rlcs-season-6-world-championship-is-heading-to-vegas-/) takes place at the [Orleans Arena](https://www.orleansarena.com/) in Las Vegas, November 9th - 11th. 
 
