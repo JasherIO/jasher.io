@@ -81,6 +81,7 @@ module.exports = {
         exclude: [ "/admin**" ],
       },
     },
+    'gatsby-plugin-lodash',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-robots-txt',

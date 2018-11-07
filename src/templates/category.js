@@ -1,48 +1,91 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
+import _ from 'lodash'
+import Tile from '../components/Posts/Tile'
 
-import PostList from '../components/Posts/List'
-
-class CategoryRoute extends React.Component {
+export default class CategoryPage extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, pageContext } = this.props
     const { edges: posts } = data.posts
-    const { group: categories } = data.categories
-    const category = this.props.pageContext.category
+    const { category } = pageContext
 
     return (
-      <section className="section">
-        <Helmet title={`${category} | Category`} />
-        <PostList title={category} posts={posts} categories={categories} />
+      <section className="section container">
+        <Helmet title={`${category}`} />
+
+        <div className="columns is-multiline">
+          <div className="column is-offset-2 is-8">
+            <div className="title is-2">
+              {category}
+            </div>
+          </div>
+
+          {_.map(posts, ({ node: post }) => (
+            <div className="column is-offset-2 is-8" key={post.id}>
+              <Tile post={post} />
+            </div>
+          ))}
+        </div>
       </section>
     )
   }
 }
 
-export default CategoryRoute
+CategoryPage.propTypes = {
+  data: PropTypes.shape({
+    posts: PropTypes.shape({
+      edges: PropTypes.arrayOf(
+        PropTypes.shape({
+          node: PropTypes.shape({
+            id: PropTypes.string,
+            excerpt: PropTypes.string,
+            timeToRead: PropTypes.number,
+            fields: PropTypes.shape({
+              slug: PropTypes.string
+            }),
+            frontmatter: PropTypes.shape({
+              templateKey: PropTypes.string,
+              image: PropTypes.string,
+              title: PropTypes.string,
+              description: PropTypes.string,
+              category: PropTypes.string,
+              date: PropTypes.string
+            })
+          }),
+        })
+      ),
+    }),
+  }),
+}
 
-export const categoryPageQuery = graphql`
-  query CategoryPageQuery($category: String) {
+export const pageQuery = graphql`
+  query CategoryQuery($category: String) {
     posts: allMarkdownRemark(
-      limit: 100
+      limit: 1000
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { category: { eq: $category } } }
+      filter: { frontmatter: { templateKey: { in: ["post"] }, category: { in: [$category] } } }
     ) {
       edges {
         node {
-          ...PostItemFragment
+          id
+          excerpt(pruneLength: 175)
+          timeToRead
+          fields {
+            slug
+          }
+          frontmatter {
+            templateKey
+            image
+            title
+            description
+            category
+            date
+          }
         }
-      }
-    }
-    categories: allMarkdownRemark(
-      limit: 100
-      filter: { frontmatter: { templateKey: { eq: "post" } }}
-    ) {
-      group(field: frontmatter___category) {
-        fieldValue
-        totalCount
       }
     }
   }
 `
+

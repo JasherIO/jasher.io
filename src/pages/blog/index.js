@@ -2,19 +2,31 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
-
-import PostList from '../../components/Posts/List'
+import _ from 'lodash'
+import Tile from '../../components/Posts/Tile'
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.posts
-    const { group: categories } = data.categories
 
     return (
       <section className="section container">
         <Helmet title={`Blog`} />
-        <PostList title="Latest Posts" posts={posts} categories={categories} />
+
+        <div className="columns is-multiline">
+          <div className="column is-offset-2 is-8">
+            <div className="title is-2">
+              Latest Posts
+            </div>
+          </div>
+
+          {_.map(posts, ({ node: post }) => (
+            <div className="column is-offset-2 is-8" key={post.id}>
+              <Tile post={post} />
+            </div>
+          ))}
+        </div>
       </section>
     )
   }
@@ -34,29 +46,15 @@ IndexPage.propTypes = {
             }),
             frontmatter: PropTypes.shape({
               templateKey: PropTypes.string,
+              image: PropTypes.string,
               title: PropTypes.string,
               description: PropTypes.string,
+              category: PropTypes.string,
               date: PropTypes.string
             })
           }),
         })
       ),
-    }),
-    categories: PropTypes.shape({
-      group: PropTypes.arrayOf(
-        PropTypes.shape({
-          fieldValue: PropTypes.string,
-          totalCount: PropTypes.number
-        })
-      )
-    }),
-    tags: PropTypes.shape({
-      group: PropTypes.arrayOf(
-        PropTypes.shape({
-          fieldValue: PropTypes.string,
-          totalCount: PropTypes.number
-        })
-      )
     }),
   }),
 }
@@ -64,23 +62,27 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query BloxIndexQuery {
     posts: allMarkdownRemark(
-      limit: 100
+      limit: 1000
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "post" } }}
+      filter: { frontmatter: { templateKey: { in: ["post"] } }}
     ) {
       edges {
         node {
-          ...PostItemFragment
+          id
+          excerpt(pruneLength: 175)
+          timeToRead
+          fields {
+            slug
+          }
+          frontmatter {
+            templateKey
+            image
+            title
+            description
+            category
+            date
+          }
         }
-      }
-    }
-    categories: allMarkdownRemark(
-      limit: 100
-      filter: { frontmatter: { templateKey: { eq: "post" } }}
-    ) {
-      group(field: frontmatter___category) {
-        fieldValue
-        totalCount
       }
     }
   }

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import CategoryMenu from '../Categories/Menu'
 import PostItem from './Item'
 
-const PostList = ({ title, posts, categories }) => (
+const PostList = ({ title, posts }) => (
   <div className="columns">
     <div className="column is-8">
       <div className="is-size-3">{title}</div>
@@ -14,7 +14,7 @@ const PostList = ({ title, posts, categories }) => (
         ))}
     </div>
     <div className="column is-4">
-      <CategoryMenu categories={categories} />
+      <CategoryMenu />
     </div>
   </div>
 )
@@ -37,12 +37,6 @@ PostList.propTypes = {
           date: PropTypes.string
         })
       }),
-    })
-    ),
-  categories: PropTypes.arrayOf(
-    PropTypes.shape({
-      fieldValue: PropTypes.string,
-      totalCount: PropTypes.number
     })
   ),
 }

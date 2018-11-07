@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 
 import Content, { HTMLContent } from '../components/Content'
-import TagList from '../components/Tags/List';
+// import TagList from '../components/Tags/List';
 
 export const BlogPostTemplate = ({
   content,
@@ -31,8 +31,9 @@ export const BlogPostTemplate = ({
         <meta name="og:description" content={description} />
         <meta name="twitter:description" content={description} />
 
-        {/* {cover && !_.isString(cover) && <meta name="og:image" content={`https://jasher.io${cover.childImageSharp.fluid.src}`} />} */}
-        {/* {cover && !_.isString(cover) && <meta name="twitter:image" content={`https://jasher.io${cover.childImageSharp.fluid.src}`} />} */}
+        {/* TODO: Gatsby image */}
+        {/* {image && !_.isString(image) && <meta name="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />} */}
+        {/* {image && !_.isString(image) && <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />} */}
 
         {/* TODO: authors */}
         {/* <link rel="author" href={`https://pulsarpremierleague.com${post.frontmatter.author.fields.slug}`} /> */}
@@ -59,11 +60,11 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <PostContent content={content} />
-            <div style={{ marginTop: `1rem` }}>
+            {/* <div style={{ marginTop: `1rem` }}>
               {tags && tags.length ? (
                 <TagList tags={tags} />
               ) : null}
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
