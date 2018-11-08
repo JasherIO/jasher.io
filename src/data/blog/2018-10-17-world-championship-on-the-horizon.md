@@ -14,7 +14,7 @@ tags:
 ---
 10 teams - 4 European, 4 North American, 2 Oceanic - finalized their spots and seeds Saturday and Sunday for LAN Vegas. The World Championship begins Friday, November 9th.
 
-See [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) or [Octane](https://octane.gg) for more information.
+See [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) or [Octane](https://octane.gg/event/rlcs-season-six-world-championship) for more information.
 
 | Region | Seed | Team | Player 1 | Player 2 | Player 3 |
 |:------:|:----:|:----------------:|:-----------:|:--------------:|:------------:|
