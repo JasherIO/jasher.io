@@ -1,5 +1,5 @@
 const config = require('./src/data/config.json')
-// import config from ('./data/config.json')
+const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
@@ -91,6 +91,13 @@ module.exports = {
       options: {
         path: `${__dirname}/src/data`,
         name: 'pages',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        path: path.join(__dirname, 'static', 'img'),
       },
     },
     'gatsby-plugin-sitemap',

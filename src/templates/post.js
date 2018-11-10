@@ -1,18 +1,40 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
+import Img from 'gatsby-image'
 import Helmet from 'react-helmet'
+import _ from 'lodash'
+import moment from 'moment'
 
 import Content, { HTMLContent } from '../components/Content'
-// import TagList from '../components/Tags/List';
+
+const Image = ({ image, title }) => {
+  if (!image)
+    return (<></>)
+  
+  if (_.isString(image))
+    return (
+      <figure className="image">
+        <img src={image} alt={title} />
+      </figure>
+    )
+
+  return (
+    <figure className="image">
+      <Img fluid={image.childImageSharp.fluid} alt={title} style={{ overflow: "visible" }} />
+    </figure>
+  )
+}
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
   excerpt,
   timeToRead,
-  image,
+  date,
   title,
+  image,
+  category,
   tags,
 }) => {
   const PostContent = contentComponent || Content
@@ -51,20 +73,28 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-offset-one-fifth is-three-fifths">
-            { image ? (
-              <figure className="image">
-                <img src={image} alt="cover" />
-              </figure>
-            ) : null}
+            <Image image={image} title={title} />
+
+            <div className="level is-mobile" style={{ marginLeft: "2em", marginRight: "2em" }}>
+              <div className="level-left">
+                <div className="level-item">
+                  <Link to={`/blog/categories/${_.kebabCase(category)}`} className="tag is-rounded">
+                    {category}
+                  </Link>
+                </div>
+              </div>
+              <div className="level-right">
+                <div className="level-item">
+                  <time dateTime={date} className="has-text-weight-light">{moment(date).fromNow()}</time>
+                </div>
+              </div>
+            </div>
+
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+
             <PostContent content={content} />
-            {/* <div style={{ marginTop: `1rem` }}>
-              {tags && tags.length ? (
-                <TagList tags={tags} />
-              ) : null}
-            </div> */}
           </div>
         </div>
       </div>
@@ -77,9 +107,11 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   excerpt: PropTypes.string,
   timeToRead: PropTypes.number,
-  image: PropTypes.string,
+  date: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
+  image: PropTypes.string,
+  category: PropTypes.string,
+  tags: PropTypes.array,
 }
 
 const BlogPost = ({ data }) => {
@@ -90,9 +122,12 @@ const BlogPost = ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       excerpt={post.excerpt}
-      image={post.frontmatter.image}
-      tags={post.frontmatter.tags}
+      timeToRead={post.timeToRead}
+      date={post.frontmatter.date}
       title={post.frontmatter.title}
+      image={post.frontmatter.image}
+      category={post.frontmatter.category}
+      tags={post.frontmatter.tags}
     />
   )
 }
@@ -103,10 +138,12 @@ BlogPost.propTypes = {
       id: PropTypes.string,
       html: PropTypes.string,
       excerpt: PropTypes.string,
+      timeToRead: PropTypes.number,
       frontmatter: PropTypes.shape({
         date: PropTypes.string,
         title: PropTypes.string,
-        image: PropTypes.string,
+        // image: PropTypes.string,
+        category: PropTypes.string,
         tags: PropTypes.arrayOf(PropTypes.string),
       })
     }),
@@ -121,10 +158,18 @@ export const pageQuery = graphql`
       id
       html
       excerpt(pruneLength: 175)
+      timeToRead
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date
         title
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 700) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+        category
         tags
       }
     }

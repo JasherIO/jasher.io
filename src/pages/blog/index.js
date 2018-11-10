@@ -76,7 +76,13 @@ export const pageQuery = graphql`
           }
           frontmatter {
             templateKey
-            image
+            image {
+              childImageSharp {
+                fluid(maxWidth: 700) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
             title
             description
             category

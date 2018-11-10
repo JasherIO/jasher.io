@@ -52,13 +52,11 @@ exports.createPages = ({ actions, graphql }) => {
             }
             frontmatter {
               templateKey
-              category
-              tags
             }
           }
         }
-        tags: distinct(field: frontmatter___tags)
         categories: distinct(field: frontmatter___category)
+        tags: distinct(field: frontmatter___tags)
       }
     }
   `).then(result => {
@@ -72,10 +70,6 @@ exports.createPages = ({ actions, graphql }) => {
 
     const categories = result.data.allMarkdownRemark.categories
     _.each(categories, category => createPage(toCategoryTemplate(category)))
-
-    const tags = result.data.allMarkdownRemark.tags
-    _.each(tags, tag => createPage(toTagTemplate(tag)))
-
   })
 }
 
@@ -83,6 +77,18 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
+    // https://github.com/gatsbyjs/gatsby/issues/8195
+    const { frontmatter } = node
+    if (_.has(node, ['frontmatter', 'image'])) {
+      const image = _.get(node, ['frontmatter', 'image'])
+      if (image.indexOf('/img') === 0) {
+        frontmatter.image = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', image)
+        )
+      }
+    }
+
     const value = createFilePath({ node, getNode, trailingSlash: false })
     createNodeField({
       name: `slug`,
