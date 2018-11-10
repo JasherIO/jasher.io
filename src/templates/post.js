@@ -53,16 +53,8 @@ export const BlogPostTemplate = ({
         <meta name="og:description" content={description} />
         <meta name="twitter:description" content={description} />
 
-        {/* TODO: Gatsby image */}
-        {/* {image && !_.isString(image) && <meta name="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />} */}
-        {/* {image && !_.isString(image) && <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />} */}
-
-        {/* TODO: authors */}
-        {/* <link rel="author" href={`https://pulsarpremierleague.com${post.frontmatter.author.fields.slug}`} /> */}
-        {/* <meta name="og:type" content="article" /> */}
-        {/* <meta name="article:author" content={post.frontmatter.author.id} /> */}
-        {/* <meta name="twitter:creator" content={post.frontmatter.author.twitter} /> */}
-        {/* <meta name="author" content={post.frontmatter.author.id} /> */}
+        {image && !_.isString(image) && <meta name="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />}
+        {image && !_.isString(image) && <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />}
 
         <meta name="twitter:label1" content="Reading time" />
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
