@@ -24,17 +24,6 @@ const toCategoryTemplate = (category) => {
   }
 }
 
-const toTagTemplate = (tag) => {
-  const tagPath = `/blog/tags/${_.kebabCase(tag)}/`
-  return {
-    path: tagPath,
-    component: path.resolve(`src/templates/tags.js`),
-    context: {
-      tag,
-    },
-  }
-}
-
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 

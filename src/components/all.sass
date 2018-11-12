@@ -1,23 +1,17 @@
 @import "~bulma/sass/utilities/initial-variables"
 
-// https://color.adobe.com/create/color-wheel/?base=2&rule=Compound&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.8,0.5153562361584726,0.12078431372549021,0.6,0.4619510614163493,0.2705882352941177,1,0.3254901960784314,0.050980392156862744,0.3009803921568628,1,0.6933818560952525,0.12078431372549021,0.8,0.30983779883427226&swatchOrder=0,1,2,3,4
-// $orange: #FF5B17
-// $teal: #4DFFB1
-// $green: #1FCC4F
-$dirt: #997645
-$brown: #CC831F
+// Shades: https://color.adobe.com/create/color-wheel/?base=4&rule=Shades&selected=3&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.18183266197278122,0.55,0.2972094653638846,0.0991814519851534,0.30000000000000004,0.16211425383484615,0.28101411395793463,0.8500000000000001,0.4593237191987308,0.2314233879653579,0.7000000000000001,0.37826659228130766,0.264483871960409,0.8,0.43230467689292307&swatchOrder=0,1,4,2,3
+$green-lighter: #48D975
+$green: #43CC6E
+$green-darker: #3BB260
+$green-darkest: #194C29
 
-$orange: hsl(18, 100%, 55%)
-$teal: hsl(154, 100%, 65%)
-$green: hsl(137, 74%, 46%)
+$primary: $green
+$link: $green-darker
 
-$primary: $orange
-$info: $teal
-$link: $green
+$family-sans-serif: "Open Sans"
 
-$primary-invert: $white
-$info-invert: $black
-$link-invert: $white
+$navbar-item-active-color: $green-darker
 
 $roundedness: 5px
 
@@ -26,3 +20,8 @@ $roundedness: 5px
 
 html
   overflow-y: auto
+
+.is-post a 
+  color: $black
+  &:hover
+    color: $green-darker

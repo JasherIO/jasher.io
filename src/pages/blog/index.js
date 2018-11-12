@@ -11,22 +11,19 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.posts
 
     return (
-      <section className="section container">
+      <section className="section container" style={{ maxWidth: "900px" }}>
         <Helmet title={`Blog`} />
 
-        <div className="columns is-multiline">
-          <div className="column is-offset-2 is-8">
-            <div className="title is-2">
-              Latest Posts
-            </div>
-          </div>
-
-          {_.map(posts, ({ node: post }) => (
-            <div className="column is-offset-2 is-8" key={post.id}>
-              <Tile post={post} />
-            </div>
-          ))}
+        <div className="title is-2">
+          Latest Posts
         </div>
+
+        {_.map(posts, ({ node: post }) => (
+          <>
+            <Tile post={post} />
+            <hr />
+          </>
+        ))}
       </section>
     )
   }
@@ -46,7 +43,10 @@ IndexPage.propTypes = {
             }),
             frontmatter: PropTypes.shape({
               templateKey: PropTypes.string,
-              image: PropTypes.string,
+              image: PropTypes.oneOfType([
+                PropTypes.string,
+                PropTypes.object,
+              ]),
               title: PropTypes.string,
               description: PropTypes.string,
               category: PropTypes.string,

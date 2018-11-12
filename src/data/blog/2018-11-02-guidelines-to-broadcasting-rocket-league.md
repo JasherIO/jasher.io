@@ -17,7 +17,7 @@ This guide was made to help broadcasters avoid common mistakes when streaming *R
    2. Click the arrow next to your username
    3. Select **Offline**
 * Enable background audio
-   1. https://www.reddit.com/r/RocketLeague/comments/3hahmq/psa_how_to_enable_background_audio/
+   1. [Instructions](https://www.reddit.com/r/RocketLeague/comments/3hahmq/psa_how_to_enable_background_audio/)
 * Disable camera shake
    1. Click **Options**
    2. Click **Camera**

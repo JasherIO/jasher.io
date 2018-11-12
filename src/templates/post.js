@@ -1,10 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Helmet from 'react-helmet'
 import _ from 'lodash'
-import moment from 'moment'
+import Level from '../components/Posts/Level'
 
 import Content, { HTMLContent } from '../components/Content'
 
@@ -58,35 +58,20 @@ export const BlogPostTemplate = ({
 
         <meta name="twitter:label1" content="Reading time" />
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
-
-        {/* TODO: canonical link */}
       </Helmet>
 
-      <div className="container content">
+      <div className="container">
         <div className="columns">
           <div className="column is-offset-one-fifth is-three-fifths">
             <Image image={image} title={title} />
 
-            <div className="level is-mobile" style={{ marginLeft: "2em", marginRight: "2em" }}>
-              <div className="level-left">
-                <div className="level-item">
-                  <Link to={`/blog/categories/${_.kebabCase(category)}`} className="tag is-rounded">
-                    {category}
-                  </Link>
-                </div>
-              </div>
-              <div className="level-right">
-                <div className="level-item">
-                  <time dateTime={date} className="has-text-weight-light">{moment(date).fromNow()}</time>
-                </div>
-              </div>
-            </div>
+            <Level category={category} date={date} isLocale style={{ marginTop: "1rem" }} />
 
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
 
-            <PostContent content={content} />
+            <PostContent content={content} className="content" />
           </div>
         </div>
       </div>
@@ -101,7 +86,10 @@ BlogPostTemplate.propTypes = {
   timeToRead: PropTypes.number,
   date: PropTypes.string,
   title: PropTypes.string,
-  image: PropTypes.string,
+  image: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.object,
+  ]),
   category: PropTypes.string,
   tags: PropTypes.array,
 }
@@ -134,7 +122,10 @@ BlogPost.propTypes = {
       frontmatter: PropTypes.shape({
         date: PropTypes.string,
         title: PropTypes.string,
-        // image: PropTypes.string,
+        image: PropTypes.oneOfType([
+          PropTypes.string,
+          PropTypes.object,
+        ]),
         category: PropTypes.string,
         tags: PropTypes.arrayOf(PropTypes.string),
       })

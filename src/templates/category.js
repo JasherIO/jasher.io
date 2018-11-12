@@ -47,7 +47,10 @@ CategoryPage.propTypes = {
             }),
             frontmatter: PropTypes.shape({
               templateKey: PropTypes.string,
-              image: PropTypes.string,
+              image: PropTypes.oneOfType([
+                PropTypes.string,
+                PropTypes.object,
+              ]),
               title: PropTypes.string,
               description: PropTypes.string,
               category: PropTypes.string,
