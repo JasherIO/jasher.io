@@ -60,20 +60,16 @@ export const BlogPostTemplate = ({
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
       </Helmet>
 
-      <div className="container">
-        <div className="columns">
-          <div className="column is-offset-one-fifth is-three-fifths">
-            <Image image={image} title={title} />
+      <div className="container" style={{ maxWidth: "800px" }}>
+        <Image image={image} title={title} />
 
-            <Level category={category} date={date} isLocale style={{ marginTop: "1rem" }} />
+        <Level category={category} date={date} isLocale style={{ marginTop: "1rem" }} />
 
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
+        <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+          {title}
+        </h1>
 
-            <PostContent content={content} className="content" />
-          </div>
-        </div>
+        <PostContent content={content} className="content" />
       </div>
     </section>
   )
@@ -147,7 +143,7 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 700) {
+            fluid(maxWidth: 1000) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }

@@ -82,7 +82,7 @@ Director mode was added in [Patch v1.37](https://www.rocketleague.com/news/patch
 * Make lobby changes (optional)
   1. Click **Match Settings**
   2. Change Game Mode, Arena, etc. as required
-* Players may request a server recreation. Make sure you use a *new* and *unique* name to avoid **split lobbies**.
+* Make sure you use a *new* and *unique* name to avoid **split lobbies** when recreating a lobby.
   * Split lobbies: Lobby A is created with "Name - Password." Players are still in Lobby A when Lobby B is created with "Name - Password." Now, there are two lobbies with the same information. Players could join either Lobby A or B.
 
 ---

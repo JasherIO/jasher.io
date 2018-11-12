@@ -12,22 +12,19 @@ export default class CategoryPage extends React.Component {
     const { category } = pageContext
 
     return (
-      <section className="section container">
+      <section className="section container" style={{ maxWidth: "1000px" }}>
         <Helmet title={`${category}`} />
-
-        <div className="columns is-multiline">
-          <div className="column is-offset-2 is-8">
-            <div className="title is-2">
-              {category}
-            </div>
-          </div>
-
-          {_.map(posts, ({ node: post }) => (
-            <div className="column is-offset-2 is-8" key={post.id}>
-              <Tile post={post} />
-            </div>
-          ))}
+        
+        <div className="title is-size-2-tablet is-size-3-mobile">
+          {category}
         </div>
+
+        {_.map(posts, ({ node: post }) => (
+          <>
+            <Tile post={post} />
+            <hr />
+          </>
+        ))}
       </section>
     )
   }

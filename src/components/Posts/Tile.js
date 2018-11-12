@@ -13,8 +13,8 @@ const Tile = ({ post }) => (
           </Link>
         </figure>
       </div>
-      <div className="tile is-child is-9" style={{ padding: "0rem 1rem" }}>
-        <div className="title is-4 is-post" style={{ marginBottom: "0.5rem" }}>
+      <div className="tile is-child is-8" style={{ padding: "0rem 1rem" }}>
+        <div className="title is-4" style={{ marginBottom: "0.5rem" }}>
           <Link to={post.fields.slug}>
             {post.frontmatter.title}
           </Link>

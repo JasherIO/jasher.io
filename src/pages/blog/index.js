@@ -11,10 +11,10 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.posts
 
     return (
-      <section className="section container" style={{ maxWidth: "900px" }}>
+      <section className="section container" style={{ maxWidth: "1000px" }}>
         <Helmet title={`Blog`} />
 
-        <div className="title is-2">
+        <div className="title is-size-2-tablet is-size-3-mobile">
           Latest Posts
         </div>
 
@@ -78,7 +78,7 @@ export const pageQuery = graphql`
             templateKey
             image {
               childImageSharp {
-                fluid(maxWidth: 700) {
+                fluid(maxWidth: 800) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

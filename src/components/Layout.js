@@ -5,7 +5,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 
 import Navbar from './Navbar'
-// import Footer from '../Footer'
+import Footer from './Footer'
 import './all.sass'
 
 library.add(fab)
@@ -57,7 +57,7 @@ class PureLayout extends React.Component {
         
         <Navbar />
         {children}
-        {/* <Footer /> */}
+        <Footer />
         <NoScript />
       </div>
     )
