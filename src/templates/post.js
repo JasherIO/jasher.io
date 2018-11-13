@@ -21,7 +21,7 @@ const Image = ({ image, title }) => {
 
   return (
     <figure className="image">
-      <Img fluid={image.childImageSharp.fluid} alt={title} style={{ overflow: "visible" }} />
+      <Img fluid={image.childImageSharp.fluid} alt={title} />
     </figure>
   )
 }
@@ -42,22 +42,38 @@ export const BlogPostTemplate = ({
 
   return (
     <section className="section">
-      <Helmet title={`${title}`}>
-        <meta name="og:type" content="article" />
-
+      <Helmet>
+        
+        {/* https://moz.com/blog/meta-data-templates-123 */}
+        <html itemscope itemtype="http://schema.org/Article" />
+        
         <title>{title}</title>
-        <meta name="og:title" content={title} />
-        <meta name="twitter:title" content={title} />
-
         <meta name="description" content={description}/>
-        <meta name="og:description" content={description} />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@JasherIO" />
+        <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-
-        {image && !_.isString(image) && <meta name="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />}
-        {image && !_.isString(image) && <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />}
-
+        <meta name="twitter:creator" content="@JasherIO" />
+        <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src || image}`} />
+        
         <meta name="twitter:label1" content="Reading time" />
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
+
+        {/* Open Graph */}
+        <meta property="og:title" content={title} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://jasher.io" />
+        <meta property="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src || image}`} />
+        <meta property="og:description" content={description} />
+        <meta property="og:site_name" content="JasherIO" />
+
+        <meta property="article:published_time" content={date} />
+        {/* <meta property="article:modified_time" content="2013-09-16T19:08:47+01:00" /> */}
+        {/* <meta property="article:section" content="Article Section" /> */}
+        <meta property="article:tag" content={tags.join(' ')} />
+
       </Helmet>
 
       <div className="container" style={{ maxWidth: "800px" }}>
