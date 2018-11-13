@@ -68,14 +68,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     // https://github.com/gatsbyjs/gatsby/issues/8195
     const { frontmatter } = node
-    if (_.has(node, ['frontmatter', 'image'])) {
-      const image = _.get(node, ['frontmatter', 'image'])
-      if (image.indexOf('/img') === 0) {
-        frontmatter.image = path.relative(
-          path.dirname(node.fileAbsolutePath),
-          path.join(__dirname, '/static/', image)
-        )
-      }
+    const { image } = frontmatter
+    if (frontmatter && image && (image.indexOf('/img') === 0)) {
+      node.frontmatter.image = path.relative(
+        path.dirname(node.fileAbsolutePath),
+        path.join(__dirname, '/static/', image)
+      )
     }
 
     const value = createFilePath({ node, getNode, trailingSlash: false })
