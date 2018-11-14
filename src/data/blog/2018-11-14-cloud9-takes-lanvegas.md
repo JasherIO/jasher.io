@@ -22,6 +22,7 @@ tags:
 * [Cloud9 Brings #LANVegas World Championship Home! - RLEsports](https://www.rocketleagueesports.com/news/cloud9-brings-lanvegas-world-championship-home/)
 * [Cloud9 Defeats Team Dignitas To Win The RCLS Season 6 Championship - Forbes](https://www.forbes.com/sites/maxthielmeyer/2018/11/11/cloud9-defeats-team-dignitas-to-win-the-rcls-season-6-championship/?utm_source=TWITTER&utm_medium=social&utm_content=1892689131&utm_campaign=sprinklrForbesGamesTwitter#435937b5b4d1)
 * [Cloud9 on their stunning RLCS World Championship win - RedBull](https://www.redbull.com/int-en/cloud9-rlcs-champions-interview?linkId=59571830)
+* [Rocket League: C9 breaks down run to RLCS title - ESPN](http://www.espn.com/esports/story/_/id/25258898/cloud9-breaks-run-rocket-league-championship-series-title)
 * [Solo plays and style led to Cloud9's first Rocket League championship - Destructoid](https://www.destructoid.com/solo-plays-and-style-led-to-cloud9-s-first-rocket-league-championship-530908.phtml?utm_source=dlvr.it&utm_medium=twitter)
 * [The 31 best moments from the Season 6 RLCS World Championship - Rocketeers](https://rocketeers.gg/best-moments-from-season-6-rlcs-world-championship/)
 
@@ -34,14 +35,21 @@ https://rocketeers.gg/rocketeers-thunderdome-finals-come-to-audi-city-berlin/
 
 ### Articles
 
+* [Interview with Captain of Ghost, Lethamyr, "We feel like we can easily be a top 3 team in North America."](http://team-dignitas.net/articles/blogs/rocket-league/13094/interview-with-lethamyr)
 * [The Rise of Rocket League's Keyboard and Mouse Wizards](https://www.redbull.com/int-en/rocket-league-behind-the-keyboard-mouse-players)
 
 ### News
 
 * [Beyond monthlies return for November](https://twitter.com/TeamBeyondnet/status/1062060556117516290)
+* [Liquipedia takes 3rd for Esports Coverage Website of the Year](https://www.reddit.com/r/RocketLeagueEsports/comments/9wjn98/liquipedia_takes_3rd_for_esports_coverage_website/)
 * [Rival announces Autumn Open 2018](https://twitter.com/RivalEsportsGG/status/1062454114246934528)
+* [Team Liquid CEO on Rocket League: "orgs don't own the spots - its really hard to get involved"](https://twitter.com/LiQuiD112/status/1061045393440464896)
 
 ### Shows
+
+* [Aftershock: Ep. 8](https://www.youtube.com/watch?v=A4BOgn1FNN8)
+* [In Loving Memory of DarkFire](https://www.youtube.com/watch?v=UA8ihqHyclg)
+* [This Is CorruptedG: A Rocket League Story](https://www.youtube.com/watch?v=J9bvqUTNXb0)
 
 ---
 
