@@ -9,7 +9,7 @@ tags:
   - Renegade Cup
   - Promotion
 ---
-Cloud9 defeated Dignitas on Sunday in a dominant fashion in the Grand Finals of the Season 6 World Championship. They secured the second North American World Championship, the first since Kronovi and iBuyPower Cosmic won in Season 1. 
+Cloud9 stifled Dignitas on Sunday in the Grand Finals of the Season 6 World Championship. They secured the second win for North America since Kronovi and iBuyPower Cosmic won in Season 1. 
 
 **Previews**
 
@@ -31,11 +31,12 @@ Cloud9 defeated Dignitas on Sunday in a dominant fashion in the Grand Finals of 
 # The Rest of 2018
 
 * The Promotion Tournament takes place Saturday and Sunday.
-* The November Renegade Cups continue: 
+* The November Renegade Cups continue: [Fall Frenzy (NA)](https://smash.gg/tournament/fall-frenzy/events) | [Thunderdome (EU)](https://smash.gg/tournament/rocketeers-thunderdome/events)
   * [Thunderdome Broadcasts Live from Audi City Berlin](https://rocketeers.gg/rocketeers-thunderdome-finals-come-to-audi-city-berlin/)
-* The ELEAGUE Cup returns November 29-December 2nd. 
-* The CRL National Championship 
+* The [ELEAGUE Cup](https://www.eleague.com/rocketleague-2018/news/eleague-cup-rocket-league-2018) returns November 30-December 2nd. 
+* The [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/): Akron, Arizona, North Texas, Penn State
 * December Renegade Cups
+* The 2nd Rocket Pass releases in December
 
 ---
 
@@ -48,6 +49,7 @@ Cloud9 defeated Dignitas on Sunday in a dominant fashion in the Grand Finals of 
 
 * [Beyond monthlies return for November](https://twitter.com/TeamBeyondnet/status/1062060556117516290)
 * [Liquipedia takes 3rd for Esports Coverage Website of the Year](https://www.reddit.com/r/RocketLeagueEsports/comments/9wjn98/liquipedia_takes_3rd_for_esports_coverage_website/)
+* [MLD Crowns Champions This Weekend](https://twitter.com/MLDoubles/status/1059449745817722880)
 * [Rival announces Autumn Open 2018](https://twitter.com/RivalEsportsGG/status/1062454114246934528)
 * [Team Liquid CEO on Rocket League: "orgs don't own the spots - its really hard to get involved"](https://twitter.com/LiQuiD112/status/1061045393440464896)
 
