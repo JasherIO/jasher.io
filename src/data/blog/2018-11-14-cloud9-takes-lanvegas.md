@@ -9,6 +9,8 @@ tags:
   - Renegade Cup
   - Promotion
 ---
+Cloud9 defeated Dignitas on Sunday in a dominant fashion in the Grand Finals of the Season 6 World Championship. They secured the second North American World Championship, the first since Kronovi and iBuyPower Cosmic won in Season 1. 
+
 **Previews**
 
 * [Find out why G2's Kronovi is hungry for another RLCS championship](https://www.redbull.com/int-en/g2-esports-cameron-kronovi-bills-rlcs-interview)
@@ -26,10 +28,14 @@ tags:
 * [Solo plays and style led to Cloud9's first Rocket League championship - Destructoid](https://www.destructoid.com/solo-plays-and-style-led-to-cloud9-s-first-rocket-league-championship-530908.phtml?utm_source=dlvr.it&utm_medium=twitter)
 * [The 31 best moments from the Season 6 RLCS World Championship - Rocketeers](https://rocketeers.gg/best-moments-from-season-6-rlcs-world-championship/)
 
+# The Rest of 2018
 
-# Renegade Cup
-
-https://rocketeers.gg/rocketeers-thunderdome-finals-come-to-audi-city-berlin/
+* The Promotion Tournament takes place Saturday and Sunday.
+* The November Renegade Cups continue: 
+  * [Thunderdome Broadcasts Live from Audi City Berlin](https://rocketeers.gg/rocketeers-thunderdome-finals-come-to-audi-city-berlin/)
+* The ELEAGUE Cup returns November 29-December 2nd. 
+* The CRL National Championship 
+* December Renegade Cups
 
 ---
 
