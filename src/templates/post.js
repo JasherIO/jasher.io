@@ -56,7 +56,7 @@ export const BlogPostTemplate = ({
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:creator" content="@JasherIO" />
-        <meta name="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src || image}`} />
+        <meta name="twitter:image" content={`https://jasher.io${_.isString(image) ? image : image.childImageSharp.fluid.src}`} />
         
         <meta name="twitter:label1" content="Reading time" />
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
@@ -65,7 +65,7 @@ export const BlogPostTemplate = ({
         <meta property="og:title" content={title} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://jasher.io" />
-        <meta property="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src || image}`} />
+        <meta property="og:image" content={`https://jasher.io${_.isString(image) ? image : image.childImageSharp.fluid.src}`} />
         <meta property="og:description" content={description} />
         <meta property="og:site_name" content="JasherIO" />
 
