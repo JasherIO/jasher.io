@@ -38,7 +38,7 @@ export const BlogPostTemplate = ({
   tags,
 }) => {
   const PostContent = contentComponent || Content
-  const description = `${excerpt} ${tags.join(' ')}`
+  const description = `${excerpt} ${tags && tags.join(' ')}`
 
   return (
     <section className="section">
