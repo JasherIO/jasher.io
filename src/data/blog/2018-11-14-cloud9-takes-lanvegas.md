@@ -30,13 +30,13 @@ Cloud9 stifled Dignitas on Sunday to secure the second World Championship win fo
 
 # The Rest of 2018
 
-* The Promotion Tournament takes place Saturday and Sunday.
+* The Season 6 Promotion Tournament takes place Saturday and Sunday: [Liquipedia]() | [Octane]()
 * The November Renegade Cups continue: [Fall Frenzy (NA)](https://smash.gg/tournament/fall-frenzy/events) | [Thunderdome (EU)](https://smash.gg/tournament/rocketeers-thunderdome/events)
   * [Thunderdome Broadcasts Live from Audi City Berlin](https://rocketeers.gg/rocketeers-thunderdome-finals-come-to-audi-city-berlin/)
-* The [ELEAGUE Cup](https://www.eleague.com/rocketleague-2018/news/eleague-cup-rocket-league-2018) returns November 30-December 2nd. 
-* The [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/): Akron, Arizona, North Texas, Penn State
-* December Renegade Cups
-* The 2nd Rocket Pass releases in December
+* ELEAGUE hosts [ELEAGUE Cup 2](https://www.eleague.com/rocketleague-2018/news/eleague-cup-rocket-league-2018) in Atlanta, Georgia November 30th - December 2nd. 
+* Akron, Arizona, North Texas, Penn State compete in the [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) on December 8th in Arlington, Texas. 
+* The December [Renegade Cups](https://www.rocketleagueesports.com/news/faq---renegade-cup/) run all month. Organizers are to-be-announced.
+* Rocket Pass 2, Frosty Fest, and expanded Xbox One X support release in [early December](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/).
 
 ---
 
