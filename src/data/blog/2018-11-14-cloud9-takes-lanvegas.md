@@ -1,6 +1,6 @@
 ---
 templateKey: post
-image: /img/TWiRL.png
+image: /img/cloud9takeslanvegas.png
 title: 'Cloud9 Takes #LANVegas'
 date: 2018-11-14T19:26:17.886Z
 category: This Week in Rocket League
