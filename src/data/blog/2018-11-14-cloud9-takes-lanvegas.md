@@ -11,6 +11,8 @@ tags:
 ---
 Cloud9 stifled Dignitas on Sunday to secure the second World Championship win for North America, the latest since Kronovi and iBuyPower Cosmic won the inaugural season over two years ago. For the third time, a remkoe led team finished third. Meanwhile, Chiefs placed fourth, the highest result for an Oceanic team. Similar to last season, Evil Geniuses shook off their North American fourth seed status and finished 5-6. Lastly, for the second season in a row, G2 under performed, going home on Day 2 with an 0-2 record. 
 
+Results / Stats: [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) | [Octane](https://octane.gg/event/rlcs-season-six-world-championship)
+
 **Previews**
 
 * [Find out why G2's Kronovi is hungry for another RLCS championship](https://www.redbull.com/int-en/g2-esports-cameron-kronovi-bills-rlcs-interview)
@@ -48,6 +50,7 @@ Cloud9 stifled Dignitas on Sunday to secure the second World Championship win fo
 ### News
 
 * [Beyond monthlies return for November](https://twitter.com/TeamBeyondnet/status/1062060556117516290)
+* [Ballistix Brawl Season 2 progresses](https://smash.gg/tournament/ballistix-brawl-rocket-league-season-2/details)
 * [Liquipedia takes 3rd for Esports Coverage Website of the Year](https://www.reddit.com/r/RocketLeagueEsports/comments/9wjn98/liquipedia_takes_3rd_for_esports_coverage_website/)
 * [MLD Crowns Champions This Weekend](https://twitter.com/MLDoubles/status/1059449745817722880)
 * [Rival announces Autumn Open 2018](https://twitter.com/RivalEsportsGG/status/1062454114246934528)
