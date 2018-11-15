@@ -2,7 +2,7 @@
 templateKey: post
 image: /img/TWiRL.png
 title: Three Teams Promoted to RLCS
-date: 2018-11-15T21:46:03.656Z
+date: 2018-05-09T20:46:03.656Z
 category: This Week in Rocket League
 tags:
   - Championship Series
