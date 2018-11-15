@@ -9,6 +9,7 @@ tags:
   - Northern Arena
   - RIVAL
   - Asia Pro League
+  - Universal Open
 ---
 Allegiance, FlyQuest, and Servette promoted to the RLCS over the weekend. They join Fnatic, who defended their position. 
 
