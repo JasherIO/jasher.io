@@ -9,9 +9,7 @@ tags:
   - Renegade Cup
   - Promotion
 ---
-Cloud9 stifled Dignitas on Sunday in the Grand Finals of the Season 6 World Championship. They secured the second win for North America, the latest since Kronovi and iBuyPower Cosmic won the inaugural season over two years ago. 
-
-For the third time, a remkoe led team finished third. Meanwhile, Chiefs placed fourth, the highest result for an Oceanic team. Similar to last season, Evil Geniuses shook off their North American fourth seed status and finished 5-6. Lastly, for the second season in a row, G2 under performed, going home on Day 2 with an 0-2 record. 
+Cloud9 stifled Dignitas on Sunday to secure the second World Championship win for North America, the latest since Kronovi and iBuyPower Cosmic won the inaugural season over two years ago. For the third time, a remkoe led team finished third. Meanwhile, Chiefs placed fourth, the highest result for an Oceanic team. Similar to last season, Evil Geniuses shook off their North American fourth seed status and finished 5-6. Lastly, for the second season in a row, G2 under performed, going home on Day 2 with an 0-2 record. 
 
 **Previews**
 
