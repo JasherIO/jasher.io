@@ -8,7 +8,7 @@ tags:
   - Championship Series
   - Rival Series
   - Renegade Cup
-  - CRL
+  - Collegiate Rocket League
   - Feature Update
   - RocketID
 ---

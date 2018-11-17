@@ -5,7 +5,7 @@ title: October Renegade Cups End Today
 date: '2018-10-25T08:26:06-05:00'
 category: This Week in Rocket League
 tags:
-  - CRL
+  - Collegiate Rocket League
   - Renegade Cup
   - Rocketeers
   - Nexus Gaming

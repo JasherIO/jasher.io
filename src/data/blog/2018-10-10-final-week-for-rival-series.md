@@ -7,11 +7,11 @@ category: This Week in Rocket League
 tags:
   - Championship Series
   - Rival Series
-  - CRL
+  - Collegiate Rocket League
   - Throwdown
   - Renegade Cup
   - Rocket Baguette
-  - RIVAL
+  - RIVAL Esports
 ---
 **Europe**
 

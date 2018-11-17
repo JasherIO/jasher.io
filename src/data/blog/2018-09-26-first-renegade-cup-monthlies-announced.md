@@ -9,7 +9,7 @@ tags:
   - Rival Series
   - Renegade Cup
   - Rocket Baguette
-  - RIVAL
+  - RIVAL Esports
   - Rocket Street
   - Nexus Gaming
   - BallChasing

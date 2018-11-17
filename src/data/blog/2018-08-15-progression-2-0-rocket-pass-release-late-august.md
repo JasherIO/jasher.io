@@ -7,7 +7,7 @@ category: This Week in Rocket League
 tags:
   - Championship Series
   - Rival Series
-  - RIVAL
+  - RIVAL Esports
   - Feature Update
   - Rocket Pass
 ---

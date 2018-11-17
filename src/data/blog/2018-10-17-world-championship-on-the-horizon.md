@@ -8,7 +8,7 @@ tags:
   - Championship Series
   - Rival Series
   - Throwdown
-  - CRL
+  - Collegiate Rocket League
   - Renegade Cup
   - Rocket Street
 ---
@@ -55,7 +55,7 @@ For more information, read the [full post](https://www.rocketleague.com/news/roc
 ### Articles
 
 * [Calculated: Flipsid3 Tactics](https://www.rocketleagueesports.com/news/calculated--13--flipsid3-tactics/)
-* [CCA Power Rankings - CRL Week 4](https://www.reddit.com/r/RocketLeagueEsports/comments/9ohkeo/collegiate_rocket_league_week_4_cca_power_rankings/)
+* [CCA Power Rankings - Collegiate Rocket League Week 4](https://www.reddit.com/r/RocketLeagueEsports/comments/9ohkeo/collegiate_rocket_league_week_4_cca_power_rankings/)
 * [Interview with #DIGRL player Turbopolsa](http://team-dignitas.net/articles/news/rocket-league/13044/interview-with-digrl-player-turbopolsa)
 * [On the Road to Victory - FairyPeak](https://www.theplayerslobby.com/2812/on-the-road-to-victory-fairy-peak-team-vitality-rocket-league/#.IIXVkQG3ZL)
 * [Savage! is on the Road to RLCS Redemption](https://ginx.tv/rocket-league/savage-road-to-rlcs-redemption/)

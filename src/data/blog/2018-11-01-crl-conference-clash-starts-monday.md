@@ -5,7 +5,7 @@ title: CRL Conference Clash Starts Monday
 date: '2018-10-31T15:09:22-05:00'
 category: This Week in Rocket League
 tags:
-  - CRL
+  - Collegiate Rocket League
   - Renegade Cup
   - Nexus Gaming
   - Rocketeers

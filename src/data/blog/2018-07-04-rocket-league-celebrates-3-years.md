@@ -7,7 +7,7 @@ category: This Week in Rocket League
 tags:
   - Anniversary
   - Birthday
-  - RIVAL
+  - RIVAL Esports
   - College Carball Association
 ---
 
