@@ -19,15 +19,17 @@ Red Reserve, Savage
 Rogue, Allegiance
 Fnatic, compLexity
 
-# What else is happening in RLEsports?
+**What else is happening in RLEsports?**
 
 * Thunderdome and Fall Frenzy wrap up today 
 * [ELEAGUE Cup 2 Begins Next Friday, November 30th](https://twitter.com/ELEAGUETV/status/1064937194731827200)
-* 
+* Akron, Arizona, North Texas, Penn State compete in the [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) on December 8th in Arlington, Texas. 
 
 # New Merch Announced, Double XP Weekend Started
 
 https://twitter.com/RocketLeague/status/1063496874638827520
+
+Rocket Pass 2, Frosty Fest, and expanded Xbox One X support release in [early December](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/).
 
 ---
 
@@ -66,3 +68,6 @@ https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs
 
 ---
 
+Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
+
+Follow [@JasherIO](https://twitter.com/JasherIO) for the latest updates on *This Week in Rocket League*!
