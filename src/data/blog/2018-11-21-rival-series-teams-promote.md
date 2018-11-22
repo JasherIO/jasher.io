@@ -13,6 +13,8 @@ tags:
   - Guilded
   - Minor League Doubles
 ---
+Since the promotion system debuted
+
 Bread, Splyce
 Red Reserve, Savage
 
