@@ -23,17 +23,15 @@ Fnatic, compLexity
 
 **What else is happening in RLEsports?**
 
-* Thunderdome and Fall Frenzy wrap up today 
+* [Thunderdome](https://smash.gg/tournament/rocketeers-thunderdome/events) and [Fall Frenzy](https://smash.gg/tournament/fall-frenzy/events) conclude today 
 * [ELEAGUE Cup 2 Begins Next Friday, November 30th](https://twitter.com/ELEAGUETV/status/1064937194731827200)
 * The [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) takes place December 8th in Arlington, Texas
 
-# New Merch Announced, Double XP Weekend Started
+# New Merch Announced, Rocket Pass Ends Nov 26th
 
-JINX released new Rocket League merchandise on their store last Friday, including several new t-shirts and a hoodie. 
+JINX released new Rocket League merchandise on their store last Friday, including several new t-shirts and a hoodie. [More information...](https://twitter.com/RocketLeague/status/1063496874638827520)
 
-Rocket Pass ends November 26th. 
-
-https://twitter.com/RocketLeague/status/1063496874638827520
+A [double XP and drop-rate weekend started yesterday](https://www.rocketleague.com/news/players-choice-crate-vote-2xp-double-drop-rate-weekend/) and goes until the first Rocket Pass ends on November 26th. The [Player's Choice Crate](https://www.rocketleague.com/news/players-choice-crate-vote-2xp-double-drop-rate-weekend/) now drops the newest community selected items. 
 
 Rocket Pass 2, Frosty Fest, and expanded Xbox One X support release in [early December](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/).
 
