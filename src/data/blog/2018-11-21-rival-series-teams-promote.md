@@ -23,9 +23,13 @@ Fnatic, compLexity
 
 * Thunderdome and Fall Frenzy wrap up today 
 * [ELEAGUE Cup 2 Begins Next Friday, November 30th](https://twitter.com/ELEAGUETV/status/1064937194731827200)
-* Akron, Arizona, North Texas, Penn State compete in the [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) on December 8th in Arlington, Texas. 
+* The [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) takes place December 8th in Arlington, Texas
 
 # New Merch Announced, Double XP Weekend Started
+
+JINX released new Rocket League merchandise on their store last Friday, including several new t-shirts and a hoodie. 
+
+Rocket Pass ends November 26th. 
 
 https://twitter.com/RocketLeague/status/1063496874638827520
 
@@ -35,17 +39,11 @@ Rocket Pass 2, Frosty Fest, and expanded Xbox One X support release in [early De
 
 # Around the Community
 
-**PlayVS**
+**PlayVS** organizes state high school esports competitions in the United States. On Tuesday, they announced *Rocket League* as part of their next season. [Read more...](https://twitter.com/playvs/status/1064912255169359872)
 
-https://twitter.com/playvs/status/1064912255169359872
+RIVAL hosts the **Autumn Open** for European players Friday through Sunday. The three-stage event (qualifier, swiss, playoffs) features a $1000 prize pool. [Read more...](https://twitter.com/RivalEsportsGG/status/1065319057992364037)
 
-**Autumn Open Begins Friday**
-
-https://twitter.com/RivalEsportsGG/status/1065319057992364037
-
-**Minor League Doubles**
-
-https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs
+The sixth season of **Minor League Doubles** wrapped up over the weekend. The Wizards defended their Academy League crown, becoming the second ever back-to-back champion. Meanwhile, the Ducks won their third franchise championship, by defeating the Bulls in a close final (4-3). [Read more...](https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs)
 
 ---
 
