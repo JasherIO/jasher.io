@@ -33,7 +33,7 @@ JINX released new Rocket League merchandise on their store last Friday, includin
 
 A [double XP and drop-rate weekend started yesterday](https://www.rocketleague.com/news/players-choice-crate-vote-2xp-double-drop-rate-weekend/) and goes until the first Rocket Pass ends on November 26th. The [Player's Choice Crate](https://www.rocketleague.com/news/players-choice-crate-vote-2xp-double-drop-rate-weekend/) now drops the newest community selected items. 
 
-Rocket Pass 2, Frosty Fest, and expanded Xbox One X support release in [early December](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/).
+The [December Update](https://www.rocketleague.com/news/enhanced-xbox-one-x-support-december/) drops the 3rd and includes expanded Xbox One X support and leaderboards for the ranked sports modes. Rocket Pass 2 and Frost Fest release sometime after the update. [Read more...](https://www.rocketleague.com/news/enhanced-xbox-one-x-support-december/)
 
 ---
 
