@@ -13,13 +13,11 @@ tags:
   - Guilded
   - Minor League Doubles
 ---
-Since the promotion system debuted
+For the first time since the promotion system debuted in Season 4, all four of the Rival Series teams (Bread, Splyce, Red Reserve, Savage) promoted. Nine of the twelve promoted players make their Championship Series debut next season: Ronaky, Tadpole, Speed, and Alpha54 in Europe and DudeWithTheNose, JWismont, Satthew, AxB, and Sypical in North America.
 
-Bread, Splyce
-Red Reserve, Savage
-
-Rogue, Allegiance
-Fnatic, compLexity
+See the full results here: 
+* **North America** - [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/North_America/Promotion_Playoffs) | [Octane](https://octane.gg/event/rlcs-season-seven-north-america-promotion)
+* **Europe** - [Liquipedia](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6/Europe/Promotion_Playoffs) | [Octane](https://octane.gg/event/rlcs-season-seven-europe-promotion)
 
 **What else is happening in RLEsports?**
 
