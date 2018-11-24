@@ -39,7 +39,7 @@ The [December Update](https://www.rocketleague.com/news/enhanced-xbox-one-x-supp
 
 RIVAL hosts the **Autumn Open** for European players Friday through Sunday. The three-stage event (qualifier, swiss, playoffs) features a $1000 prize pool. [Read more...](https://twitter.com/RivalEsportsGG/status/1065319057992364037)
 
-The sixth season of **Minor League Doubles** wrapped up over the weekend. The Wizards defended their Academy League crown, becoming the second ever back-to-back champion. Meanwhile, the Ducks won their third franchise championship, by defeating the Bulls in a close final (4-3). [Read more...](https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs)
+The seventh season of **Minor League Doubles** wrapped up over the weekend. The Wizards defended their Academy League crown, becoming the second ever back-to-back champion. Meanwhile, the Ducks won their third franchise championship, by defeating the Bulls in a close final (4-3). [Read more...](https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs)
 
 ---
 
