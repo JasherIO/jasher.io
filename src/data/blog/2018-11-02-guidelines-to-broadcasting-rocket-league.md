@@ -8,7 +8,7 @@ tags:
   - Broadcast
   - Rocket League
 ---
-This guide was made to help broadcasters avoid common mistakes when streaming *Rocket League*.
+As an administrator and broadcast assistant for *Rocket League* events since Summer 2016, it hurts when I see broadcasters make common mistakes that are avoidable with the proper information.
 
 # Before Game
 
