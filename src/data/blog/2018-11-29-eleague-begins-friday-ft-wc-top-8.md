@@ -10,17 +10,19 @@ tags:
 ---
 The 2nd ELEAGUE Cup begins tomorrow in Atlanta, Georgia. The top eight [#LANVegas](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) teams were invited to the three day $150,000 event. 
 
-Check out [Shuichi's](https://www.reddit.com/user/ShuichiRL) excellent [guide](https://www.reddit.com/r/RocketLeague/comments/a0xpvg/a_guide_to_watch_the_eleague_cup_rocket_league/) for more information on this weekend's event. 
+[Shuichi](https://www.reddit.com/user/ShuichiRL) wrote an excellent [guide](https://www.reddit.com/r/RocketLeague/comments/a0xpvg/a_guide_to_watch_the_eleague_cup_rocket_league/) in preparation for this weekend's event. 
 
 # DreamHack Circuit
 
-https://company.dreamhack.com/2018/11/28/dreamhack-partnership-psyonix-launches-dreamhack-pro-circuit-featuring-4-major-rocket-league-tournaments-2019/
+DreamHack announced the DreamHack Pro Circuit yesterday in partnership with Psyonix. The circuit sees DreamHack hosting four $100,000 tournaments over 2019. Each event includes a minimum of 32 entrants and "a combination of online qualifiers, direct invitations and an onsite open bracket."
+
+DreamHack Leipzig takes place February 15-17 and Dallas runs May 31-June 2. Both Europe and North America have another event later in the year. [Read more...](https://company.dreamhack.com/2018/11/28/dreamhack-partnership-psyonix-launches-dreamhack-pro-circuit-featuring-4-major-rocket-league-tournaments-2019/)
 
 ---
 
 # Around the Community
 
-CRL National Championship
+The **CRL National Championship** takes place December 8th. Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing. 
 
 Gfinity
 
