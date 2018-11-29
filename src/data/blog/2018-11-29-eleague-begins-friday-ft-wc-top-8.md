@@ -26,12 +26,10 @@ The **CRL National Championship** takes place December 8th in [Arlington, Texas]
 
 **Gfinity** wraps up the final week of league play in both the [United Kingdom](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4) and [Australia](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2). [Read more... (UK)](https://www.reddit.com/r/RocketLeagueEsports/comments/a17mh7/rl_gfinity_elite_series_delivered_by_dominos/)
 
-Ballistix Brawl
+**Ballistix Brawl** Season 2 completed the third qualifier this week. The fourth and [final qualifier](https://liquipedia.net/rocketleague/Ballistix/Brawl/Season_2/Qualifier/4) takes place Monday, December 3rd. Eight teams compete in the [finals](https://liquipedia.net/rocketleague/Ballistix/Brawl/Season_2) on December 16th. 
 
 
-Renegade Cup
-
-https://smash.gg/tournament/whiteout/events
+Last, but not least, the December **Renegade Cups** began yesterday with the first stage of [Neon Dream](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rewind_Gaming/Neon_Dream/Draft_1) (Rewind Gaming) and [Whiteout](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Boost_Legacy/Whiteout/Opening_Flurry/1) (Boost Legacy).
 
 ---
 
