@@ -22,11 +22,9 @@ DreamHack Leipzig takes place February 15-17 and Dallas runs May 31-June 2. Both
 
 # Around the Community
 
-The **CRL National Championship** takes place December 8th. Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing. 
+The **CRL National Championship** takes place December 8th in [Arlington, Texas](https://crl18tickets.squadup.com). Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing. 
 
-Gfinity
-
-https://www.reddit.com/r/RocketLeagueEsports/comments/a17mh7/rl_gfinity_elite_series_delivered_by_dominos/
+**Gfinity** wraps up the final week of league play in both the [United Kingdom](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4) and [Australia](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2). [Read more... (UK)](https://www.reddit.com/r/RocketLeagueEsports/comments/a17mh7/rl_gfinity_elite_series_delivered_by_dominos/)
 
 Ballistix Brawl
 
