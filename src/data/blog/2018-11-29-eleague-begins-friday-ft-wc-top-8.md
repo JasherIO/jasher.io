@@ -7,6 +7,11 @@ category: This Week in Rocket League
 tags:
   - ELEAGUE
   - DreamHack
+  - Collegiate Rocket League
+  - Renegade Cup
+  - Gfinity
+  - Rewind Gaming
+  - Boost Legacy
 ---
 The 2nd ELEAGUE Cup begins tomorrow in Atlanta, Georgia. The top eight [#LANVegas](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) teams were invited to the three day $150,000 event. 
 
