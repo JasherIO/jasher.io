@@ -43,6 +43,7 @@ Last, but not least, the December **Renegade Cups** began yesterday with the fir
 
 * [3 Billion Matches Have been Played](https://twitter.com/RocketLeague/status/1067885846878027776)
 * [Beyond Announces December 1v1, 2v2, and 3v3 Tournaments](https://twitter.com/TeamBeyondnet/status/1067862911316561920)
+* [The December Update launches December 3rd](https://www.rocketleague.com/news/enhanced-xbox-one-x-support-december/)
 
 ### Shows
 
