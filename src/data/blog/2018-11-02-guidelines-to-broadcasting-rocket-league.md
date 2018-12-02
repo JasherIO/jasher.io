@@ -41,6 +41,7 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 * The **Team Size** option only matters for bot matches. There are always 10 slots in a lobby (8 are usable for players). Fill empty slots to avoid joins by third parties. 
 * Set the **Bot Difficulty** to "No Bots"
 * Set team names and colors under **Team Settings** (optional)
+  * Match team colors to logos (ex. Cloud9 as Blue team and NRG as Orange team)
   * Remember to update these values between matches
 * For soccar matches, restore mutators to the defaults settings
   1. Click **Mutator Settings**
