@@ -29,4 +29,6 @@ tags:
 
 You are interested in organizing a tournament. Do you know why? Are you looking to build a professional organization? Are you looking to build a community? Are you looking to fill a niche area? 
 
+The "why" helps you with decisions and priorities. 
+
 RLXL was created to raise money for charity through *Rocket League* tournaments. The "why" drove decisions. We partnered with community organizations from across the world
