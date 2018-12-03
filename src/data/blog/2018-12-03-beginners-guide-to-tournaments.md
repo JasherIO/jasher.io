@@ -16,12 +16,17 @@ tags:
      3. Return on investment (ROI)
      4. Casual or competitive
 
-1. Audience
+2. Audience
     1. Players
     2. Sponsors
     3. Viewers
     
-2. Formats
+3. Formats
     1. Elimination  
     2. Group  
     3. Multi-Stage
+
+
+You are interested in organizing a tournament. Do you know why? Are you looking to build a professional organization? Are you looking to build a community? Are you looking to fill a niche area? 
+
+RLXL was created to raise money for charity through *Rocket League* tournaments. The "why" drove decisions. We partnered with community organizations from across the world
