@@ -1,13 +1,17 @@
 ---
 templateKey: post
 image: /img/TWiRL.png
-title: Beginners Guide to Tournaments
+title: How to Select a Tournament Format
 date: 2018-12-03T17:36:39.317Z
 category: Beginners Guide to Tournaments
 tags:
   - Tournament
   - Esports
 ---
+Blah
+
+---
+
 **Table of Contents**
 
 1. Why
