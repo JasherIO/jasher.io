@@ -8,7 +8,15 @@ tags:
   - Tournament
   - Esports
 ---
-Blah
+# The Why
+
+# Know Your Audience
+
+Professional players: valuable time; sufficient prize pool; competitive teams
+
+# Competitive Integrity
+
+
 
 ---
 
