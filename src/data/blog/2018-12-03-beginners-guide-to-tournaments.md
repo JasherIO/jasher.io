@@ -12,7 +12,12 @@ tags:
 
 # Know Your Audience
 
-Professional players: valuable time; sufficient prize pool; competitive teams
+Players: valuable time; sufficient prize pool; competitive teams
+
+Organizations: 
+
+Spectators: quality competitive; casual fun; humorous
+
 
 # Competitive Integrity
 
