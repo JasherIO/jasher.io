@@ -14,7 +14,7 @@ tags:
 
 Players: valuable time; sufficient prize pool; competitive teams
 
-Organizations: 
+Organizations: exposure
 
 Spectators: quality competitive; casual fun; humorous
 
