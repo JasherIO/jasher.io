@@ -22,7 +22,9 @@ https://twitter.com/RocketLeague/status/1070354612580900865
 
 # Around the Community
 
-Gfinity
+The reigning champions, Vitality, were unable to qualify for the playoffs in the fourth season of the Gfinity Elite Series (UK). Epsilon eSports, Fnatic, Method, Nordavind, Reason Gaming, and Team Envy battle for the crown on Sunday. [Learn more...](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4)
+
+Meanwhile, Chiefs, Deceptors, ORDER, and Roar seek the trophy in the second season of the Australian Gfinity Elite Series over the next two weekends. 
 
 Ballistix Brawl
 
