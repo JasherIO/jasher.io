@@ -30,8 +30,6 @@ Minor League Doubles announces
 
 https://twitter.com/CollegiateRL/status/1070018524410757121
 
-https://twitter.com/GillyweedTV/status/1070532465503088640
-
 ---
 
 ### Articles
@@ -40,6 +38,7 @@ https://twitter.com/GillyweedTV/status/1070532465503088640
 
 ### News
 
+* [Gillyweed joins Psyonix as an esports broadcast specialist](https://twitter.com/GillyweedTV/status/1070532465503088640)
 * [Timi retires](https://twitter.com/timifalodun/status/1070157331491483648)
 
 ### Shows
