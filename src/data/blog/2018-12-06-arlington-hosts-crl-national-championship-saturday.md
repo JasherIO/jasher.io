@@ -9,7 +9,20 @@ tags:
   - Collegiate Rocket League
   - Renegade Cup
 ---
+https://twitter.com/RLEsports/status/1070017853456150528
+
+
+# Rocket Pass 2 Launches December 10th
+
+https://twitter.com/RocketLeague/status/1070000663982039041
+
+https://www.rocketleague.com/news/patch-notes-v1-56-december-update/
+
+https://twitter.com/RocketLeague/status/1070354612580900865
+
 # Around the Community
+
+Gfinity
 
 Ballistix Brawl
 
@@ -17,13 +30,19 @@ Minor League Doubles announces
 
 https://twitter.com/CollegiateRL/status/1070018524410757121
 
+https://twitter.com/GillyweedTV/status/1070532465503088640
+
 ---
 
 ### Articles
 
+* [Get to know next season's brand new RLCS teams](https://www.redbull.com/int-en/rlcs-new-season-7-teams)
+
 ### News
 
 ### Shows
+
+* [Rocket Science: Patch 1.56: Plank = Batmobile change](https://www.youtube.com/watch?v=cDYFM8KDnA4)
 
 ---
 
