@@ -40,9 +40,13 @@ https://twitter.com/GillyweedTV/status/1070532465503088640
 
 ### News
 
+* [Timi retires](https://twitter.com/timifalodun/status/1070157331491483648)
+
 ### Shows
 
+* [Aftershock: Ep. 11](https://www.youtube.com/watch?v=7gOLscHULaM)
 * [Heads Up Daily: Lawler Recaps the ELEAGUE Cup](https://www.youtube.com/watch?v=LxCV6pZmdpc)
+* [Heads Up Daily: Rocket League 2018 Year in Review with Axeltoss](https://www.youtube.com/watch?v=B26hU13EjsE)
 * [Rocket Science: Patch 1.56: Plank = Batmobile change](https://www.youtube.com/watch?v=cDYFM8KDnA4)
 
 ---
