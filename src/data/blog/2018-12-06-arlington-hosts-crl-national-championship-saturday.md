@@ -38,6 +38,7 @@ https://twitter.com/CollegiateRL/status/1070018524410757121
 
 * [Get to know next season's brand new RLCS teams](https://www.redbull.com/int-en/rlcs-new-season-7-teams)
 * [The Biggest Things We Learned](https://www.eleague.com/rocketleague-2018/news/the-biggest-things-we-learned?sf203767810=1)
+* [Why you should watch the Mannfield Night 5K 1v1 league](https://www.dailyesports.gg/mannfield-night-5k-rocket-league/)
 
 ### News
 
