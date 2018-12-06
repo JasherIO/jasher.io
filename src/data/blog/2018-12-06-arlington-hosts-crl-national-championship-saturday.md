@@ -51,6 +51,7 @@ https://twitter.com/CollegiateRL/status/1070018524410757121
 * [Heads Up Daily: Lawler Recaps the ELEAGUE Cup](https://www.youtube.com/watch?v=LxCV6pZmdpc)
 * [Heads Up Daily: Rocket League 2018 Year in Review with Axeltoss](https://www.youtube.com/watch?v=B26hU13EjsE)
 * [Rocket Science: Patch 1.56: Plank = Batmobile change](https://www.youtube.com/watch?v=cDYFM8KDnA4)
+* [The Game Show ft. CloudFuel and Rizzo](https://www.sportsnet.ca/650/the-game-show/nov-30-our-first-show/)
 
 ---
 
