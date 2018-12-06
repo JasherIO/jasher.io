@@ -42,6 +42,7 @@ https://twitter.com/GillyweedTV/status/1070532465503088640
 
 ### Shows
 
+* [Heads Up Daily: Lawler Recaps the ELEAGUE Cup](https://www.youtube.com/watch?v=LxCV6pZmdpc)
 * [Rocket Science: Patch 1.56: Plank = Batmobile change](https://www.youtube.com/watch?v=cDYFM8KDnA4)
 
 ---
