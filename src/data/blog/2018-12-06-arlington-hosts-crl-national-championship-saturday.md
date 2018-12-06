@@ -9,7 +9,21 @@ tags:
   - Collegiate Rocket League
   - Renegade Cup
 ---
+# Around the Community
 
+Ballistix Brawl
+
+Minor League Doubles announces 
+
+https://twitter.com/CollegiateRL/status/1070018524410757121
+
+---
+
+### Articles
+
+### News
+
+### Shows
 
 ---
 
