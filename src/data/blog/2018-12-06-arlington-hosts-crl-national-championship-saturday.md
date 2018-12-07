@@ -15,13 +15,11 @@ Tickets can be found on [squadup](https://crl18tickets.squadup.com).
 
 # Rocket Pass 2 Launches December 10th
 
+Rocket Pass 2 begins next Monday and runs through the beginning of March. Item tiers have been refreshed with new items and black market decals have been added. [Read more...](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/)
 
-
-https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/
+The McLaren 570S was announced last night at The Game Awards and simultaneously released in the in-game Showroom. The McLaren battle-car has a Dominus hitbox. [Read more...](https://www.rocketleague.com/news/mclaren-570s-car-pack-available-now/)
 
 https://www.rocketleague.com/news/patch-notes-v1-56-december-update/
-
-https://twitter.com/RocketLeague/status/1070354612580900865
 
 # Around the Community
 
