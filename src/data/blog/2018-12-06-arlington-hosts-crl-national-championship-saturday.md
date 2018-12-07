@@ -19,7 +19,7 @@ Rocket Pass 2 begins next Monday and runs through the beginning of March. Item t
 
 The McLaren 570S was announced last night at The Game Awards and simultaneously released in the in-game Showroom. The McLaren battle-car has a Dominus hitbox. [Read more...](https://www.rocketleague.com/news/mclaren-570s-car-pack-available-now/)
 
-https://www.rocketleague.com/news/patch-notes-v1-56-december-update/
+The December Update dropped on Monday and included enhanced Xbox One X support, changes to the Progression System, and [more...](https://www.rocketleague.com/news/patch-notes-v1-56-december-update/)
 
 # Around the Community
 
