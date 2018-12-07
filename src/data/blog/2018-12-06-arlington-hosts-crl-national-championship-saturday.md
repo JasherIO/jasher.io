@@ -27,11 +27,11 @@ Epsilon eSports, Fnatic, Method, Nordavind, Reason Gaming, and Team Envy battle 
 
 Meanwhile, Chiefs, Deceptors, ORDER, and Roar seek the trophy in the second season of the **Australian Gfinity Elite Series** over the next two weekends. [Learn more...](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2)
 
-Ballistix Brawl
+**Ballistix Brawl** Season 2 concludes next Monday, December 10th, with the [finals](https://liquipedia.net/rocketleague/Ballistix/Brawl/Season_2).
 
-Minor League Doubles announces 
+Last Tuesday **Minor League Doubles** released an announcement detailing their plans for the next season. They are expanding from the two current league, Academy and Champion, to four leagues: Academy, Champion, Grand Champion, and an unannounced fourth. They are also introducing affiliate streams to allow players to broadcast their games. [Read more...](https://www.mldoubles.com/single-post/2018/12/04/MLD-Update)
 
-https://twitter.com/CollegiateRL/status/1070018524410757121
+**CStarLeague** announced a $10,000 prize pool collegiate league for Spring 2018. [Read more...](https://cstarleague.com/rl/news_articles/964)
 
 ---
 
