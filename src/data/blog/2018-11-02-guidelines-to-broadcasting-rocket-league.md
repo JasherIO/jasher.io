@@ -8,7 +8,7 @@ tags:
   - Broadcast
   - Rocket League
 ---
-This guide was made to help broadcasters avoid common mistakes when streaming *Rocket League*.
+As an administrator and broadcast assistant for *Rocket League* events since Summer 2016, it hurts when I see broadcasters make common mistakes that are avoidable with the proper information.
 
 # Before Game
 
@@ -41,6 +41,7 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 * The **Team Size** option only matters for bot matches. There are always 10 slots in a lobby (8 are usable for players). Fill empty slots to avoid joins by third parties. 
 * Set the **Bot Difficulty** to "No Bots"
 * Set team names and colors under **Team Settings** (optional)
+  * Match team colors to logos (ex. Cloud9 as Blue team and NRG as Orange team)
   * Remember to update these values between matches
 * For soccar matches, restore mutators to the defaults settings
   1. Click **Mutator Settings**
@@ -54,7 +55,7 @@ Most of the options here are pretty self explanatory. We'll highlight several th
 
 # Cameras
 
-There are 4 ways to spectate *Rocket League*: 
+There are 4 cameras for spectating *Rocket League*: 
 
 1. **Player**: shows exactly what a player sees
 2. **Fly**: allows for manual movement around the arena (similar to [SkyCam](https://www.youtube.com/watch?v=WNtNBNoVFHI))
@@ -75,15 +76,19 @@ Director mode was added in [Patch v1.37](https://www.rocketleague.com/news/patch
    1. Click **Spectate**
    2. Hit the **H** key once
 
-# After Game
+# Post-Game
  
+After a game is finished, you have 45 seconds before the next game begins. Time is limited so prioritize any actions you take. 
+
 * Save the replay (optional)
   * Name the replay according to the teams playing, game number, etc.
 * Make lobby changes (optional)
   1. Click **Match Settings**
   2. Change Game Mode, Arena, etc. as required
-* Make sure you use a *new* and *unique* name to avoid **split lobbies** when recreating a lobby.
-  * Split lobbies: Lobby A is created with "Name - Password." Players are still in Lobby A when Lobby B is created with "Name - Password." Now, there are two lobbies with the same information. Players could join either Lobby A or B.
+
+Network issues can lead to players asking for a **server recreation**. When recreating a lobby make sure you use a *new* and *unique* name to avoid **split lobbies**.
+
+> Lobby A is created with "Name - Password." Players are still in Lobby A when Lobby B is created with "Name - Password." Now, there are two lobbies with the same information. Players could join either Lobby A or B.
 
 ---
 
