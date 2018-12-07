@@ -8,6 +8,11 @@ tags:
   - ELEAGUE
   - Collegiate Rocket League
   - Renegade Cup
+  - CStarLeague
+  - Ballistix
+  - Gfinity
+  - Rocket Pass
+  - McLaren
 ---
 The second season of CRL, which began in August, finishes with the National Championship on Saturday. [Akron, Arizona](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-akron-and-university-of-arizona/), [North Texas, and Penn State](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-north-texas-and-pennsylvania-state-university/) compete for $25,000 in scholarship prizing. Results from the season are on [Tespa](https://compete.tespa.org/tournament/120).
 
