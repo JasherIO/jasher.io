@@ -15,6 +15,8 @@ Tickets can be found on [squadup](https://crl18tickets.squadup.com).
 
 # Rocket Pass 2 Launches December 10th
 
+
+
 https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/
 
 https://www.rocketleague.com/news/patch-notes-v1-56-december-update/
