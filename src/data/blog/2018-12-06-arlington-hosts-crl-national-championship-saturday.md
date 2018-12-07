@@ -9,7 +9,7 @@ tags:
   - Collegiate Rocket League
   - Renegade Cup
 ---
-The 2nd season of CRL, which began in August, finishes with the National Championship on Saturday. Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing. Results from the season can be found at [Tespa](https://compete.tespa.org/tournament/120).
+The 2nd season of CRL, which began in August, finishes with the National Championship on Saturday. Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing. Results from the season are on [Tespa](https://compete.tespa.org/tournament/120). Phat wrote previews for the competing teams: [Akron and Arizona](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-akron-and-university-of-arizona/), [North Texas and Penn State](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-north-texas-and-pennsylvania-state-university/).
 
 Tickets can be found on [squadup](https://crl18tickets.squadup.com).
 
