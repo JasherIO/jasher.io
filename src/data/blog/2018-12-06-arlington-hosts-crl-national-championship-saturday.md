@@ -34,7 +34,7 @@ Meanwhile, Chiefs, Deceptors, ORDER, and Roar seek the trophy in the second seas
 
 **Ballistix Brawl** Season 2 concludes next Monday, December 10th, with the [finals](https://liquipedia.net/rocketleague/Ballistix/Brawl/Season_2).
 
-Last Tuesday **Minor League Doubles** released an announcement detailing their plans for the next season. They are expanding from the two current league, Academy and Champion, to four leagues: Academy, Champion, Grand Champion, and an unannounced fourth. They are also introducing affiliate streams to allow players to broadcast their games. [Read more...](https://www.mldoubles.com/single-post/2018/12/04/MLD-Update)
+Last Tuesday **Minor League Doubles** released an announcement detailing their plans for the next season. They are expanding from two leagues, Academy and Champion, to four leagues: Academy, Champion, Grand Champion, and an unannounced fourth. They are also introducing affiliate streams to allow players to broadcast their games. [Read more...](https://www.mldoubles.com/single-post/2018/12/04/MLD-Update)
 
 **CStarLeague** announced a $10,000 prize pool collegiate league for Spring 2018. [Read more...](https://cstarleague.com/rl/news_articles/964)
 
