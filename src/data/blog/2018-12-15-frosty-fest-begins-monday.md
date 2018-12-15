@@ -30,10 +30,7 @@ https://www.rocketleagueesports.com/news/sign-ups-open-for-high-school-rocket-le
 
 
 
-**Pulsar Premier League**
-
-https://twitter.com/PulsarPremier/status/1073698427580674048
-
+**Pulsar Premier League** is holding a [charity tournament](https://twitter.com/PulsarPremier/status/1073698427580674048) tonight in support of Mystery, the head of Mythical Esports. [Read more...](https://www.reddit.com/r/RocketLeagueEsports/comments/a69pyy/charity_tournament_benefiting_mystery_mythical/)
 
 
 ---
