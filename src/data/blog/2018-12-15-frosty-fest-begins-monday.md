@@ -20,9 +20,16 @@ https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/
 
 # Around the Community
 
-The 
+The **DreamHack Pro Circuit**, [announced at the end of November](https://company.dreamhack.com/2018/11/28/dreamhack-partnership-psyonix-launches-dreamhack-pro-circuit-featuring-4-major-rocket-league-tournaments-2019/), dates have been finalized. 
 
-The fourth season of the European **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Down under, Chiefs and ROAR advance to the Grand Finals in the [Australian competition](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
+The **DreamHack Pro Circuit** event dates have been [finalized](https://twitter.com/DreamHackRL/status/1072913976739139585). Announced at the end of November, the circuit sees Psyonix and DreamHack partner for four $100,000 competitions throughout 2019. 
+
+**Leipzig**: February 15-17
+**Dallas** : May 31 - June 2 
+**Valencia**: July 4-7
+**Montreal**: September 6-8
+
+The fourth season of the European **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Down under, Chiefs and ROAR advanced to the Grand Finals in the [Australian competition](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
 
 Arizona defeated North Texas in the **Collegiate Rocket League** Season 2 Finals to claim their first CRL championship. With CRL wrapping up, collegiate players are now looking forward to the Spring 2019 **CStarLeague** [season](https://cstarleague.com/rl/news_articles/964). Meanwhile, **PlayVS** is partnering with Psyonix to support [high school esports](https://www.rocketleagueesports.com/news/sign-ups-open-for-high-school-rocket-league-competition-on-playvs/) across the United States. 
 
