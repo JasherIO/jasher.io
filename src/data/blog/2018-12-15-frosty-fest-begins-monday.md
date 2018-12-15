@@ -10,9 +10,9 @@ tags:
   - Rocket Pass
   - Frosty Fest
 ---
-https://www.rocketleague.com/news/frosty-fest-2018-begins-december-17/
+**Frosty Fest**, the winter seasonal event, runs from December 17th to January 7th. 
 
-https://www.rocketleague.com/news/nitro-circus-brings-rocket-league-to-life/
+https://www.rocketleague.com/news/frosty-fest-2018-begins-december-17/
 
 https://www.rocketleague.com/news/patch-notes-v1-57/
 
@@ -34,8 +34,6 @@ The fourth season of the European **Gfinity Elite Series** finished with Method 
 Arizona defeated North Texas in the **Collegiate Rocket League** Season 2 Finals to claim their first CRL championship. With CRL wrapping up, collegiate players are now looking forward to the Spring 2019 **CStarLeague** [season](https://cstarleague.com/rl/news_articles/964). Meanwhile, **PlayVS** is partnering with Psyonix to support [high school esports](https://www.rocketleagueesports.com/news/sign-ups-open-for-high-school-rocket-league-competition-on-playvs/) across the United States. 
 
 **Pulsar Premier League** is holding a [charity tournament](https://twitter.com/PulsarPremier/status/1073698427580674048) tonight in support of Mystery, the head of Mythical Esports. [Read more...](https://www.reddit.com/r/RocketLeagueEsports/comments/a69pyy/charity_tournament_benefiting_mystery_mythical/)
-
-
 
 ---
 
