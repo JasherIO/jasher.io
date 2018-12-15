@@ -22,7 +22,7 @@ https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/
 
 The 
 
-In Europe, the **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Meanwhile, Chiefs and ROAR advance to the Grand Finals in the [Australian competition](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
+The fourth season of the European **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Meanwhile, Chiefs and ROAR advance to the Grand Finals in the [Australian competition](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
 
 **PlayVS**
 
