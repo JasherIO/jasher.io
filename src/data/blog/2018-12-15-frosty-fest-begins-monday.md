@@ -23,7 +23,7 @@ The **DreamHack Pro Circuit** event dates have been [finalized](https://twitter.
 **Valencia**: July 4-7
 **Montreal**: September 6-8
 
-The fourth season of the European **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Down under, Chiefs and ROAR advanced to the Grand Finals in the [Australian competition](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
+The fourth season of the European **Gfinity Elite Series** finished with Method taking home the [championship](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4#Playoffs). Down under, Chiefs and ROAR advanced to the [Australian Grand Finals](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2#Playoffs). 
 
 Arizona defeated North Texas in the **Collegiate Rocket League** Season 2 Finals to claim their first CRL championship. With CRL wrapping up, collegiate players are now looking forward to the Spring 2019 **CStarLeague** [season](https://cstarleague.com/rl/news_articles/964). Meanwhile, **PlayVS** is partnering with Psyonix to support [high school esports](https://www.rocketleagueesports.com/news/sign-ups-open-for-high-school-rocket-league-competition-on-playvs/) across the United States. 
 
