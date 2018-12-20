@@ -10,6 +10,6 @@ tags:
   - Rival Series
   - Renegade Cup
 ---
-# Esports
+# Dignitas Creates a Legacy
 
-# Game Updates
+# 
