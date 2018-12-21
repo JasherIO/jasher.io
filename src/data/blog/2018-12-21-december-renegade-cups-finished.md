@@ -22,7 +22,7 @@ As the new year begins, expect to see a firm [RocketID](https://www.rocketleague
 
 # Around the Community
 
-The December **Renegade Cups** finished up yesterday, with. Organizers for the January events are to-be-announced.
+The December **Renegade Cups** finished up yesterday, with [Method (EU)](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rewind_Gaming/Neon_Dream) and [Afterthought (NA)](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Boost_Legacy/Whiteout) claiming spots in the finals. Organizers for the January events are to-be-announced.
 
 https://dreamhack.com/procircuit/
 
