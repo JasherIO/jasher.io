@@ -8,8 +8,13 @@ tags:
   - Renegade Cup
   - Rewind Gaming
   - Boost Legacy
+  - Hot Wheels
+  - Rocket Pass
+  - Frosty Fest
 ---
 An [Octane toy](https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/) is now available at retailers around the world. Hot Wheels and Psyonix have previously partnered for the [Hot Wheels DLC](https://www.rocketleague.com/news/hot-wheels-coming-to-rocket-league/), [Hot Wheels Triple Threat DLC](https://www.rocketleague.com/news/new-hot-wheels-triple-threat-dlc-pack-september-24/), and the [Hot Wheels Rocket League RC Rivals Set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-rivals-set-november-1/). 
+
+**Frosty Fest** and **Rocket Pass 2** continue through the holiday season. 
 
 RocketID releases early 2019 https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
 
