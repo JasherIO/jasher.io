@@ -47,7 +47,7 @@ The December **Renegade Cups** finished up yesterday, with. Organizers for the J
 
 ---
 
-> A special, annual, edition of *This Week in Rocket League* will be released next week. 
+> Next week features a special, annual, edition of *This Week in Rocket League*. 
 
 Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
 
