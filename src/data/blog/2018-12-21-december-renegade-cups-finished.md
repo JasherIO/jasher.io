@@ -29,7 +29,7 @@ As the new year begins, expect to see a firm [RocketID](https://www.rocketleague
 
 The December **Renegade Cups** finished up yesterday, with [Method (EU)](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rewind_Gaming/Neon_Dream) and [Afterthought (NA)](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Boost_Legacy/Whiteout) claiming spots in the finals. Organizers for the January events are to-be-announced.
 
-Tournament information has been released for **DreamHack Leipzig**, the first of the four **DreamHack Pro Circuit** events. 4 teams are invited directly to Germany. 2 teams, 1 each from Europe and North America, qualify through open qualifiers. The remaining 26 spots are open registration for teams that are able to purchase tickets and physically attend the event. [Learn more...](https://dreamhack.com/procircuit/)
+Tournament information has been released for **DreamHack Leipzig**, the first of the four **DreamHack Pro Circuit** events. 4 teams are invited directly to Germany. 4 teams, 2 each from Europe and North America, qualify through open qualifiers. The remaining 24 spots are open registration for teams that are able to purchase tickets and physically attend the event. [Learn more...](https://dreamhack.com/procircuit/)
 
 The **Gfinity Elite Series Australia** finished up on Saturday with a match-up between Oceania's finest: Chiefs and ROAR. Chiefs took home the crown, claiming their first Gfinity championship. [Learn more...](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2)
 
