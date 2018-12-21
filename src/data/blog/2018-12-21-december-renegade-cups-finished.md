@@ -16,6 +16,9 @@ An [Octane toy](https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/)
 
 **Frosty Fest** and **Rocket Pass 2** continue through the holiday season. 
 
+Frosty Fest: January 10
+Rocket Pass: March 18
+
 RocketID releases early 2019 
 https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
 
