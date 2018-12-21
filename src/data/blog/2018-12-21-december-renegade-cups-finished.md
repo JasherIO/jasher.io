@@ -11,6 +11,12 @@ tags:
 ---
 Organizers for the January events are to-be-announced.
 
+# 
+
+https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/
+
+---
+
 # Around the Community
 
 **RLOceania** has opened voting for their annual community awards. https://twitter.com/RLOceania/status/1075994274565623809
@@ -29,6 +35,7 @@ Organizers for the January events are to-be-announced.
 ### Shows
 
 * [Aftershock: Ep. 13](https://www.youtube.com/watch?v=A-eTG8o_aiQ)
+* [Gfinity: Kassio](https://twitter.com/Gfinity/status/1075365320393674752)
 * [Gold Rush: Ep. 8](https://www.youtube.com/watch?v=CQcOAsooPsQ)
 * [Rocketeers Thunderdome Aftermovie](https://www.youtube.com/watch?v=PfSoeVjmgUg)
 * [The Story of Rocket League](https://www.youtube.com/watch?v=O3NZSIX59AE)
