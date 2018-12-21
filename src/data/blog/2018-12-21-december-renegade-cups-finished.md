@@ -16,10 +16,7 @@ An [Octane toy](https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/)
 
 **Frosty Fest** and **Rocket Pass 2** continue through the holiday season, with Frosty Fest ending January 10th and Rocket Pass ending March 19th. 
 
-As the new year begins, expect to see an announcement regarding the next competitive season. RocketID, cross-platform parties, is expected to release in early 2019. 
-
-RocketID releases early 2019 
-https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
+As the new year begins, expect to see a firm [RocketID](https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/) release date and an announcement regarding the next competitive season. A new competitive season releases every 3-4 months. The latest season, Season 9, released September 24th. 
 
 ---
 
