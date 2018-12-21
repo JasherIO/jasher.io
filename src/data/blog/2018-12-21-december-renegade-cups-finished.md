@@ -24,7 +24,11 @@ As the new year begins, expect to see a firm [RocketID](https://www.rocketleague
 
 The December **Renegade Cups** finished up yesterday, with. Organizers for the January events are to-be-announced.
 
-**RLOceania** has opened voting for their annual community awards. https://twitter.com/RLOceania/status/1075994274565623809
+https://dreamhack.com/procircuit/
+
+The **Gfinity Elite Series Australia** finished up on Saturday with a match-up between Oceania's finest: Chiefs and ROAR. Chiefs took home the crown, claiming their first Gfinity championship. [Learn more...](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_2)
+
+**RLOceania** has opened voting for their annual [community awards](https://twitter.com/RLOceania/status/1075994274565623809). 
 
 ---
 
