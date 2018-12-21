@@ -14,9 +14,9 @@ tags:
 ---
 An [Octane toy](https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/) is now available at retailers around the world. Hot Wheels and Psyonix have previously partnered for the [Hot Wheels DLC](https://www.rocketleague.com/news/hot-wheels-coming-to-rocket-league/), [Hot Wheels Triple Threat DLC](https://www.rocketleague.com/news/new-hot-wheels-triple-threat-dlc-pack-september-24/), and the [Hot Wheels Rocket League RC Rivals Set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-rivals-set-november-1/). 
 
-**Frosty Fest** and **Rocket Pass 2** continue through the holiday season, with Frosty Fest ending January 10th and Rocket Pass ending March 19th. Expect to see an announcement regarding the next competitive season soon.
+**Frosty Fest** and **Rocket Pass 2** continue through the holiday season, with Frosty Fest ending January 10th and Rocket Pass ending March 19th. 
 
-RocketID, cross-platform parties, is expected to release in early 2019. 
+As the new year begins, expect to see an announcement regarding the next competitive season. RocketID, cross-platform parties, is expected to release in early 2019. 
 
 RocketID releases early 2019 
 https://www.rocketleague.com/news/rocket-league-roadmap-fall-2018/
@@ -48,3 +48,10 @@ The December **Renegade Cups** finished up yesterday, with. Organizers for the J
 * [Rocketeers Thunderdome Aftermovie](https://www.youtube.com/watch?v=PfSoeVjmgUg)
 * [The Story of Rocket League](https://www.youtube.com/watch?v=O3NZSIX59AE)
 
+---
+
+> A special, annual, edition of *This Week in Rocket League* will be released next week. 
+
+Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
+
+Follow [@JasherIO](https://twitter.com/JasherIO) for the latest updates on *This Week in Rocket League*!
