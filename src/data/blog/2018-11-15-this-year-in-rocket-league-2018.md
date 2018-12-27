@@ -1,7 +1,7 @@
 ---
 templateKey: post
 image: /img/TWiRL.png
-title: 'This Year in Rocket League: 2018'
+title: 2018 in Review
 date: 2018-11-15T21:34:17.162Z
 category: This Year in Rocket League
 tags:
@@ -10,6 +10,10 @@ tags:
   - Rival Series
   - Renegade Cup
 ---
-# Dignitas Creates a Legacy
+# Tournaments
 
-# 
+# Dignitas Repeats
+
+# Cloud9 Dethrones the Kings
+
+
