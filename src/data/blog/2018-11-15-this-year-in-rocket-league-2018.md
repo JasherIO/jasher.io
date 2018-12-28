@@ -31,7 +31,7 @@ https://www.rocketleague.com/news/progression-update-august-29/
 
 RocketID
 
-Announced in Fall 2017, cross-platform play, formally known as **RocketID**, was slated for release in 2018. However, it has been pushed back to early 2019 to ensure that "."
+Announced in Fall 2017, cross-platform play, formally known as **RocketID**, was slated for release in [September](https://www.rocketleague.com/news/progression-update-follow-up-rocketid/). However, it has been pushed back to early 2019 to ensure that "."
 
 # Esports
 
