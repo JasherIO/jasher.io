@@ -10,14 +10,28 @@ tags:
   - Rival Series
   - Renegade Cup
 ---
-# Tournaments
+# Game
 
-# Rocket Pass
+Tournaments Update https://www.rocketleague.com/news/tournaments-update-coming-april-3/
 
-# RocketID
+Rocket Pass
 
-# Dignitas Repeats
+RocketID
 
-# Cloud9 Dethrones the Kings
+# Esports
 
-# Org items
+DreamHack Leipzig
+
+Dignitas Makes History, but Cloud9 Dethrones Them
+
+Monthly events: Ting Open
+
+[Twelve Titans: Year Two](https://www.youtube.com/watch?v=5quNuAchgkQ)
+
+Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
+
+Psyonix started sponsoring more community events. 
+
+Org items
+
+Shows: Discussions with Dazerin, Aftershock, Rush Hour
