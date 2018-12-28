@@ -28,6 +28,8 @@ https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/
 
 RocketID
 
+Announced in Fall 2017, cross-platform play, formally known as **RocketID**, was slated for release in 2018. However, it has been pushed back to early 2019 to ensure that "."
+
 # Esports
 
 Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
