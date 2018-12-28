@@ -8,6 +8,20 @@ tags:
   - Tournament
   - Esports
 ---
+Professional Priorities
+
+1. Competitive Integrity
+2. Players
+
+Casual Priorities
+
+1. Fun
+2. Community
+
+---
+
+
+
 # The Why
 
 # Know Your Audience
@@ -20,7 +34,6 @@ Spectators: quality competitive; casual fun; humorous
 
 
 # Competitive Integrity
-
 
 
 ---
