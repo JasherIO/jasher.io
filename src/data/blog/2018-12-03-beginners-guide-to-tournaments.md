@@ -8,12 +8,12 @@ tags:
   - Tournament
   - Esports
 ---
-Professional Priorities
+Professional
 
 1. Competitive Integrity
 2. Players
 
-Casual Priorities
+Casual
 
 1. Fun
 2. Community
