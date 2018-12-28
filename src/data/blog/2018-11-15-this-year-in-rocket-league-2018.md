@@ -1,9 +1,9 @@
 ---
 templateKey: post
 image: /img/TWiRL.png
-title: 2018 Review
+title: 2018 in Review
 date: 2018-11-15T21:34:17.162Z
-category: This Year in Rocket League
+category: This Week in Rocket League
 tags:
   - World Champoinship
   - Championship Series
