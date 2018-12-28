@@ -12,7 +12,10 @@ tags:
 ---
 # Game
 
-Tournaments Update https://www.rocketleague.com/news/tournaments-update-coming-april-3/
+Tournaments Update 
+https://www.rocketleague.com/news/tournaments-update-coming-april-3/
+https://www.rocketleague.com/game-info/tournaments/
+https://www.reddit.com/r/RocketLeague/comments/89f8xq/patch_notes_v143_tournaments_update/
 
 Rocket Pass
 
@@ -22,15 +25,23 @@ RocketID
 
 DreamHack Leipzig
 
-Dignitas Makes History, but Cloud9 Dethrones Them
+Dignitas Makes History
 
-Monthly events: Ting Open
+Northern Arena 2
+https://northernarena.ca/narli/
+
+Cloud9 Dethrones Them
+
+Monthly events
+* Ting Open
+* Rival introduces monthlies https://twitter.com/RivalEsportsGG/status/970865005913694208
 
 [Twelve Titans: Year Two](https://www.youtube.com/watch?v=5quNuAchgkQ)
 
 Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
 
-Psyonix started sponsoring more community events. 
+Psyonix sponsored community events:
+
 
 Org items
 
