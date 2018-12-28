@@ -11,30 +11,17 @@ tags:
 Professional
 
 1. Competitive Integrity
+    1. Know the standard
+    2. 
 2. Players
+    1. Values time
+    2. Sufficient prize pool
+    3. Other quality teams
 
 Casual
 
 1. Fun
 2. Community
-
----
-
-
-
-# The Why
-
-# Know Your Audience
-
-Players: valuable time; sufficient prize pool; competitive teams
-
-Organizations: exposure
-
-Spectators: quality competitive; casual fun; humorous
-
-
-# Competitive Integrity
-
 
 ---
 
