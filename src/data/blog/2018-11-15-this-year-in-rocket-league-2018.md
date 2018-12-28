@@ -23,6 +23,8 @@ RocketID
 
 # Esports
 
+Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
+
 DreamHack Leipzig
 
 Dignitas Makes History
@@ -32,16 +34,17 @@ https://northernarena.ca/narli/
 
 Cloud9 Dethrones Them
 
+[Twelve Titans: Year Two](https://www.youtube.com/watch?v=5quNuAchgkQ)
+
+
+Psyonix sponsored community events:
+* Renegade Cup
+
 Monthly events
 * Ting Open
 * Rival introduces monthlies https://twitter.com/RivalEsportsGG/status/970865005913694208
-
-[Twelve Titans: Year Two](https://www.youtube.com/watch?v=5quNuAchgkQ)
-
-Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
-
-Psyonix sponsored community events:
-
+* Ballistix Brawl
+* Renegade Cup
 
 Org items
 
