@@ -17,14 +17,17 @@ https://www.rocketleague.com/news/tournaments-update-coming-april-3/
 https://www.rocketleague.com/game-info/tournaments/
 https://www.reddit.com/r/RocketLeague/comments/89f8xq/patch_notes_v143_tournaments_update/
 
+Anniversary Event / Throwback Stadium
+https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/
+
 Rocket Pass
 https://www.rocketleague.com/news/rocket-pass-a-closer-look/
 
 Progression System
 https://www.rocketleague.com/news/incoming-changes-to-xp-and-level-progression/
 
-Anniversary Event / Throwback Stadium
-https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/
+Clubs
+https://www.rocketleague.com/news/progression-update-august-29/
 
 RocketID
 
@@ -57,6 +60,7 @@ Psyonix sponsored community events:
 * [Twelve Titans: Year Two](https://www.youtube.com/watch?v=5quNuAchgkQ)
 * [The Climb](https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_rival_esports_july_5th_8th/)
 * [SAM Championship](https://twitter.com/RocketStreet/status/1015722718107521027)
+* [The Colosseum](https://www.reddit.com/r/RocketLeague/comments/98d9oh/rewind_gaming_presents_the_colosseum_5760_prize/)
 * Renegade Cup
 
 Monthly events
