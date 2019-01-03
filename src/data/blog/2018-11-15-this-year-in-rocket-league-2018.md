@@ -35,17 +35,15 @@ Announced in Fall 2017, cross-platform play, formally known as **RocketID**, was
 
 # Esports
 
-Psyonix begins managing the RLCS without Twitch. https://twitter.com/CloudFuel/status/954055352764567552
+https://www.rocketleagueesports.com/news/introducing--the-community-tournament-guidelines/
 
-DreamHack Leipzig
+The Psyonix esports team began [managing the RLCS](https://twitter.com/CloudFuel/status/954055352764567552) in early 2018. Previously, Twitch had organized the RLCS with Psyonix advisement.
 
+Professional third-party organizers [DreamHack](https://liquipedia.net/rocketleague/DreamHack/2018/Leipzig), [ELEAGUE / TBS](https://liquipedia.net/rocketleague/ELEAGUE/Cup/2018), [FACEIT / NBC](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2), and [Northern Arena](https://liquipedia.net/rocketleague/Northern_Arena/Invitational/2) all returned with successor LAN events in 2018. DreamHack and Psyonix already announced plans for the [DreamHack Pro Circuit](https://dreamhack.com/procircuit/) in 2019
 
 
 Dignitas Makes History
 https://rocketeers.gg/rlcs-season-5-world-champions/
-
-Northern Arena 2
-https://northernarena.ca/narli/
 
 Universal Open
 
