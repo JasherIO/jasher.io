@@ -16,6 +16,7 @@ Tournaments Update
 https://www.rocketleague.com/news/tournaments-update-coming-april-3/
 https://www.rocketleague.com/game-info/tournaments/
 https://www.reddit.com/r/RocketLeague/comments/89f8xq/patch_notes_v143_tournaments_update/
+https://www.rocketleague.com/news/tournaments-update-connection-quality-indicators/
 
 Anniversary Event / Throwback Stadium
 https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/
