@@ -42,8 +42,7 @@ https://www.rocketleagueesports.com/news/let-s-talk----esports-org-items/
 
 The Psyonix esports team began [managing the RLCS](https://twitter.com/CloudFuel/status/954055352764567552) in early 2018. Twitch had organized the RLCS with Psyonix advisement since the inception of the league in 2016. 
 
-Million-dollar prize pool
-https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/
+Psyonix announced a million dollar prize pool for [Season 6](https://www.rocketleagueesports.com/news/introducing-rlcs-season-6/), the first event to reach the million dollar mark and the largest pool to-date. 
 
 Dignitas Makes History
 https://rocketeers.gg/rlcs-season-5-world-champions/
@@ -59,7 +58,7 @@ Psyonix sponsored community events:
 * [The Colosseum](https://www.reddit.com/r/RocketLeague/comments/98d9oh/rewind_gaming_presents_the_colosseum_5760_prize/)
 * Renegade Cup
 
-Smaller professional organizers and community organizers have transitioned from a weekly to a monthly event system. 
+Community organizers have transitioned from a weekly to a monthly event system. 
 
 Monthly events
 * Ting Open
