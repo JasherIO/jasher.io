@@ -25,6 +25,8 @@ As an administrator and broadcast assistant for *Rocket League* events since Sum
 * Disable in-game chat
    1. Click **Options**
    2. Switch **Text Chat** to **Disabled**
+* Set UI Scale to 100%
+   1. TODO
 
 # Server Creation
 
