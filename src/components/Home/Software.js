@@ -57,7 +57,7 @@ const Software = ({ ...props }) => (
             </div>
           </div>
           <footer className="card-footer">
-            <a href="https://github.com/JasherIO/PulsarPremierLeague" className="card-footer-item">View on GitHub</a>
+            <a href="https://github.com/JasherIO/PPL" className="card-footer-item">View on GitHub</a>
           </footer>
         </div>
       </div>
