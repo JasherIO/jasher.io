@@ -8,7 +8,7 @@ const Software = ({ ...props }) => (
       <div className="column is-4">
         <div className="card">
           <div className="card-image">
-            <figure className="image is-4by3">
+            <figure className="image is-16by9">
               <img src="/img/jasherio.png" alt="JasherIO" />
             </figure>
           </div>
@@ -27,7 +27,7 @@ const Software = ({ ...props }) => (
       <div className="column is-4">
         <div className="card">
           <div className="card-image">
-            <figure className="image is-4by3">
+            <figure className="image is-16by9">
               <img src="/img/beyond.png" alt="Lurker" />
             </figure>
           </div>
@@ -38,7 +38,7 @@ const Software = ({ ...props }) => (
             </div>
           </div>
           <footer className="card-footer">
-            <a href="https://github.com/JasherIO/PulsarPremierLeague" className="card-footer-item">View on GitHub</a>
+            <a href="https://github.com/JasherIO/Lurker" className="card-footer-item">View on GitHub</a>
           </footer>
         </div>
       </div>
@@ -46,7 +46,7 @@ const Software = ({ ...props }) => (
       <div className="column is-4">
         <div className="card">
           <div className="card-image">
-            <figure className="image is-4by3">
+            <figure className="image is-16by9">
               <img src="/img/pulsarpremierleague.jpg" alt="Pulsar Premier League" />
             </figure>
           </div>
