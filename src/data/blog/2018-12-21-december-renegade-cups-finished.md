@@ -56,8 +56,6 @@ The **Gfinity Elite Series Australia** finished up on Saturday with a match-up b
 
 ---
 
-> Next week features a special, annual, edition of *This Week in Rocket League*. 
-
 Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
 
 Follow [@JasherIO](https://twitter.com/JasherIO) for the latest updates on *This Week in Rocket League*!
