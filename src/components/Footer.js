@@ -7,7 +7,7 @@ const Footer = () => (
       <Social style={{ marginBottom: "1.5rem" }} />
       <p className="content">
         <p>
-          Copyright &copy; 2018
+          Copyright &copy; 2018-2019
         </p>
         <p>
           Made with <a href="https://bulma.io">Bulma</a> and <a href="https://www.gatsbyjs.org">Gatsby</a>. Source code available on <a href="https://github.com/JasherIO/jasherio">GitHub. </a>
