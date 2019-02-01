@@ -32,8 +32,8 @@ const Esports = ({ ...props }) => (
           <li><a href="https://liquipedia.net/rocketleague/Ting/Ting_Open">Ting Open</a></li>
           <li><a href="https://smash.gg/rlcs5">RLCS Season 5 Open Qualifiers</a></li>
           <li><a href="https://smash.gg/rlcs6">RLCS Season 6 Open Qualifiers</a></li>
-          <li><a href="https://smash.gg/tournament/na-open-qualifier-to-wsoe-4/">WSOE NA Qualifier</a></li>
-          <li><a href="https://smash.gg/tournament/eu-open-qualifier-to-wsoe-4/">WSOE EU Qualifier</a></li>
+          <li><a href="https://smash.gg/tournament/na-open-qualifier-to-wsoe-4/">WSOE 4 NA Qualifier</a></li>
+          <li><a href="https://smash.gg/tournament/eu-open-qualifier-to-wsoe-4/">WSOE 4 EU Qualifier</a></li>
         </ul>
       </div>
 
@@ -47,8 +47,8 @@ const Esports = ({ ...props }) => (
           <li><a href="https://liquipedia.net/rocketleague/Ting/Ting_Open">Ting Open</a></li>
           <li><a href="https://smash.gg/rlcs5">RLCS Season 5 Open Qualifiers</a></li>
           <li><a href="https://smash.gg/rlcs6">RLCS Season 6 Open Qualifiers</a></li>
-          <li><a href="https://smash.gg/tournament/na-open-qualifier-to-wsoe-4/">WSOE NA Qualifier</a></li>
-          <li><a href="https://teambeyond.net/forum/tournaments/brackets/completed/">Beyond Astronauts (August-Present)</a></li>
+          <li><a href="https://smash.gg/tournament/na-open-qualifier-to-wsoe-4/">WSOE 4 NA Qualifier</a></li>
+          <li><a href="https://teambeyond.net/forum/tournaments/brackets/completed/">Beyond Astronauts (Aug '18 -)</a></li>
         </ul>
       </div>
 
