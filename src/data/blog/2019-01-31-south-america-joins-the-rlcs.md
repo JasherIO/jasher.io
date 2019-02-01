@@ -2,7 +2,7 @@
 templateKey: post
 image: /img/TWiRL.png
 title: South America Joins the RLCS
-date: 2019-01-31T01:46:00.826Z
+date: 2019-02-01T13:54:58.593Z
 category: This Week in Rocket League
 tags:
   - RLCS

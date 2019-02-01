@@ -2,7 +2,7 @@
 templateKey: post
 image: /img/TWiRL.png
 title: Cross-Platform Parties Launches in Next Update
-date: 2019-01-24T01:46:00.826Z
+date: 2019-01-24T13:54:58.593Z
 category: This Week in Rocket League
 tags:
   - Renegade Cup
