@@ -23,7 +23,7 @@ The North American **Renegade Cup** Final runs through this weekend. For a previ
 
 **Collegiate Rocket League** broadcasts return with the Western Conference Championship on Monday, February 25th. Open qualifiers were held last weekend. [Learn more...](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/Season_3/Western/Qualifier)
 
-**CStarLeague**
+**CStarLeague** holds the final week of conference play this weekend. [Learn more...](https://cstarleague.com/rl/schedules)
 
 ### Articles
 
