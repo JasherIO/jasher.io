@@ -15,7 +15,7 @@ The Diestro, a new Dominus hitbox battle-car, comes with the **Ferocity Crate**.
 
 # Around the Community
 
-Similar to how Throwdown hosts RLCS equivalent league for the Oceanic region, Rocket Street will host the South American league, the **Grand Series**. [Learn more...](https://www.rocketleagueesports.com/news/introducing-the-south-american-grand-series/)
+Psyonix has partnered with Rocket Street for the **Grand Series**, the premier league for South America. [Learn more...](https://www.rocketleagueesports.com/news/introducing-the-south-american-grand-series/)
 
 The North American **Renegade Cup** Final runs through this weekend. For a preview, checkout the RLEsports [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article. [Learn more...]()
 
