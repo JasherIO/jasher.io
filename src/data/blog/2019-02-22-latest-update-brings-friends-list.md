@@ -19,6 +19,10 @@ tags:
 
 **Asia Pro League** https://twitter.com/apl_esports/status/1098523073345736706
 
+**Collegiate Rocket League**
+
+**CStarLeague**
+
 ### Articles
 
 * [NA Contender Rankings: Jan 27 - Feb 17](https://www.reddit.com/r/RocketLeagueEsports/comments/asy9zr/na_contender_rankings_weeks_0127_0217/)
