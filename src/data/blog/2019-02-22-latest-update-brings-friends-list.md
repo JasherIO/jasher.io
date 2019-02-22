@@ -42,7 +42,7 @@ Speaking of collegiate esports, **CStarLeague** holds the final week of conferen
   * [Shock departs Afterthought](https://i.redd.it/jtu14se8igh21.jpg)
   * [Soulflarz, Matt, and PrimeThunder form Pink Haired Fan Club](https://twitter.com/Soulflarz/status/1096637260622151681)
   * [Zolhay, Ayjacks, Tmon form Avocado, Raze to sub](https://twitter.com/Zolhay/status/1098068458435010560)
-* [Tainted Minds rebrands to Team ICON](https://twitter.com/TeamICON/status/1098373735155884032)
+  * [Tainted Minds rebrands to Team ICON](https://twitter.com/TeamICON/status/1098373735155884032)
 
 ### Shows
 
