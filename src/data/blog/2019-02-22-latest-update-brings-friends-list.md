@@ -28,6 +28,12 @@ tags:
 ### News
 
 * [Florida Poly Hosts LAN Saturday](https://twitter.com/FPUEsports/status/1091339435017490432)
+* Rosters
+  * [Compadres rebrand to Continuum, bring on Stev as coach/manager and g_locka as sub](https://twitter.com/AeonRL/status/1098033094425231360)
+  * [Pirates, mectos, Taroco form Plot Twist, Mill to sub](https://twitter.com/unwise_pirates/status/1098020801230655488)
+  * [Ralph, JoeFreshness, and Skillz form The D00ds](https://twitter.com/Ralph_080/status/1096914253477564416)
+  * [SavvySeal, Bork, and Dappur form Triple Commit](https://twitter.com/SavvySeal/status/1097188135010750466)
+  * [Zolhay, Ayjacks, Tmon form Avocado, Raze to sub](https://twitter.com/Zolhay/status/1098068458435010560)
 
 ### Shows
 
