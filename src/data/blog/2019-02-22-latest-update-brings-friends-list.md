@@ -17,7 +17,7 @@ The **Ferocity Crate** [releases next Monday](https://www.rocketleague.com/news/
 
 Psyonix has partnered with Rocket Street for the **Grand Series**, the premier league for South America. [Learn more...](https://www.rocketleagueesports.com/news/introducing-the-south-american-grand-series/)
 
-The North American **Renegade Cup** Final runs through this weekend. For a preview, checkout the RLEsports [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article. [Learn more...]()
+The North American **Renegade Cup** Final runs through this weekend. For a preview, checkout the RLEsports [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article. [Learn more...](https://liquipedia.net/rocketleague/Renegade_Cup/North_America)
 
 **Asia Pro League** Season 3 begins Saturday with [Week 1](https://twitter.com/apl_esports/status/1098523073345736706) play. [Learn more...](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_3/League_Play)
 
