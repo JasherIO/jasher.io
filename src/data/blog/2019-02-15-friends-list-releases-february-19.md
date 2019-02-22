@@ -65,3 +65,4 @@ The collegiate **CStarLeague** Spring Season is in Week 6 of group play. [Learn 
 Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
 
 Follow [@JasherIO](https://twitter.com/JasherIO) for the latest updates on *This Week in Rocket League*!
+
