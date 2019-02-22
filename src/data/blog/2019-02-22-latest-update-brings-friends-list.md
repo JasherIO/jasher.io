@@ -15,13 +15,17 @@ The Diestro, a new Dominus hitbox battle-car,
 
 # Around the Community
 
-**Renegade Cup** https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/
+Rocket Street hosts the **Grand Series** for South American competitors. 
 
-**Grand Series** https://twitter.com/RLEsports/status/1098658851421794304
+https://twitter.com/RLEsports/status/1098658851421794304
 
-**Asia Pro League** https://twitter.com/apl_esports/status/1098523073345736706
+The North American **Renegade Cup** Finals starts tonight and ends on Sunday. https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/
 
-**Collegiate Rocket League**
+
+
+**Asia Pro League** Season 3 begins Saturday with [Week 1](https://twitter.com/apl_esports/status/1098523073345736706) play. [Learn more...](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_3/League_Play)
+
+**Collegiate Rocket League** broadcasts return with the Western Conference Championship on Monday, February 25th. Open qualifiers were held last weekend. [Learn more...](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/Season_3/Western/Qualifier)
 
 **CStarLeague**
 
