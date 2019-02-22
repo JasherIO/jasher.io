@@ -9,9 +9,11 @@ tags:
   - friends list
   - ''
 ---
+
+
 # Around the Community
 
-**Renegade Cup**
+**Renegade Cup** https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/
 
 **Grand Series** https://twitter.com/RLEsports/status/1098658851421794304
 
@@ -19,9 +21,17 @@ tags:
 
 ### Articles
 
+* [NA Renegade Cup Finals: Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/)
+
 ### News
 
 * [Florida Poly Hosts LAN Saturday](https://twitter.com/FPUEsports/status/1091339435017490432)
 
 ### Shows
 
+
+---
+
+Check out the esports subreddit [resource list](https://www.reddit.com/r/RocketLeagueEsports/wiki/links) for information on the competitive *Rocket League* scene.
+
+Follow [@JasherIO](https://twitter.com/JasherIO) for the latest updates on *This Week in Rocket League*!
