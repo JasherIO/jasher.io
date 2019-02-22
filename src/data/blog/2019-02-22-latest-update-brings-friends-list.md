@@ -21,7 +21,9 @@ tags:
 
 ### Articles
 
+* [NA Contender Rankings: Jan 27 - Feb 17](https://www.reddit.com/r/RocketLeagueEsports/comments/asy9zr/na_contender_rankings_weeks_0127_0217/)
 * [NA Renegade Cup Finals: Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/)
+* [The Starts of SAM: Region on the Rise](https://octane.gg/news/the-stars-of-sam-region-on-the-rise)
 
 ### News
 
