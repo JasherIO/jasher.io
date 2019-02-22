@@ -11,7 +11,7 @@ tags:
 ---
 [Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)
 
-The Diestro, a new Dominus hitbox battle-car, 
+The Diestro, a new Dominus hitbox battle-car, comes with the **Ferocity Crate**.
 
 # Around the Community
 
@@ -19,7 +19,7 @@ Rocket Street hosts the **Grand Series** for South American competitors.
 
 https://twitter.com/RLEsports/status/1098658851421794304
 
-The North American **Renegade Cup** Final runs through this weekend. RLEsports released a [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article for the event. [Learn more...]()
+The North American **Renegade Cup** Final runs through this weekend. For a preview, checkout the RLEsports [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article. [Learn more...]()
 
 **Asia Pro League** Season 3 begins Saturday with [Week 1](https://twitter.com/apl_esports/status/1098523073345736706) play. [Learn more...](https://liquipedia.net/rocketleague/1NE_eSports/Asia_Pro_League/Season_3/League_Play)
 
