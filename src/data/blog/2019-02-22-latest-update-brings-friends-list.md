@@ -15,9 +15,7 @@ The Diestro, a new Dominus hitbox battle-car, comes with the **Ferocity Crate**.
 
 # Around the Community
 
-Rocket Street hosts the **Grand Series** for South American competitors. 
-
-https://twitter.com/RLEsports/status/1098658851421794304
+Rocket Street hosts the **Grand Series** for South American competitors. [Learn more...](https://www.rocketleagueesports.com/news/introducing-the-south-american-grand-series/)
 
 The North American **Renegade Cup** Final runs through this weekend. For a preview, checkout the RLEsports [Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/) article. [Learn more...]()
 
