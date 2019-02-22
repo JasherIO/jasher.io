@@ -9,9 +9,7 @@ tags:
   - friends list
   - ''
 ---
-The Friends List Update dropped on Tuesday, bringing cross-platform parties and Competitive Season 10. 
-
-[Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)
+The Friends List Update dropped on Tuesday, bringing cross-platform parties and Competitive Season 10. Unannounced before, it also included a new curveball mutator and input buffer option. The input buffer setting controls how the client sends input information the server, helping players who have frequent connectivity issues.  [Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)
 
 The **Ferocity Crate** [releases next Monday](https://www.rocketleague.com/news/ferocity-crate-arrives-february-25/) and comes with a new [Dominus hitbox](https://twitter.com/RocketLeague/status/1098648578002538496) battle-car, the Diestro.
 
