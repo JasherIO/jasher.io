@@ -19,7 +19,7 @@ Rocket Street hosts the **Grand Series** for South American competitors.
 
 https://twitter.com/RLEsports/status/1098658851421794304
 
-The North American **Renegade Cup** Finals starts tonight and ends on Sunday. https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/
+The North American **Renegade Cup** Final starts tonight and ends on Sunday. https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/
 
 
 
