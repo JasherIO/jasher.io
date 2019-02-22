@@ -1,7 +1,7 @@
 ---
 templateKey: post
 image: /img/TWiRL.png
-title: Latest Update Brings Friends List
+title: 'Latest Update Brings Friends List, Season 10, and More'
 date: 2019-02-22T12:10:31.665Z
 category: This Week in Rocket League
 tags:
@@ -9,7 +9,9 @@ tags:
   - friends list
   - ''
 ---
+[Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)
 
+The Diestro, a new Dominus hitbox battle-car, 
 
 # Around the Community
 
@@ -40,6 +42,7 @@ tags:
   * [Shock departs Afterthought](https://i.redd.it/jtu14se8igh21.jpg)
   * [Soulflarz, Matt, and PrimeThunder form Pink Haired Fan Club](https://twitter.com/Soulflarz/status/1096637260622151681)
   * [Zolhay, Ayjacks, Tmon form Avocado, Raze to sub](https://twitter.com/Zolhay/status/1098068458435010560)
+* [Tainted Minds rebrands to Team ICON](https://twitter.com/TeamICON/status/1098373735155884032)
 
 ### Shows
 
