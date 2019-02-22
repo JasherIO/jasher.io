@@ -11,6 +11,8 @@ tags:
 ---
 [Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)
 
+The **Ferocity Crate** [releases next Monday](https://www.rocketleague.com/news/ferocity-crate-arrives-february-25/) and comes with a new Dominus hitbox battle-car, the Diestro.
+
 The Diestro, a new Dominus hitbox battle-car, comes with the **Ferocity Crate**.
 
 # Around the Community
