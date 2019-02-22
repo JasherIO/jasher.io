@@ -31,6 +31,8 @@ tags:
 
 ### Shows
 
+* [Aftershock: Ep. 21](https://www.youtube.com/watch?v=8dA_tawIn1Y&feature=youtu.be)
+* [Rush Hour: Ep. 12](https://www.youtube.com/watch?v=R7HCKVKbyQk&feature=youtu.be)
 
 ---
 
