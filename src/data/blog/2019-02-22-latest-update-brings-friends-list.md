@@ -32,7 +32,9 @@ tags:
 ### Shows
 
 * [Aftershock: Ep. 21](https://www.youtube.com/watch?v=8dA_tawIn1Y&feature=youtu.be)
+* [Asap Weekly: Ep. 7](https://asapweekly.podbean.com/e/rocket-league-7-dreamhack-afterthoughts/)
 * [Rush Hour: Ep. 12](https://www.youtube.com/watch?v=R7HCKVKbyQk&feature=youtu.be)
+* Unrivaled: [Ep. 2](https://www.twitch.tv/videos/376257646), [Ep. 3](https://www.twitch.tv/videos/383568867)
 
 ---
 
