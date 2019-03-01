@@ -16,7 +16,7 @@ The first of four **Rival Series** qualifiers begins Saturday with [North Americ
 
 Similarly, the first **Grand Series** [qualifier](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_7/South_America/Qualifier_1) kicks off Saturday for South America.
 
-In game news, Psyonix has announced that **Rocket League Radio** songs will be added in-game upon their release in the Monstercat playlist. [Learn more...](https://www.rocketleague.com/news/new-monstercat-music-coming-to-rocket-league-all-year-long/)
+In game news, Psyonix has announced that **Rocket League Radio** songs will be added in-game the same day as their release on Monstercat. [Learn more...](https://www.rocketleague.com/news/new-monstercat-music-coming-to-rocket-league-all-year-long/)
 
 ---
 
@@ -24,7 +24,7 @@ In game news, Psyonix has announced that **Rocket League Radio** songs will be a
 
 Gfinity hosts the **Rocket League Oceanic Masters** for RLCS this season, replacing Throwdown. [Learn more...](https://www.rocketleagueesports.com/introducing-the-rocket-league-oceanic-masters/)
 
-**Collegiate Rocket League** started play with the Western Conference this week. The University of Redlands defeated the University of Arizona in the a close-fought finals. Redlands claimed the first spot for the LAN finals at the NCAA Final Four Fest. The [Southern Conference](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/Season_3/Southern) comes up next, starting next Monday. Meanwhile, **CStarLeague** has finished group play and teams now move onto playoffs. [Learn more...](https://cstarleague.com/rl/schedules)
+**Collegiate Rocket League** started play with the Western Conference last Monday. The University of Redlands defeated the University of Arizona in the a close-fought finals on Wednesday, claiming the first spot NCAA Final Four Fest LAN. The [Southern Conference](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/Season_3/Southern) comes up next, starting next Monday. Meanwhile, **CStarLeague** has finished group play and teams now move onto playoffs. [Learn more...](https://cstarleague.com/rl/schedules)
 
 The **League of Rockets** dropped a surprise stream earlier this week, with Scrub Killa and Fairy Peak facing off in the first of a bi-weekly King of the Hill series. [Learn more...](https://www.reddit.com/r/RocketLeagueEsports/comments/auqzcy/theleagueofrockets_announces_the_lor_games_1000/)
 
