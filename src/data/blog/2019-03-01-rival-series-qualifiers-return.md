@@ -2,7 +2,7 @@
 templateKey: post
 image: /img/TWiRL.png
 title: Rival Series Qualifiers Return
-date: 2019-02-15T13:54:58.593Z
+date: 2019-03-01T13:54:58.593Z
 category: This Week in Rocket League
 tags:
   - Rocket League Oceanic Masters
