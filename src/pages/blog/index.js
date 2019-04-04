@@ -42,13 +42,11 @@ IndexPage.propTypes = {
               slug: PropTypes.string
             }),
             frontmatter: PropTypes.shape({
-              templateKey: PropTypes.string,
               image: PropTypes.oneOfType([
                 PropTypes.string,
                 PropTypes.object,
               ]),
               title: PropTypes.string,
-              description: PropTypes.string,
               category: PropTypes.string,
               date: PropTypes.string
             })
@@ -64,7 +62,6 @@ export const pageQuery = graphql`
     posts: allMarkdownRemark(
       limit: 1000
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { in: ["post"] } }}
     ) {
       edges {
         node {
@@ -75,7 +72,6 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            templateKey
             image {
               childImageSharp {
                 fluid(maxWidth: 800) {
@@ -84,7 +80,6 @@ export const pageQuery = graphql`
               }
             }
             title
-            description
             category
             date
           }
