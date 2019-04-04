@@ -1,6 +1,10 @@
 const config = require('./src/data/config.json')
 const path = require(`path`)
 
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     siteUrl: config.url || "",
@@ -15,8 +19,9 @@ module.exports = {
   // pathPrefix: config.pathPrefix,
   plugins: [
     'gatsby-plugin-catch-links',
+    'gatsby-plugin-emotion',
     {
-      resolve: `gatsby-plugin-feed`,
+      resolve: 'gatsby-plugin-feed',
       options: {
         query: `
           {
@@ -78,26 +83,19 @@ module.exports = {
         // Setting this parameter is also optional
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
-        exclude: [ "/admin**" ],
+        exclude: ["/admin**"],
       },
     },
     'gatsby-plugin-lodash',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-robots-txt',
-    'gatsby-plugin-sass',
+    'gatsby-plugin-tailwindcss',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/data`,
-        name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'images',
-        path: path.join(__dirname, 'static', 'img'),
+        name: 'data',
       },
     },
     'gatsby-plugin-sitemap',
@@ -113,10 +111,7 @@ module.exports = {
               maxWidth: 690
             },
           },
-          'gatsby-remark-responsive-iframe',
-          'gatsby-remark-prismjs',
-          'gatsby-remark-copy-linked-files',
-          'gatsby-remark-autolink-headers'
+          'gatsby-remark-prismjs'
         ],
       },
     },
