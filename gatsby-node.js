@@ -25,28 +25,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 }
 
-const toPostTemplate = (edge) => {
-  const id = edge.node.id
-  return {
-    path: edge.node.fields.slug,
-    component: path.resolve(`src/templates/post.js`),
-    context: {
-      id,
-    },
-  }
-}
-
-const toCategoryTemplate = (category) => {
-  const categoryPath = `/blog/categories/${_.kebabCase(category)}/`
-  return {
-    path: categoryPath,
-    component: path.resolve(`src/templates/category.js`),
-    context: {
-      category,
-    },
-  }
-}
-
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
@@ -63,7 +41,10 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-        categories: distinct(field: frontmatter___category)
+        categories: group (field: frontmatter___category) {
+          totalCount
+          fieldValue
+        }
       }
     }
   `).then(result => {
@@ -72,10 +53,53 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
-    _.each(posts, edge => createPage(toPostTemplate(edge)))
+    const postPages = _.map(result.data.allMarkdownRemark.edges, ({ node }) => {
+      const { id } = node
+      return {
+        path: node.fields.slug,
+        component: path.resolve(`src/templates/post.js`),
+        context: {
+          id,
+        },
+      }
+    })
 
-    const categories = result.data.allMarkdownRemark.categories
-    _.each(categories, category => createPage(toCategoryTemplate(category)))
+    const postsPerPage = 10
+    let numPages = Math.ceil(postPages.length / postsPerPage)
+    const blogPages = _.map(_.range(numPages), i => {
+      return {
+        path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+        component: path.resolve("./src/templates/posts.js"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1,
+        },
+      }
+    })
+
+    const categoryPages = _.flatMap(result.data.allMarkdownRemark.categories, ({ totalCount, fieldValue }) => {
+      numPages = Math.ceil(totalCount / postsPerPage)
+      const category = fieldValue
+      const slug = _.kebabCase(category)
+
+      return _.map(_.range(numPages), i => {
+        return {
+          path: i === 0 ? `/blog/${slug}` : `/blog/${slug}/${i + 1}`,
+          component: path.resolve("./src/templates/posts.js"),
+          context: {
+            limit: postsPerPage,
+            skip: i * postsPerPage,
+            numPages,
+            currentPage: i + 1,
+            category
+          },
+        }
+      })
+    })
+
+    const pages = _.concat(postPages, blogPages, categoryPages)
+    _.forEach(pages, page => createPage(page))
   })
 }

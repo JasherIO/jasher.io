@@ -1,28 +1,34 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
-import Helmet from 'react-helmet'
-import _ from 'lodash'
-import Level from '../components/Posts/Level'
+import React from "react"
+import PropTypes from "prop-types"
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
+import Helmet from "react-helmet"
+import _ from "lodash"
+import styled from "@emotion/styled"
+import tw from "tailwind.macro"
 
-import Content, { HTMLContent } from '../components/Content'
+import Content, { HTMLContent } from "../components/Content"
+import { Title } from "../elements/Titles"
+
+const Figure = styled.figure`
+  ${tw`mb-4`}
+`
 
 const Image = ({ image, title }) => {
   if (!image)
     return (<></>)
-  
+
   if (_.isString(image))
     return (
-      <figure className="image">
+      <Figure>
         <img src={image} alt={title} />
-      </figure>
+      </Figure>
     )
 
   return (
-    <figure className="image">
+    <Figure>
       <Img fluid={image.childImageSharp.fluid} alt={title} />
-    </figure>
+    </Figure>
   )
 }
 
@@ -34,21 +40,19 @@ export const BlogPostTemplate = ({
   date,
   title,
   image,
-  category,
   tags,
 }) => {
   const PostContent = contentComponent || Content
-  const description = `${excerpt} ${tags && tags.join(' ')}`
+  const description = `${excerpt} ${tags && tags.join(" ")}`
 
   return (
     <section className="section">
       <Helmet>
-        
         {/* https://moz.com/blog/meta-data-templates-123 */}
         <html itemscope itemtype="http://schema.org/Article" />
-        
+
         <title>{title}</title>
-        <meta name="description" content={description}/>
+        <meta name="description" content={description} />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary" />
@@ -59,9 +63,9 @@ export const BlogPostTemplate = ({
         {image && _.isString(image) ? (
           <meta property="twitter:image" content={`https://jasher.io${image}`} />
         ) : (
-          <meta property="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />
-        )}
-        
+            <meta property="twitter:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />
+          )}
+
         <meta name="twitter:label1" content="Reading time" />
         <meta name="twitter:data1" content={`${timeToRead} min read`} />
 
@@ -72,28 +76,23 @@ export const BlogPostTemplate = ({
         {image && _.isString(image) ? (
           <meta property="og:image" content={`https://jasher.io${image}`} />
         ) : (
-          <meta property="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />
-        )}
+            <meta property="og:image" content={`https://jasher.io${image.childImageSharp.fluid.src}`} />
+          )}
         <meta property="og:description" content={description} />
         <meta property="og:site_name" content="JasherIO" />
 
         <meta property="article:published_time" content={date} />
         {/* <meta property="article:modified_time" content="2013-09-16T19:08:47+01:00" /> */}
         {/* <meta property="article:section" content="Article Section" /> */}
-        <meta property="article:tag" content={tags.join(' ')} />
-
+        <meta property="article:tag" content={tags.join(" ")} />
       </Helmet>
 
-      <div className="container" style={{ maxWidth: "800px" }}>
+      <div style={{ maxWidth: "800px" }}>
         <Image image={image} title={title} />
 
-        <Level category={category} date={date} isLocale style={{ marginTop: "1rem" }} />
+        <Title>{title}</Title>
 
-        <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-          {title}
-        </h1>
-
-        <PostContent content={content} className="content" />
+        <PostContent content={content} className="markdown" />
       </div>
     </section>
   )
