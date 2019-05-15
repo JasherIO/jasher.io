@@ -9,7 +9,9 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: config.url + pathPrefix
+    title: config.title,
+    description: config.description,
+    siteUrl: config.url + pathPrefix,
   },
   // pathPrefix: config.pathPrefix,
   plugins: [
