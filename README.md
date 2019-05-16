@@ -10,19 +10,23 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - [Gatsby CLI](https://www.gatsbyjs.org/docs/)
 
 ### Access Locally
-```
+
+```bash
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
 $ npm run develop
 ```
+
 To test the CMS locally, you'll need run a production build of the site:
-```
+
+```bash
 $ npm run build
 $ npm run serve
 ```
 
 ## Debugging
+
 Windows users might encounter ```node-gyp``` errors when trying to npm install.
 To resolve, make sure that you have both Python 2.7 and the Visual C++ build environment installed.
 ```
