@@ -4,6 +4,8 @@ This [site](https://jasher.io) is built with [Gatsby v2](https://www.gatsbyjs.or
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3396904-c331-43a1-a8ac-93e5c8469636/deploy-status)](https://app.netlify.com/sites/jasherio/deploys)
+
 ## Prerequisites
 
 - Node (v8.2.0+ Recommeded)
