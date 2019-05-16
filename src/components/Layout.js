@@ -1,84 +1,62 @@
 import React from 'react'
-import Helmet from 'react-helmet'
-import { graphql, StaticQuery } from 'gatsby'
+import { Global, css } from '@emotion/core'
+import 'typeface-montserrat'
+import 'typeface-roboto'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faAngleLeft, faAngleRight } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin, faTwitch, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import styled from '@emotion/styled'
+import tw from 'tailwind.macro'
 
-import Navbar from './Navbar'
-import Footer from './Footer'
-import './all.sass'
+import Navbar from '../views/Navbar'
+import NoScript from './NoScript'
+import SEO from './SEO'
 
-library.add(fab)
-
-const NoScript = () => (
-  <noscript>
-    <style
-      dangerouslySetInnerHTML={{
-        __html: `
-          #content {
-            visibility: visible !important;
-          }
-          #nav {
-            opacity: 1 !important;
-            transform: translateY(0px) !important;
-          }
-    `,
-      }}
-    />
-  </noscript>
-)
-
-class PureLayout extends React.Component {
-  render() {
-
-    const { children, site } = this.props
-
-    return (
-      <div>
-        <Helmet defaultTitle="Jasher" titleTemplate={`%s | Jasher`}>
-          <html lang="en" />
-          
-          <meta name="og:type" content="website" />
-          
-          <meta name="og:title" content={site.siteMetadata.title} />
-          
-          <meta name="og:site_name" content={site.siteMetadata.title} />
-          {/* TODO: Pull twitter link from site metadata */}
-          <meta name="twitter:site" content="@JasherIO" />
-
-          <meta name="og:description" content={site.siteMetadata.description} />
-          <meta name="description" content={site.siteMetadata.description} />
-          
-          {/* TODO: Canonical links */}
-
-          {/* Bing Console */}
-          {/* <meta name="msvalidate.01" content="1F070B704B750BDCFF3AA23B0EF3D993" /> */}
-        </Helmet>
-        
-        <Navbar />
-        {children}
-        <Footer />
-        <NoScript />
-      </div>
-    )
-  }
-}
-
-const query = graphql`
-  {
-    site {
-      siteMetadata {
-        siteUrl
-        title
-        alternate
-        description
-      }
-    }
-  }
+const Container = styled.div`
+  ${tw`h-screen max-w-lg mx-auto flex flex-col justify-between`}
 `
 
-export const Layout = props => (
-  <StaticQuery query={query} render={({site}) => <PureLayout site={site} {...props} />} />
+library.add(faAngleLeft, faAngleRight, faGithub, faLinkedin, faTwitch, faTwitter)
+
+const Layout = ({ children }) => (
+  <div>
+    <Global styles={css`
+      html {
+        background-color: #161719;
+        overflow-y: scroll;
+        ${tw`font-body text-grey-light`}
+        a {
+          ${tw`text-white opacity-50 hover:opacity-100 no-underline`}
+        }
+      }
+      body, h1, h2, h3, h4, h5, h6, p, figure {
+        margin: 0;
+        margin-block-start: 0;
+        margin-block-end: 0;
+        margin-inline-start: 0;
+        margin-inline-end: 0;
+        font-weight: normal;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        ${tw`font-display`}
+      }
+      .markdown {
+        h1, h2, h3, h4, h5, h6 {
+          ${tw`mb-4`}
+        }
+        hr, p, figure {
+          ${tw`my-4`}
+        }
+      }
+    `} />
+    <SEO />
+    <Container>
+      <Navbar />
+      {children}
+      {/* <Footer /> */}
+    </Container>
+    <NoScript />
+  </div>
 )
 
 export default Layout

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import _ from 'lodash'
-import Tile from '../components/Posts/Tile'
+// import Tile from '../components/Posts/Tile'
 
 export default class CategoryPage extends React.Component {
   render() {
@@ -14,17 +14,17 @@ export default class CategoryPage extends React.Component {
     return (
       <section className="section container" style={{ maxWidth: "1000px" }}>
         <Helmet title={`${category}`} />
-        
+
         <div className="title is-size-2-tablet is-size-3-mobile">
           {category}
         </div>
 
-        {_.map(posts, ({ node: post }) => (
+        {/* {_.map(posts, ({ node: post }) => (
           <>
             <Tile post={post} />
             <hr />
           </>
-        ))}
+        ))} */}
       </section>
     )
   }
@@ -43,13 +43,11 @@ CategoryPage.propTypes = {
               slug: PropTypes.string
             }),
             frontmatter: PropTypes.shape({
-              templateKey: PropTypes.string,
               image: PropTypes.oneOfType([
                 PropTypes.string,
                 PropTypes.object,
               ]),
               title: PropTypes.string,
-              description: PropTypes.string,
               category: PropTypes.string,
               date: PropTypes.string
             })
@@ -65,7 +63,7 @@ export const pageQuery = graphql`
     posts: allMarkdownRemark(
       limit: 1000
       sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { in: ["post"] }, category: { in: [$category] } } }
+      filter: { frontmatter: { category: { in: [$category] } } }
     ) {
       edges {
         node {
@@ -76,7 +74,6 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            templateKey
             image {
               childImageSharp {
                 fluid(maxWidth: 700) {
@@ -85,7 +82,6 @@ export const pageQuery = graphql`
               }
             }
             title
-            description
             category
             date
           }

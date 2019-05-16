@@ -1,22 +1,25 @@
-const config = require('./src/data/config.json')
-const path = require(`path`)
+const config = require('./config/site')
+const colors = require('./tailwind')
+
+const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix
+
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 
 module.exports = {
   siteMetadata: {
-    siteUrl: config.url || "",
-    title: config.title || "",
-    alternate: config.alternate || "",
-    description: config.description || "",
-    logo: config.logo || "",
-    favicon: config.favicon || "",
-    navbar: config.navbar || [],
-    social: config.social || []
+    title: config.title,
+    description: config.description,
+    siteUrl: config.url + pathPrefix,
   },
   // pathPrefix: config.pathPrefix,
   plugins: [
     'gatsby-plugin-catch-links',
+    'gatsby-plugin-emotion',
     {
-      resolve: `gatsby-plugin-feed`,
+      // TODO: test with `yarn build`
+      resolve: 'gatsby-plugin-feed',
       options: {
         query: `
           {
@@ -52,7 +55,9 @@ module.exports = {
                     node {
                       excerpt
                       html
-                      fields { slug }
+                      fields { 
+                        slug 
+                      }
                       frontmatter {
                         title
                         date
@@ -71,33 +76,33 @@ module.exports = {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: config.googleAnalyticsId,
-        // Puts tracking script in the head instead of the body
         head: true,
-        // Setting this parameter is optional
         anonymize: true,
-        // Setting this parameter is also optional
         respectDNT: true,
-        // Avoids sending pageview hits from custom paths
-        exclude: [ "/admin**" ],
+        exclude: ["/admin**"],
       },
     },
     'gatsby-plugin-lodash',
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `JasherIO`,
+        short_name: `JasherIO`,
+        start_url: `/`,
+        background_color: "#161719",
+        theme_color: colors["primary"],
+        display: `standalone`,
+        icon: 'static/favicon.png'
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-robots-txt',
-    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/src/data`,
-        name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'images',
-        path: path.join(__dirname, 'static', 'img'),
+        path: `${__dirname}/content`,
+        name: 'content',
       },
     },
     'gatsby-plugin-sitemap',
@@ -113,17 +118,8 @@ module.exports = {
               maxWidth: 690
             },
           },
-          'gatsby-remark-responsive-iframe',
-          'gatsby-remark-prismjs',
-          'gatsby-remark-copy-linked-files',
-          'gatsby-remark-autolink-headers'
+          'gatsby-remark-prismjs'
         ],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array

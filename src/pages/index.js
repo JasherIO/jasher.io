@@ -1,18 +1,18 @@
 import React from 'react'
-import Bio from '../components/Home/Bio'
-import Software from '../components/Home/Software'
-import Esports from '../components/Home/Esports'
-// import Writing from '../components/Home/Writing'
+import Helmet from 'react-helmet'
+
+import { Hero } from '../elements/Container'
+import { BigTitle, Subtitle } from '../elements/Titles'
 
 export default class IndexPage extends React.Component {
   render() {
     return (
-      <>
-        <Bio />
-        <Software />
-        <Esports />
-        {/* <Writing /> */}
-      </>
+      <Hero>
+        <Helmet title={"Home"} />
+
+        <BigTitle>Hello, <br /> I'm Jasher!</BigTitle>
+        <Subtitle>software + esports</Subtitle>
+      </Hero>
     )
   }
 }
