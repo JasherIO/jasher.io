@@ -1,19 +1,19 @@
-import React from 'react'
-import { Global, css } from '@emotion/core'
-import 'typeface-montserrat'
-import 'typeface-roboto'
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { faAngleLeft, faAngleRight } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin, faTwitch, faTwitter } from '@fortawesome/free-brands-svg-icons'
-import styled from '@emotion/styled'
-import tw from 'tailwind.macro'
+import React from "react"
+import { Global, css } from "@emotion/core"
+import "typeface-chivo"
+import "typeface-comfortaa"
+import { library } from "@fortawesome/fontawesome-svg-core"
+import { faAngleLeft, faAngleRight } from "@fortawesome/free-solid-svg-icons"
+import { faGithub, faLinkedin, faTwitch, faTwitter } from "@fortawesome/free-brands-svg-icons"
+import styled from "@emotion/styled"
+import tw from "tailwind.macro"
 
-import Navbar from '../views/Navbar'
-import NoScript from './NoScript'
-import SEO from './SEO'
+import Navbar from "../views/Navbar"
+import NoScript from "./NoScript"
+import SEO from "./SEO"
 
 const Container = styled.div`
-  ${tw`h-screen max-w-lg mx-auto flex flex-col justify-between`}
+  ${tw`flex flex-col justify-between`}
 `
 
 library.add(faAngleLeft, faAngleRight, faGithub, faLinkedin, faTwitch, faTwitter)

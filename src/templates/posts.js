@@ -7,8 +7,8 @@ import _ from "lodash"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import moment from "moment"
 
-import Container from "../elements/Container"
-import Link from "../elements/Link"
+import Container from "../components/Container"
+import Link from "../components/Link"
 
 const Section = styled.section`
   ${tw`text-center mb-10`}

@@ -1,5 +1,3 @@
-const tailwind = require('../tailwind')
-
 module.exports = {
   "pathPrefix": "/",
 
@@ -25,6 +23,6 @@ module.exports = {
   // Feed
   "rss": "/rss.xml",
 
-  "themeColor": tailwind.colors.primary,
-  "backgroundColor": tailwind.colors.secondary
+  "themeColor": "#7ed957",
+  "backgroundColor": "#161719"
 }

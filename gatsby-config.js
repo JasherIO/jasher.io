@@ -1,5 +1,4 @@
 const config = require('./config/site')
-const colors = require('./tailwind')
 
 const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix
 
@@ -90,7 +89,7 @@ module.exports = {
         short_name: `JasherIO`,
         start_url: `/`,
         background_color: "#161719",
-        theme_color: colors["primary"],
+        theme_color: "#7ed957",
         display: `standalone`,
         icon: 'static/favicon.png'
       },

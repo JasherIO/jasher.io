@@ -8,7 +8,10 @@ import styled from "@emotion/styled"
 import tw from "tailwind.macro"
 
 import Content, { HTMLContent } from "../components/Content"
-import { Title } from "../elements/Titles"
+
+const Title = styled.h1`
+  ${tw`text-4xl lg:text-4xl font-display text-white mb-2`};
+`
 
 const Figure = styled.figure`
   ${tw`mb-4`}
@@ -46,7 +49,7 @@ export const BlogPostTemplate = ({
   const description = `${excerpt} ${tags && tags.join(" ")}`
 
   return (
-    <section className="section">
+    <section>
       <Helmet>
         {/* https://moz.com/blog/meta-data-templates-123 */}
         <html itemscope itemtype="http://schema.org/Article" />

@@ -1,9 +1,8 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Helmet from 'react-helmet'
-import _ from 'lodash'
-// import Tile from '../components/Posts/Tile'
+import React from "react"
+import PropTypes from "prop-types"
+import { graphql } from "gatsby"
+import Helmet from "react-helmet"
+import _ from "lodash"
 
 export default class CategoryPage extends React.Component {
   render() {
@@ -18,13 +17,6 @@ export default class CategoryPage extends React.Component {
         <div className="title is-size-2-tablet is-size-3-mobile">
           {category}
         </div>
-
-        {/* {_.map(posts, ({ node: post }) => (
-          <>
-            <Tile post={post} />
-            <hr />
-          </>
-        ))} */}
       </section>
     )
   }
