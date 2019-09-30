@@ -13,9 +13,9 @@ const Section = styled.section`
   ${tw`text-left mb-10`}
 `
 
-const Date = styled.time`
-  ${tw`text-sm font-body text-white opacity-50 mb-1`};
-`
+// const Date = styled.time`
+//   ${tw`text-sm font-body text-white opacity-50 mb-1`};
+// `
 
 const Title = styled.h1`
   ${tw`text-2xl font-display font-light mb-2`};

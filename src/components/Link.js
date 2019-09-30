@@ -3,7 +3,7 @@ import styled from "@emotion/styled"
 import { Link as GatsbyLink } from "gatsby"
 
 const Link = styled(GatsbyLink)`
-  ${tw`font-body text-white opacity-50 hover:opacity-100 no-underline`}
+  ${tw`font-display text-gray-300 hover:text-primary no-underline`}
 `
 
 export default Link

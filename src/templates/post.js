@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 import Helmet from "react-helmet"
 import _ from "lodash"
 import styled from "@emotion/styled"
@@ -10,7 +10,7 @@ import tw from "tailwind.macro"
 import Content, { HTMLContent } from "../components/Content"
 
 const Container = styled.section`
-  ${tw`max-w-xl mx-auto text-left mt-16`}
+  ${tw`max-w-2xl mx-auto text-left mt-16`}
 `
 
 const Title = styled.h1`
@@ -21,23 +21,23 @@ const Figure = styled.figure`
   ${tw`mb-4`}
 `
 
-const Image = ({ image, title }) => {
-  if (!image)
-    return (<></>)
+// const Image = ({ image, title }) => {
+//   if (!image)
+//     return (<></>)
 
-  if (_.isString(image))
-    return (
-      <Figure>
-        <img src={image} alt={title} />
-      </Figure>
-    )
+//   if (_.isString(image))
+//     return (
+//       <Figure>
+//         <img src={image} alt={title} />
+//       </Figure>
+//     )
 
-  return (
-    <Figure>
-      <Img fluid={image.childImageSharp.fluid} alt={title} />
-    </Figure>
-  )
-}
+//   return (
+//     <Figure>
+//       <Img fluid={image.childImageSharp.fluid} alt={title} />
+//     </Figure>
+//   )
+// }
 
 export const BlogPostTemplate = ({
   content,
