@@ -9,6 +9,7 @@ tags:
     - Single-Elimination Tournament
     - Double-Elimination Tournament
 image: ../img/TWiRL.png
+draft: true
 ---
 
 An elimination tournament is a competition where entrants play head-to-head knockout fixtures over successive rounds until one entrant remains.

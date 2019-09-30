@@ -9,6 +9,7 @@ tags:
     - Round-Robin
     - Swiss
 image: ../img/TWiRL.png
+draft: true
 ---
 
 A [group tournament](https://en.wikipedia.org/wiki/Tournament#Group_tournaments) is a competition where entrants play head-to-head fixtures over successive rounds. Results rank entrants, where draws are resolved using [tiebreakers](). The rankings represent an accurate placement of entrant skill at the conclusion of the final round.

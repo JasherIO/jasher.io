@@ -9,6 +9,7 @@ tags:
     - Single-Elimination Tournament
     - Double-Elimination Tournament
 image: ../img/TWiRL.png
+draft: true
 ---
 
 Why?
