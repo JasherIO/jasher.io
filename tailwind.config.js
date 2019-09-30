@@ -22,12 +22,12 @@ module.exports = {
         "monospace"
       ],
       display: [
-        "Comfortaa",
+        "Work-Sans",
         "system-ui",
         "sans-serif"
       ],
       body: [
-        "Chivo",
+        "Open-Sans",
         "system-ui",
         "sans-serif"
       ]

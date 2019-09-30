@@ -11422,15 +11422,15 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeface-chivo@^0.0.72:
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/typeface-chivo/-/typeface-chivo-0.0.72.tgz#e269d314ed28ee496203e1b513a955b343878543"
-  integrity sha512-Y11qsKtkyqizJGas5ShkQUOZHBT3v8HnqZDfX//nIc/9k4Ep9rPe+YyrOP3n7Sv1kWyMk+BTHaTWO0j9C60G1Q==
+typeface-open-sans@^0.0.75:
+  version "0.0.75"
+  resolved "https://registry.yarnpkg.com/typeface-open-sans/-/typeface-open-sans-0.0.75.tgz#20d0c330f14c0c40463c334adbedd6005389abe4"
+  integrity sha512-0lLmB7pfj113OP4T78SbpSmC4OCdFQ0vUxdSXQccsSb6qF76F92iEuC/DghFgmPswTyidk8+Hwf+PS/htiJoRQ==
 
-typeface-comfortaa@^0.0.76:
-  version "0.0.76"
-  resolved "https://registry.yarnpkg.com/typeface-comfortaa/-/typeface-comfortaa-0.0.76.tgz#540cf62d5bed0214d363b2693d18a34bf4475579"
-  integrity sha512-qIrCJ2KU425ZVNzAhh8IkaHxEzUdtoPCd7PQIbc5Kmlamunq1BjNGGRCT05L3SN0h1W9QsGuIxJ2W0Q7h0l82w==
+typeface-work-sans@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.yarnpkg.com/typeface-work-sans/-/typeface-work-sans-0.0.72.tgz#2b40abbda07e2cf6d9fbd9d334bb8c3014c80e32"
+  integrity sha512-hJa+mh217r4qlEq0zK0Aqn7chyDzJYziObsd9nokEd0lMBKbGNf/10VHS3AqeVKDye3evfTvZ11tmj5WizIJrA==
 
 ua-parser-js@^0.7.18:
   version "0.7.19"
