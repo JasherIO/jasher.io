@@ -5,7 +5,6 @@ import styled from "@emotion/styled"
 import tw from "tailwind.macro"
 import _ from "lodash"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import moment from "moment"
 
 import Container from "../components/Container"
 import Link from "../components/Link"
