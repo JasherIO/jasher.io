@@ -9,6 +9,10 @@ import tw from "tailwind.macro"
 
 import Content, { HTMLContent } from "../components/Content"
 
+const Container = styled.section`
+  ${tw`max-w-xl mx-auto text-left mt-16`}
+`
+
 const Title = styled.h1`
   ${tw`text-4xl lg:text-4xl font-display text-white mb-2`};
 `
@@ -49,7 +53,7 @@ export const BlogPostTemplate = ({
   const description = `${excerpt} ${tags && tags.join(" ")}`
 
   return (
-    <section>
+    <Container>
       <Helmet>
         {/* https://moz.com/blog/meta-data-templates-123 */}
         <html itemscope itemtype="http://schema.org/Article" />
@@ -90,14 +94,12 @@ export const BlogPostTemplate = ({
         <meta property="article:tag" content={tags.join(" ")} />
       </Helmet>
 
-      <div style={{ maxWidth: "800px" }}>
-        <Image image={image} title={title} />
+      {/* <Image image={image} title={title} /> */}
 
-        <Title>{title}</Title>
+      <Title>{title}</Title>
+      <PostContent content={content} className="markdown" />
 
-        <PostContent content={content} className="markdown" />
-      </div>
-    </section>
+    </Container>
   )
 }
 
